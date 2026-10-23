@@ -1,0 +1,5364 @@
+[
+ {
+  "repo": "Qwen/Qwen3-0.6B",
+  "file": "tokenizer_config.json",
+  "prima": "271af0b2cae7bf641ff37011b6a0af0bc9d0ad5b",
+  "dopo": "e178a197683d44eb9f9037b1483c1e66b04716f5",
+  "data": "2025-04-28T17:25:44.000Z",
+  "byte_prima": 9676,
+  "byte_dopo": 9675,
+  "chiavi_cambiate": [],
+  "chiavi_comportamento": [],
+  "classe": "innocuo"
+ },
+ {
+  "repo": "Qwen/Qwen3-0.6B",
+  "file": "special_tokens_map.json",
+  "prima": "e178a197683d44eb9f9037b1483c1e66b04716f5",
+  "dopo": "a819064c8d306516bf18ef0d2ff3746f5458e81e",
+  "data": "2025-04-28T17:27:15.000Z",
+  "byte_prima": 613,
+  "byte_dopo": null,
+  "chiavi_cambiate": [
+   "additional_special_tokens",
+   "eos_token",
+   "pad_token"
+  ],
+  "chiavi_comportamento": [
+   "additional_special_tokens",
+   "eos_token",
+   "pad_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-0.6B",
+  "file": "tokenizer_config.json",
+  "prima": "a819064c8d306516bf18ef0d2ff3746f5458e81e",
+  "dopo": "16706fc57485378d4ffaf54139b29ccc66ae08fa",
+  "data": "2025-04-28T17:28:23.000Z",
+  "byte_prima": 9675,
+  "byte_dopo": 9676,
+  "chiavi_cambiate": [],
+  "chiavi_comportamento": [],
+  "classe": "innocuo"
+ },
+ {
+  "repo": "Qwen/Qwen3-0.6B",
+  "file": "tokenizer_config.json",
+  "prima": "6130ef31402718485ca4d80a6234f70d9a4cf362",
+  "dopo": "7e4ae267688d671ddfca3122e4528ee980cf3234",
+  "data": "2025-05-19T07:39:20.000Z",
+  "byte_prima": 9676,
+  "byte_dopo": 9732,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "openai-community/gpt2",
+  "file": "generation_config.json",
+  "prima": "75e09b43581151bd1d9ef6700faa605df408979f",
+  "dopo": "0dd7bcc7a64e4350d8859c9a2813132fbf6ae591",
+  "data": "2022-11-18T18:19:30.000Z",
+  "byte_prima": null,
+  "byte_dopo": 94,
+  "chiavi_cambiate": [
+   "bos_token_id",
+   "eos_token_id",
+   "transformers_version"
+  ],
+  "chiavi_comportamento": [
+   "bos_token_id",
+   "eos_token_id"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "openai-community/gpt2",
+  "file": "generation_config.json",
+  "prima": "f27b190eeac4c2302d24068eabf5e9d6044389ae",
+  "dopo": "e7da7f221d5bf496a48136c0cd264e630fe9fcc8",
+  "data": "2022-12-16T15:44:21.000Z",
+  "byte_prima": 94,
+  "byte_dopo": 124,
+  "chiavi_cambiate": [
+   "_from_model_config",
+   "transformers_version"
+  ],
+  "chiavi_comportamento": [],
+  "classe": "innocuo"
+ },
+ {
+  "repo": "openai-community/gpt2",
+  "file": "tokenizer_config.json",
+  "prima": "11c5a3d5811f50298f278a704980280950aedb10",
+  "dopo": "607a30d783dfa663caf39e06633721c8d4cfcd7e",
+  "data": "2024-02-19T10:57:45.000Z",
+  "byte_prima": null,
+  "byte_dopo": 26,
+  "chiavi_cambiate": [
+   "model_max_length"
+  ],
+  "chiavi_comportamento": [],
+  "classe": "innocuo"
+ },
+ {
+  "repo": "Qwen/Qwen3-4B",
+  "file": "special_tokens_map.json",
+  "prima": "396eb121d73607e541aed6c01307386ee506a4ad",
+  "dopo": "7873580e0237d3341b1e4fea3f17f6879791b73c",
+  "data": "2025-04-28T18:14:01.000Z",
+  "byte_prima": 613,
+  "byte_dopo": null,
+  "chiavi_cambiate": [
+   "additional_special_tokens",
+   "eos_token",
+   "pad_token"
+  ],
+  "chiavi_comportamento": [
+   "additional_special_tokens",
+   "eos_token",
+   "pad_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-4B",
+  "file": "tokenizer_config.json",
+  "prima": "82d62bb073771e7a1ea59435f548908540217d1f",
+  "dopo": "8136a03248eac0530d0f630f9a4e21810f9137de",
+  "data": "2025-05-19T07:44:39.000Z",
+  "byte_prima": 9675,
+  "byte_dopo": 9732,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-8B",
+  "file": "special_tokens_map.json",
+  "prima": "f4b2181bec1955d08e99fb58c6ac34fbea536301",
+  "dopo": "e8bbd8252970581ea5b08b6a5b3e668adaf3161a",
+  "data": "2025-04-28T18:20:23.000Z",
+  "byte_prima": 613,
+  "byte_dopo": null,
+  "chiavi_cambiate": [
+   "additional_special_tokens",
+   "eos_token",
+   "pad_token"
+  ],
+  "chiavi_comportamento": [
+   "additional_special_tokens",
+   "eos_token",
+   "pad_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-8B",
+  "file": "tokenizer_config.json",
+  "prima": "2069b3fae1114555f3c020c81410e51fa0f656f2",
+  "dopo": "895c8d171bc03c30e113cd7a28c02494b5e068b7",
+  "data": "2025-05-19T07:46:12.000Z",
+  "byte_prima": 9675,
+  "byte_dopo": 9732,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-14B",
+  "file": "special_tokens_map.json",
+  "prima": "82958e5f417a2b0d583b8cdbf6c2297f662a2de0",
+  "dopo": "1847c182e6a2076ee62b191ca778aea4b951334b",
+  "data": "2025-04-28T17:39:59.000Z",
+  "byte_prima": 613,
+  "byte_dopo": null,
+  "chiavi_cambiate": [
+   "additional_special_tokens",
+   "eos_token",
+   "pad_token"
+  ],
+  "chiavi_comportamento": [
+   "additional_special_tokens",
+   "eos_token",
+   "pad_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-14B",
+  "file": "tokenizer_config.json",
+  "prima": "231c69a380487f6c0e52d02dcf0d5456d1918201",
+  "dopo": "ec3b5103878832857b9e0f6ab32eb37ee5e28e9a",
+  "data": "2025-05-19T07:41:02.000Z",
+  "byte_prima": 9675,
+  "byte_dopo": 9732,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-7B-Instruct",
+  "file": "tokenizer_config.json",
+  "prima": "ddb6b63a3f61ac6c557eb55619b0a5e125129302",
+  "dopo": "929d90a7473be218ae132181708d94dbf08a0420",
+  "data": "2024-09-18T01:42:04.000Z",
+  "byte_prima": 7228,
+  "byte_dopo": 7308,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-7B-Instruct",
+  "file": "tokenizer_config.json",
+  "prima": "52e20a6f5f475e5c8f6a8ebda4ae5fa6b1ea22ac",
+  "dopo": "acbd96531cda22292a3ceaa67e984955d3965282",
+  "data": "2024-09-19T07:30:10.000Z",
+  "byte_prima": 7308,
+  "byte_dopo": 7305,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "openai/gpt-oss-20b",
+  "file": "chat_template.jinja",
+  "prima": "5a5e34ebd2116c2c6062ff22751c357fb7eef0ca",
+  "dopo": "ec854da5735f125fe36f080d8013482590f9ad7d",
+  "data": "2025-08-05T15:40:37.000Z",
+  "byte_prima": 15563,
+  "byte_dopo": 15934,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "openai/gpt-oss-20b",
+  "file": "chat_template.json",
+  "prima": "5a5e34ebd2116c2c6062ff22751c357fb7eef0ca",
+  "dopo": "ec854da5735f125fe36f080d8013482590f9ad7d",
+  "data": "2025-08-05T15:40:37.000Z",
+  "byte_prima": 16336,
+  "byte_dopo": 16721,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "openai/gpt-oss-20b",
+  "file": "chat_template.json",
+  "prima": "bbf09307421df45099c1e7dcbd64e3106ce5b403",
+  "dopo": "ef533c924d202f1bffdd43e1f0593ad7d42484d6",
+  "data": "2025-08-06T16:49:12.000Z",
+  "byte_prima": 16721,
+  "byte_dopo": null,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "openai/gpt-oss-20b",
+  "file": "chat_template.jinja",
+  "prima": "2e8f8052ee2aeee907f76e08c08b9fdde8677ca8",
+  "dopo": "10e9d713f8e4a9281c59c40be6c58537480635ea",
+  "data": "2025-08-07T17:43:45.000Z",
+  "byte_prima": 15934,
+  "byte_dopo": 16738,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "openai/gpt-oss-20b",
+  "file": "chat_template.jinja",
+  "prima": "db6852caddef0cf0c1f729034ed700c84eab376e",
+  "dopo": "cbf31f62664d4b1360b3a78427f7b3c3ed8f0fa8",
+  "data": "2025-08-08T22:46:37.000Z",
+  "byte_prima": 16738,
+  "byte_dopo": 16738,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "openai/gpt-oss-20b",
+  "file": "generation_config.json",
+  "prima": "f4770b2b29499b3906b1615d7bffd717f167201f",
+  "dopo": "d666cf3b67006cf8227666739edf25164aaffdeb",
+  "data": "2025-08-13T23:23:06.000Z",
+  "byte_prima": 165,
+  "byte_dopo": 177,
+  "chiavi_cambiate": [
+   "eos_token_id"
+  ],
+  "chiavi_comportamento": [
+   "eos_token_id"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "facebook/opt-125m",
+  "file": "special_tokens_map.json",
+  "prima": "3bbf6e43107ecc8e2afa89dfde0fa47cdb795312",
+  "dopo": "c29996b834cdfe3797401e7ebe368d58b4f9af61",
+  "data": "2022-05-12T08:56:38.000Z",
+  "byte_prima": 357,
+  "byte_dopo": 441,
+  "chiavi_cambiate": [
+   "bos_token",
+   "eos_token",
+   "pad_token",
+   "unk_token"
+  ],
+  "chiavi_comportamento": [
+   "bos_token",
+   "eos_token",
+   "pad_token",
+   "unk_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "facebook/opt-125m",
+  "file": "tokenizer_config.json",
+  "prima": "3bbf6e43107ecc8e2afa89dfde0fa47cdb795312",
+  "dopo": "c29996b834cdfe3797401e7ebe368d58b4f9af61",
+  "data": "2022-05-12T08:56:38.000Z",
+  "byte_prima": 601,
+  "byte_dopo": 721,
+  "chiavi_cambiate": [
+   "add_bos_token",
+   "bos_token",
+   "eos_token",
+   "name_or_path",
+   "pad_token",
+   "unk_token"
+  ],
+  "chiavi_comportamento": [
+   "add_bos_token",
+   "bos_token",
+   "eos_token",
+   "pad_token",
+   "unk_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "facebook/opt-125m",
+  "file": "tokenizer_config.json",
+  "prima": "fde505dc186de94c62c106b1963a10b3533958b1",
+  "dopo": "04e12f0f0ce9ae1291797ad943acd63cbc609b5b",
+  "data": "2022-05-12T09:44:03.000Z",
+  "byte_prima": 721,
+  "byte_dopo": 721,
+  "chiavi_cambiate": [],
+  "chiavi_comportamento": [],
+  "classe": "innocuo"
+ },
+ {
+  "repo": "facebook/opt-125m",
+  "file": "tokenizer_config.json",
+  "prima": "46941ec8782154759c3f3ce856828179d91f9a5d",
+  "dopo": "1c370c849af40849404742f4d5ce1c2a0f82add2",
+  "data": "2022-05-25T20:19:35.000Z",
+  "byte_prima": 721,
+  "byte_dopo": 685,
+  "chiavi_cambiate": [
+   "tokenizer_class"
+  ],
+  "chiavi_comportamento": [],
+  "classe": "innocuo"
+ },
+ {
+  "repo": "facebook/opt-125m",
+  "file": "generation_config.json",
+  "prima": "934b6a077313f3ee660a918a95313f5d0b136c5a",
+  "dopo": "3d2b5f275bdf882b8775f902e1bfdb790e2cfc32",
+  "data": "2023-01-24T17:10:19.000Z",
+  "byte_prima": null,
+  "byte_dopo": 137,
+  "chiavi_cambiate": [
+   "_from_model_config",
+   "bos_token_id",
+   "eos_token_id",
+   "pad_token_id",
+   "transformers_version"
+  ],
+  "chiavi_comportamento": [
+   "bos_token_id",
+   "eos_token_id",
+   "pad_token_id"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-0.5B-Instruct",
+  "file": "tokenizer_config.json",
+  "prima": "d95514450ad4d12e3801a889a2907919baee6df0",
+  "dopo": "a338b55dd21219a5f4da42bc11a9313d1a27d4cc",
+  "data": "2024-09-18T01:38:51.000Z",
+  "byte_prima": 7228,
+  "byte_dopo": 7308,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-0.5B-Instruct",
+  "file": "tokenizer_config.json",
+  "prima": "f0ef055f4ec271c837b6d52bc7a4a94de0789a57",
+  "dopo": "a8b602d9dafd3a75d382e62757d83d89fca3be54",
+  "data": "2024-09-19T07:29:52.000Z",
+  "byte_prima": 7308,
+  "byte_dopo": 7305,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "deepseek-ai/DeepSeek-V3.2",
+  "file": "generation_config.json",
+  "prima": "205ad63ab5bd85141d55d1dbc6e8d1044eb1567e",
+  "dopo": "c69397ecfd1fd142e90e3fbad51f4c7e40b9f3d3",
+  "data": "2025-12-01T10:47:01.000Z",
+  "byte_prima": 171,
+  "byte_dopo": 171,
+  "chiavi_cambiate": [
+   "temperature"
+  ],
+  "chiavi_comportamento": [
+   "temperature"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-1.5B-Instruct",
+  "file": "tokenizer_config.json",
+  "prima": "582efe62d7cfafd242bffca71ecbde1bcecc1bcc",
+  "dopo": "b9d14db30f3849a06f43e2c7d5d413223919f5ed",
+  "data": "2024-09-18T01:39:57.000Z",
+  "byte_prima": 7228,
+  "byte_dopo": 7308,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-1.5B-Instruct",
+  "file": "tokenizer_config.json",
+  "prima": "2fd50615a2a9792d223eba8e0741aa90ef21a869",
+  "dopo": "5fee7c4ed634dc66c6e318c8ac2897b8b9154536",
+  "data": "2024-09-19T07:29:59.000Z",
+  "byte_prima": 7308,
+  "byte_dopo": 7305,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-1.7B",
+  "file": "special_tokens_map.json",
+  "prima": "7794bc70d4bae176d4792c6cbce61a7fedd43c3e",
+  "dopo": "b9352fbb8ce704292730cf54b3b1dceb2a808738",
+  "data": "2025-04-28T17:48:04.000Z",
+  "byte_prima": 613,
+  "byte_dopo": null,
+  "chiavi_cambiate": [
+   "additional_special_tokens",
+   "eos_token",
+   "pad_token"
+  ],
+  "chiavi_comportamento": [
+   "additional_special_tokens",
+   "eos_token",
+   "pad_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-1.7B",
+  "file": "tokenizer_config.json",
+  "prima": "d3e258980a49b060055ea9038dad99d75923f7c4",
+  "dopo": "0ecc654158dd093daab47fd37c5f122925d93983",
+  "data": "2025-05-19T07:40:08.000Z",
+  "byte_prima": 9675,
+  "byte_dopo": 9732,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "deepseek-ai/DeepSeek-V4-Flash-0731",
+  "file": "generation_config.json",
+  "prima": "7da4bfdd329d1baa9e18691121327b082e809454",
+  "dopo": "9e165c30e2704aec5d9d593cce3eebd58bbef1cb",
+  "data": "2026-07-31T12:02:14.000Z",
+  "byte_prima": null,
+  "byte_dopo": 170,
+  "chiavi_cambiate": [
+   "_from_model_config",
+   "bos_token_id",
+   "do_sample",
+   "eos_token_id",
+   "temperature",
+   "top_p",
+   "transformers_version"
+  ],
+  "chiavi_comportamento": [
+   "bos_token_id",
+   "do_sample",
+   "eos_token_id",
+   "temperature",
+   "top_p"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "deepseek-ai/DeepSeek-V4-Flash-0731",
+  "file": "tokenizer_config.json",
+  "prima": "7da4bfdd329d1baa9e18691121327b082e809454",
+  "dopo": "9e165c30e2704aec5d9d593cce3eebd58bbef1cb",
+  "data": "2026-07-31T12:02:14.000Z",
+  "byte_prima": null,
+  "byte_dopo": 801,
+  "chiavi_cambiate": [
+   "add_bos_token",
+   "add_eos_token",
+   "bos_token",
+   "clean_up_tokenization_spaces",
+   "eos_token",
+   "legacy",
+   "model_max_length",
+   "pad_token",
+   "sp_model_kwargs",
+   "tokenizer_class"
+  ],
+  "chiavi_comportamento": [
+   "add_bos_token",
+   "add_eos_token",
+   "bos_token",
+   "eos_token",
+   "pad_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-3B-Instruct",
+  "file": "tokenizer_config.json",
+  "prima": "bd0312c023e161eeeb6e000c4a8b9f5b6fe72ccd",
+  "dopo": "9fbe4b579dd1096693a521a055df1472cbb211bf",
+  "data": "2024-09-18T01:40:42.000Z",
+  "byte_prima": 7228,
+  "byte_dopo": 7308,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-3B-Instruct",
+  "file": "tokenizer_config.json",
+  "prima": "59188fd39de23c5f8043ba6d2e1d83ebd87fc278",
+  "dopo": "82f42baa094a9600e39ccd80d34058aeeb3abbc1",
+  "data": "2024-09-19T07:30:05.000Z",
+  "byte_prima": 7308,
+  "byte_dopo": 7305,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "trl-internal-testing/tiny-Qwen2ForCausalLM-2.5",
+  "file": "special_tokens_map.json",
+  "prima": "271d698aaba1c343f288f083618cf5f7c23a96d1",
+  "dopo": "e5161534f50cfbebe5d7da17050ccda3c1b2dd82",
+  "data": "2024-11-25T15:06:17.000Z",
+  "byte_prima": null,
+  "byte_dopo": 613,
+  "chiavi_cambiate": [
+   "additional_special_tokens",
+   "eos_token",
+   "pad_token"
+  ],
+  "chiavi_comportamento": [
+   "additional_special_tokens",
+   "eos_token",
+   "pad_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "trl-internal-testing/tiny-Qwen2ForCausalLM-2.5",
+  "file": "tokenizer_config.json",
+  "prima": "271d698aaba1c343f288f083618cf5f7c23a96d1",
+  "dopo": "e5161534f50cfbebe5d7da17050ccda3c1b2dd82",
+  "data": "2024-11-25T15:06:17.000Z",
+  "byte_prima": null,
+  "byte_dopo": 7336,
+  "chiavi_cambiate": [
+   "add_bos_token",
+   "add_prefix_space",
+   "added_tokens_decoder",
+   "additional_special_tokens",
+   "chat_template",
+   "clean_up_tokenization_spaces",
+   "eos_token",
+   "errors",
+   "extra_special_tokens",
+   "model_max_length",
+   "pad_token",
+   "split_special_tokens",
+   "tokenizer_class"
+  ],
+  "chiavi_comportamento": [
+   "add_bos_token",
+   "added_tokens_decoder",
+   "additional_special_tokens",
+   "chat_template",
+   "eos_token",
+   "pad_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "trl-internal-testing/tiny-Qwen2ForCausalLM-2.5",
+  "file": "chat_template.jinja",
+  "prima": "6cee29cc49b4932e8eef091a2904ee90a8cbe46a",
+  "dopo": "8913f581956675bf74143b279ecbc7e08431d1ac",
+  "data": "2025-06-14T17:34:57.000Z",
+  "byte_prima": null,
+  "byte_dopo": 2558,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "trl-internal-testing/tiny-Qwen2ForCausalLM-2.5",
+  "file": "tokenizer_config.json",
+  "prima": "6cee29cc49b4932e8eef091a2904ee90a8cbe46a",
+  "dopo": "8913f581956675bf74143b279ecbc7e08431d1ac",
+  "data": "2025-06-14T17:34:57.000Z",
+  "byte_prima": 7336,
+  "byte_dopo": 4686,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "trl-internal-testing/tiny-Qwen2ForCausalLM-2.5",
+  "file": "chat_template.jinja",
+  "prima": "8913f581956675bf74143b279ecbc7e08431d1ac",
+  "dopo": "942bbf31e5ade328b6f16121fd6ed98f6f92c12f",
+  "data": "2025-06-14T17:55:06.000Z",
+  "byte_prima": 2558,
+  "byte_dopo": 2559,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "trl-internal-testing/tiny-Qwen2ForCausalLM-2.5",
+  "file": "chat_template.jinja",
+  "prima": "942bbf31e5ade328b6f16121fd6ed98f6f92c12f",
+  "dopo": "abfa10439d84df1b4c9412a0bb81e8f238b7d220",
+  "data": "2025-06-14T17:57:35.000Z",
+  "byte_prima": 2559,
+  "byte_dopo": 2559,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "trl-internal-testing/tiny-Qwen2ForCausalLM-2.5",
+  "file": "chat_template.jinja",
+  "prima": "54f7fa53478d2f29600237cd1a3c5b79cd7c35b0",
+  "dopo": "74125628f9f276254b5ca4388dbcba3dec0dc473",
+  "data": "2025-06-14T18:03:34.000Z",
+  "byte_prima": 2559,
+  "byte_dopo": 2507,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "trl-internal-testing/tiny-Qwen2ForCausalLM-2.5",
+  "file": "generation_config.json",
+  "prima": "564a515d11d0645b4372c166031e1c85f481265e",
+  "dopo": "9ed7a8a982a6d8492b7e6b6b9eae7019b127e6ea",
+  "data": "2025-12-09T04:40:11.000Z",
+  "byte_prima": 69,
+  "byte_dopo": 243,
+  "chiavi_cambiate": [
+   "_from_model_config",
+   "bos_token_id",
+   "do_sample",
+   "eos_token_id",
+   "pad_token_id",
+   "repetition_penalty",
+   "temperature",
+   "top_k",
+   "top_p"
+  ],
+  "chiavi_comportamento": [
+   "bos_token_id",
+   "do_sample",
+   "eos_token_id",
+   "pad_token_id",
+   "repetition_penalty",
+   "temperature",
+   "top_k",
+   "top_p"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "trl-internal-testing/tiny-Qwen2ForCausalLM-2.5",
+  "file": "generation_config.json",
+  "prima": "f56c2fbf7fabc03ffff3494d3c2f8d06c774493d",
+  "dopo": "4b10ebee6e13a2669155516652960f50984399fd",
+  "data": "2025-12-19T19:10:57.000Z",
+  "byte_prima": 69,
+  "byte_dopo": 243,
+  "chiavi_cambiate": [
+   "_from_model_config",
+   "bos_token_id",
+   "do_sample",
+   "eos_token_id",
+   "pad_token_id",
+   "repetition_penalty",
+   "temperature",
+   "top_k",
+   "top_p"
+  ],
+  "chiavi_comportamento": [
+   "bos_token_id",
+   "do_sample",
+   "eos_token_id",
+   "pad_token_id",
+   "repetition_penalty",
+   "temperature",
+   "top_k",
+   "top_p"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "EleutherAI/pythia-160m",
+  "file": "special_tokens_map.json",
+  "prima": "64a5b916d3125feb67ecc0742ca36313ad32f005",
+  "dopo": "7e30bb881aae77fa227e1a26960b34c253698bb4",
+  "data": "2023-04-03T18:39:03.000Z",
+  "byte_prima": 3,
+  "byte_dopo": 99,
+  "chiavi_cambiate": [
+   "bos_token",
+   "eos_token",
+   "unk_token"
+  ],
+  "chiavi_comportamento": [
+   "bos_token",
+   "eos_token",
+   "unk_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "EleutherAI/pythia-160m",
+  "file": "tokenizer_config.json",
+  "prima": "521f765c954ec60d951722bad350c6e89016715e",
+  "dopo": "4560d92fe0f8aafcf0839d845eec2c4f088f2496",
+  "data": "2023-04-03T18:39:04.000Z",
+  "byte_prima": 51,
+  "byte_dopo": 396,
+  "chiavi_cambiate": [
+   "add_prefix_space",
+   "bos_token",
+   "eos_token",
+   "name_or_path",
+   "special_tokens_map_file",
+   "tokenizer_class",
+   "unk_token"
+  ],
+  "chiavi_comportamento": [
+   "bos_token",
+   "eos_token",
+   "unk_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "openai/gpt-oss-120b",
+  "file": "chat_template.jinja",
+  "prima": "ed282e66b414f4e05b8999ef7a9a24e05478b2fd",
+  "dopo": "f39accdb091b6c5710dbbf02674c27064e35019b",
+  "data": "2025-08-05T15:45:04.000Z",
+  "byte_prima": 15563,
+  "byte_dopo": 15934,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "openai/gpt-oss-120b",
+  "file": "chat_template.json",
+  "prima": "ed282e66b414f4e05b8999ef7a9a24e05478b2fd",
+  "dopo": "f39accdb091b6c5710dbbf02674c27064e35019b",
+  "data": "2025-08-05T15:45:04.000Z",
+  "byte_prima": 16336,
+  "byte_dopo": 16721,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "openai/gpt-oss-120b",
+  "file": "chat_template.json",
+  "prima": "4c0fa49a43c232dc2a1cae033ae1fb7961cf8220",
+  "dopo": "eabf0c518da7584a2e7dab4ab272709785a72126",
+  "data": "2025-08-06T16:49:21.000Z",
+  "byte_prima": 16721,
+  "byte_dopo": null,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "openai/gpt-oss-120b",
+  "file": "chat_template.jinja",
+  "prima": "eabf0c518da7584a2e7dab4ab272709785a72126",
+  "dopo": "988e56b6fc3c723ad30aa7f18db742f54f921567",
+  "data": "2025-08-07T17:43:56.000Z",
+  "byte_prima": 15934,
+  "byte_dopo": 16738,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "openai/gpt-oss-120b",
+  "file": "chat_template.jinja",
+  "prima": "ef8a86a06adaab9e3a0d0ef7b5fd2c868bd4ab9b",
+  "dopo": "bc75b44b8a2a116a0e4c6659bcd1b7969885f423",
+  "data": "2025-08-08T22:46:29.000Z",
+  "byte_prima": 16738,
+  "byte_dopo": 16738,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "openai/gpt-oss-120b",
+  "file": "generation_config.json",
+  "prima": "5c98b884d1979f5d6f2b0cb787793dc09b037cfe",
+  "dopo": "8b193b0ef83bd41b40eb71fee8f1432315e02a3e",
+  "data": "2025-08-13T23:23:29.000Z",
+  "byte_prima": 165,
+  "byte_dopo": 177,
+  "chiavi_cambiate": [
+   "eos_token_id"
+  ],
+  "chiavi_comportamento": [
+   "eos_token_id"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-32B",
+  "file": "special_tokens_map.json",
+  "prima": "e3a3f59b0423be17f9582d1755fd3d5449b31a1f",
+  "dopo": "be2f1141516f604563b2d6e977e6c49fef3d53cb",
+  "data": "2025-04-28T18:03:46.000Z",
+  "byte_prima": 613,
+  "byte_dopo": null,
+  "chiavi_cambiate": [
+   "additional_special_tokens",
+   "eos_token",
+   "pad_token"
+  ],
+  "chiavi_comportamento": [
+   "additional_special_tokens",
+   "eos_token",
+   "pad_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-32B",
+  "file": "tokenizer_config.json",
+  "prima": "30b8421510892303dc5ddd6cd0ac90ca2053478d",
+  "dopo": "a09d5ccb54a84a572fcde9e54da24ec6e5a4b4a2",
+  "data": "2025-05-19T07:43:51.000Z",
+  "byte_prima": 9676,
+  "byte_dopo": 9732,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-4B-Instruct-2507",
+  "file": "tokenizer_config.json",
+  "prima": "eb25fbe4f35f7147763bc24445679d1c00588d89",
+  "dopo": "cdbee75f17c01a7cc42f958dc650907174af0554",
+  "data": "2025-09-17T06:56:53.000Z",
+  "byte_prima": 10824,
+  "byte_dopo": 9377,
+  "chiavi_cambiate": [
+   "chat_template",
+   "model_max_length"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-14B-AWQ",
+  "file": "generation_config.json",
+  "prima": "505404f7493a0dd80e6e3c52bf18f66710df710f",
+  "dopo": "bac7b87017e34938f468b4ba40b49247c83fa44a",
+  "data": "2025-05-01T14:28:28.000Z",
+  "byte_prima": 142,
+  "byte_dopo": 239,
+  "chiavi_cambiate": [
+   "_from_model_config",
+   "bos_token_id",
+   "eos_token_id",
+   "temperature",
+   "top_k",
+   "top_p",
+   "transformers_version"
+  ],
+  "chiavi_comportamento": [
+   "bos_token_id",
+   "eos_token_id",
+   "temperature",
+   "top_k",
+   "top_p"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-14B-AWQ",
+  "file": "tokenizer_config.json",
+  "prima": "505404f7493a0dd80e6e3c52bf18f66710df710f",
+  "dopo": "bac7b87017e34938f468b4ba40b49247c83fa44a",
+  "data": "2025-05-01T14:28:28.000Z",
+  "byte_prima": 9706,
+  "byte_dopo": 9676,
+  "chiavi_cambiate": [
+   "extra_special_tokens"
+  ],
+  "chiavi_comportamento": [],
+  "classe": "innocuo"
+ },
+ {
+  "repo": "Qwen/Qwen3-14B-AWQ",
+  "file": "special_tokens_map.json",
+  "prima": "7d5ae857c276cf42a3476ebcbce890086d1fcecb",
+  "dopo": "61e595dd0f1d14ab66971afd636f3632b6a8b2bd",
+  "data": "2025-05-01T14:36:40.000Z",
+  "byte_prima": 613,
+  "byte_dopo": null,
+  "chiavi_cambiate": [
+   "additional_special_tokens",
+   "eos_token",
+   "pad_token"
+  ],
+  "chiavi_comportamento": [
+   "additional_special_tokens",
+   "eos_token",
+   "pad_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-14B-AWQ",
+  "file": "tokenizer_config.json",
+  "prima": "55182c306332ddb9f47ade5de8d8fdb53b8bcb03",
+  "dopo": "1a6fe1ecf891437a270cce11ad54d796c4f56ce0",
+  "data": "2025-05-19T07:41:24.000Z",
+  "byte_prima": 9676,
+  "byte_dopo": 9732,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-8B-AWQ",
+  "file": "generation_config.json",
+  "prima": "257e300a6fb456d1b4629cd555a45e10de80a081",
+  "dopo": "c664f5e955c33186a8b7a5cf0cbc3b220e4afdd4",
+  "data": "2025-05-03T12:31:05.000Z",
+  "byte_prima": 142,
+  "byte_dopo": 239,
+  "chiavi_cambiate": [
+   "_from_model_config",
+   "bos_token_id",
+   "eos_token_id",
+   "temperature",
+   "top_k",
+   "top_p",
+   "transformers_version"
+  ],
+  "chiavi_comportamento": [
+   "bos_token_id",
+   "eos_token_id",
+   "temperature",
+   "top_k",
+   "top_p"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-8B-AWQ",
+  "file": "tokenizer_config.json",
+  "prima": "257e300a6fb456d1b4629cd555a45e10de80a081",
+  "dopo": "c664f5e955c33186a8b7a5cf0cbc3b220e4afdd4",
+  "data": "2025-05-03T12:31:05.000Z",
+  "byte_prima": 8311,
+  "byte_dopo": 9676,
+  "chiavi_cambiate": [
+   "chat_template",
+   "extra_special_tokens"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-8B-AWQ",
+  "file": "tokenizer_config.json",
+  "prima": "9e07647a76edf7424dfe621814b6a1fe8fc54d4a",
+  "dopo": "4a2d74b63371c8cd724aa15dc5efbd329b16f573",
+  "data": "2025-05-19T07:46:28.000Z",
+  "byte_prima": 9676,
+  "byte_dopo": 9732,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-7B-Instruct-AWQ",
+  "file": "tokenizer_config.json",
+  "prima": "8f3683358cd28ec435e568e03d425e051afec70a",
+  "dopo": "617b26a2e255b3d75afdfd7f390e7df70b00167c",
+  "data": "2024-09-19T07:30:15.000Z",
+  "byte_prima": 7307,
+  "byte_dopo": 7305,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "zai-org/GLM-5.3",
+  "file": "chat_template.jinja",
+  "prima": "5bcee3f9f669b22ab60ee24d0b28cb7eb975315d",
+  "dopo": "aca966e4e02791568aa6a4ced368624b3d897f42",
+  "data": "2026-09-04T06:41:23.000Z",
+  "byte_prima": 10465,
+  "byte_dopo": 10734,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "zai-org/GLM-5.3",
+  "file": "chat_template.jinja",
+  "prima": "c5087a76d148760811ffbdedfe6ff9f194e46e38",
+  "dopo": "ba32f8c19c8738e2c57c71798c601d477a7bf844",
+  "data": "2026-10-14T12:22:48.000Z",
+  "byte_prima": 10734,
+  "byte_dopo": 10614,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "distilbert/distilgpt2",
+  "file": "generation_config.json",
+  "prima": "a748e05a63fae0d26239b9684b103cfed4ea3fb7",
+  "dopo": "f241065e938b44ac52db2c5de82c8bd2fafc76d0",
+  "data": "2023-01-24T13:57:50.000Z",
+  "byte_prima": null,
+  "byte_dopo": 124,
+  "chiavi_cambiate": [
+   "_from_model_config",
+   "bos_token_id",
+   "eos_token_id",
+   "transformers_version"
+  ],
+  "chiavi_comportamento": [
+   "bos_token_id",
+   "eos_token_id"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "distilbert/distilgpt2",
+  "file": "tokenizer_config.json",
+  "prima": "38cc92ec43315abd5136313225e95acc5986876c",
+  "dopo": "2290a62682d06624634c1f46a6ad5be0f47f38aa",
+  "data": "2024-02-19T11:09:53.000Z",
+  "byte_prima": null,
+  "byte_dopo": 26,
+  "chiavi_cambiate": [
+   "model_max_length"
+  ],
+  "chiavi_comportamento": [],
+  "classe": "innocuo"
+ },
+ {
+  "repo": "HuggingFaceTB/SmolLM2-135M",
+  "file": "special_tokens_map.json",
+  "prima": "d6a5589c239236d22370e2126bbe23d4843c47d9",
+  "dopo": "ab35b5b1fb9c7741047773b0305ccabe7ab93511",
+  "data": "2024-10-31T00:46:37.000Z",
+  "byte_prima": null,
+  "byte_dopo": 831,
+  "chiavi_cambiate": [
+   "additional_special_tokens",
+   "bos_token",
+   "eos_token",
+   "unk_token"
+  ],
+  "chiavi_comportamento": [
+   "additional_special_tokens",
+   "bos_token",
+   "eos_token",
+   "unk_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "HuggingFaceTB/SmolLM2-135M",
+  "file": "tokenizer_config.json",
+  "prima": "d6a5589c239236d22370e2126bbe23d4843c47d9",
+  "dopo": "ab35b5b1fb9c7741047773b0305ccabe7ab93511",
+  "data": "2024-10-31T00:46:37.000Z",
+  "byte_prima": null,
+  "byte_dopo": 3658,
+  "chiavi_cambiate": [
+   "add_prefix_space",
+   "added_tokens_decoder",
+   "additional_special_tokens",
+   "bos_token",
+   "clean_up_tokenization_spaces",
+   "eos_token",
+   "model_max_length",
+   "tokenizer_class",
+   "unk_token",
+   "vocab_size"
+  ],
+  "chiavi_comportamento": [
+   "added_tokens_decoder",
+   "additional_special_tokens",
+   "bos_token",
+   "eos_token",
+   "unk_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "mistralai/Mistral-7B-Instruct-v0.2",
+  "file": "tokenizer_config.json",
+  "prima": "41b61a33a2483885c981aa79e0df6b32407ed873",
+  "dopo": "1296dc8fd9b21e6424c9c305c06db9ae60c03ace",
+  "data": "2024-06-20T15:54:21.000Z",
+  "byte_prima": 1460,
+  "byte_dopo": 1466,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "mistralai/Mistral-7B-Instruct-v0.2",
+  "file": "special_tokens_map.json",
+  "prima": "99259002b41e116d28ccb2d04a9fbe22baed0c7f",
+  "dopo": "250544c9a802b0396550d0fd24bc80ff98bb1f5f",
+  "data": "2024-07-03T22:10:26.000Z",
+  "byte_prima": 72,
+  "byte_dopo": 414,
+  "chiavi_cambiate": [
+   "bos_token",
+   "eos_token",
+   "unk_token"
+  ],
+  "chiavi_comportamento": [
+   "bos_token",
+   "eos_token",
+   "unk_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "mistralai/Mistral-7B-Instruct-v0.2",
+  "file": "tokenizer_config.json",
+  "prima": "99259002b41e116d28ccb2d04a9fbe22baed0c7f",
+  "dopo": "250544c9a802b0396550d0fd24bc80ff98bb1f5f",
+  "data": "2024-07-03T22:10:26.000Z",
+  "byte_prima": 1466,
+  "byte_dopo": 2103,
+  "chiavi_cambiate": [
+   "chat_template",
+   "legacy"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-Coder-14B-Instruct",
+  "file": "generation_config.json",
+  "prima": "1a62978099f9b19f72fdd191988ff958abb18561",
+  "dopo": "ec98bf0d6c087dca5ef19ee8a10f345c3cd3e0fb",
+  "data": "2024-11-18T12:54:35.000Z",
+  "byte_prima": 242,
+  "byte_dopo": 243,
+  "chiavi_cambiate": [
+   "transformers_version"
+  ],
+  "chiavi_comportamento": [],
+  "classe": "innocuo"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-Coder-14B-Instruct",
+  "file": "tokenizer_config.json",
+  "prima": "1a62978099f9b19f72fdd191988ff958abb18561",
+  "dopo": "ec98bf0d6c087dca5ef19ee8a10f345c3cd3e0fb",
+  "data": "2024-11-18T12:54:35.000Z",
+  "byte_prima": 7305,
+  "byte_dopo": 7306,
+  "chiavi_cambiate": [],
+  "chiavi_comportamento": [],
+  "classe": "innocuo"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-Coder-14B-Instruct",
+  "file": "tokenizer_config.json",
+  "prima": "ec98bf0d6c087dca5ef19ee8a10f345c3cd3e0fb",
+  "dopo": "7fc9a75b07a3f8f325985b8a10af2e73d7cd63c3",
+  "data": "2024-11-18T13:04:23.000Z",
+  "byte_prima": 7306,
+  "byte_dopo": 7305,
+  "chiavi_cambiate": [
+   "model_max_length"
+  ],
+  "chiavi_comportamento": [],
+  "classe": "innocuo"
+ },
+ {
+  "repo": "nvidia/NVIDIA-Nemotron-3-Nano-4B-BF16",
+  "file": "generation_config.json",
+  "prima": "1a2846c1d6817723f62f3aa8a9fee436d1c32cde",
+  "dopo": "b1ac4a3f7049cc760ad2e893d95f63174b4af89e",
+  "data": "2026-03-16T16:41:07.000Z",
+  "byte_prima": 132,
+  "byte_dopo": 171,
+  "chiavi_cambiate": [
+   "temperature",
+   "top_p"
+  ],
+  "chiavi_comportamento": [
+   "temperature",
+   "top_p"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "nvidia/NVIDIA-Nemotron-3-Nano-4B-BF16",
+  "file": "tokenizer_config.json",
+  "prima": "08f51f1d26ad9d7d333bfdae07b38d731decd746",
+  "dopo": "dfaf35de3e30f1867dd8dbc38a7fc9fb52d3914f",
+  "data": "2026-03-20T20:50:41.000Z",
+  "byte_prima": 177180,
+  "byte_dopo": 188034,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-Coder-7B-Instruct",
+  "file": "tokenizer_config.json",
+  "prima": "6ab006b7202ec68b6df47693b5c3003998dc3124",
+  "dopo": "8d20e2b046afe44cb4f759cff10574b995c0ddb8",
+  "data": "2024-09-18T03:28:39.000Z",
+  "byte_prima": 7228,
+  "byte_dopo": 7308,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-Coder-7B-Instruct",
+  "file": "tokenizer_config.json",
+  "prima": "686220118f733b5fe32992d02604a41f3a45b585",
+  "dopo": "0b044f5762b0be9c48fc2b7bc216454c5eff0bb8",
+  "data": "2024-09-19T07:30:44.000Z",
+  "byte_prima": 7308,
+  "byte_dopo": 7305,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-Coder-7B-Instruct",
+  "file": "generation_config.json",
+  "prima": "4bbe56d41897ba0fff8b3c9cd18cc56b8a23bbc8",
+  "dopo": "0eb6b1ed2d0c4306bc637d09ecef51e59d3dfe05",
+  "data": "2024-11-18T12:54:07.000Z",
+  "byte_prima": 243,
+  "byte_dopo": 242,
+  "chiavi_cambiate": [
+   "transformers_version"
+  ],
+  "chiavi_comportamento": [],
+  "classe": "innocuo"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-Coder-7B-Instruct",
+  "file": "tokenizer_config.json",
+  "prima": "4bbe56d41897ba0fff8b3c9cd18cc56b8a23bbc8",
+  "dopo": "0eb6b1ed2d0c4306bc637d09ecef51e59d3dfe05",
+  "data": "2024-11-18T12:54:07.000Z",
+  "byte_prima": 7305,
+  "byte_dopo": 7305,
+  "chiavi_cambiate": [
+   "model_max_length"
+  ],
+  "chiavi_comportamento": [],
+  "classe": "innocuo"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-14B-Instruct-AWQ",
+  "file": "tokenizer_config.json",
+  "prima": "6ee799b729769cba4e9b978195cdeca5d65ed4d2",
+  "dopo": "15caf3706c437f72fe4a0b64b4aee94b5e823e9c",
+  "data": "2024-09-19T07:30:22.000Z",
+  "byte_prima": 7307,
+  "byte_dopo": 7305,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "EleutherAI/pythia-70m-deduped",
+  "file": "special_tokens_map.json",
+  "prima": "178954fa38aac2286a4216f7a3b2c155cdfa0ac8",
+  "dopo": "04642c6709e63bc6ecc6df1c1e5f70d1c103ac48",
+  "data": "2023-04-03T18:41:07.000Z",
+  "byte_prima": null,
+  "byte_dopo": 99,
+  "chiavi_cambiate": [
+   "bos_token",
+   "eos_token",
+   "unk_token"
+  ],
+  "chiavi_comportamento": [
+   "bos_token",
+   "eos_token",
+   "unk_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-4B-Instruct-2507-FP8",
+  "file": "tokenizer_config.json",
+  "prima": "28b78bdb754a2a779208030433ca495f35d1ce34",
+  "dopo": "8591804019c8b22094c3b5b4454e0edc05dffc98",
+  "data": "2025-09-17T06:57:02.000Z",
+  "byte_prima": 10824,
+  "byte_dopo": 9377,
+  "chiavi_cambiate": [
+   "chat_template",
+   "model_max_length"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-32B-Instruct",
+  "file": "tokenizer_config.json",
+  "prima": "7813703b75d0391847610f0c843a6654b94a0363",
+  "dopo": "a7e76d7ea0d64956a3238b461efa58a47f77c8b3",
+  "data": "2024-09-18T01:45:12.000Z",
+  "byte_prima": 7228,
+  "byte_dopo": 7308,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-32B-Instruct",
+  "file": "tokenizer_config.json",
+  "prima": "afb2829595f63efa3548e9d6b13aa66e61aa0f38",
+  "dopo": "70e8dfb9ad18a7d499f765fe206ff065ed8ca197",
+  "data": "2024-09-19T07:30:25.000Z",
+  "byte_prima": 7308,
+  "byte_dopo": 7305,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "openbmb/MiniCPM5-2B",
+  "file": "chat_template.jinja",
+  "prima": "12a3808a956f869c767195e9266b59c4d21d92e2",
+  "dopo": "f97400052a43d642bbc6e9975e2397e3ae6a6b52",
+  "data": "2026-09-29T06:12:33.000Z",
+  "byte_prima": 9060,
+  "byte_dopo": 5435,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "deepseek-ai/DeepSeek-R1",
+  "file": "generation_config.json",
+  "prima": "5a56bdbde75a16bdfbf3a8e9c852be3dfcfb8eef",
+  "dopo": "ebc477ae6dc22c217b3b3990effcab0112a67273",
+  "data": "2025-01-21T03:53:22.000Z",
+  "byte_prima": null,
+  "byte_dopo": 171,
+  "chiavi_cambiate": [
+   "_from_model_config",
+   "bos_token_id",
+   "do_sample",
+   "eos_token_id",
+   "temperature",
+   "top_p",
+   "transformers_version"
+  ],
+  "chiavi_comportamento": [
+   "bos_token_id",
+   "do_sample",
+   "eos_token_id",
+   "temperature",
+   "top_p"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "deepseek-ai/DeepSeek-R1",
+  "file": "tokenizer_config.json",
+  "prima": "f7361cd9ff99396dbf6bd644ad846015e59ed4fc",
+  "dopo": "8a58a132790c9935686eb97f042afa8013451c9f",
+  "data": "2025-02-09T06:34:11.000Z",
+  "byte_prima": 3584,
+  "byte_dopo": 3594,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",
+  "file": "generation_config.json",
+  "prima": "aa76ddcab7458768b5441d9008b31fc32ed070b3",
+  "dopo": "73d63fa6f97d4285b49bdbedf6a161ceba1e55ad",
+  "data": "2025-01-21T03:54:00.000Z",
+  "byte_prima": null,
+  "byte_dopo": 181,
+  "chiavi_cambiate": [
+   "_from_model_config",
+   "bos_token_id",
+   "do_sample",
+   "eos_token_id",
+   "temperature",
+   "top_p",
+   "transformers_version"
+  ],
+  "chiavi_comportamento": [
+   "bos_token_id",
+   "do_sample",
+   "eos_token_id",
+   "temperature",
+   "top_p"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",
+  "file": "tokenizer_config.json",
+  "prima": "6393b7559e403fd1d80bfead361586fd6f630a4d",
+  "dopo": "530ca3e1ad39d440e182c2e4317aa40f012512fa",
+  "data": "2025-02-09T06:34:28.000Z",
+  "byte_prima": 3061,
+  "byte_dopo": 3071,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-0.5B",
+  "file": "tokenizer_config.json",
+  "prima": "b937cc073b55e980e6f21d5f8b7a77818efcf0eb",
+  "dopo": "74e0d9cfa1ba6f779d35f63aeb6cea7511937269",
+  "data": "2024-09-16T11:23:53.000Z",
+  "byte_prima": 5012,
+  "byte_dopo": 7228,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-0.5B",
+  "file": "tokenizer_config.json",
+  "prima": "f571523e3833bceabbd88aa302245f6bf0445177",
+  "dopo": "2630d3d2321bc1f1878f702166d1b2af019a7310",
+  "data": "2024-09-19T07:29:50.000Z",
+  "byte_prima": 7228,
+  "byte_dopo": 7225,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-0.5B",
+  "file": "tokenizer_config.json",
+  "prima": "2630d3d2321bc1f1878f702166d1b2af019a7310",
+  "dopo": "7b382a7278a945cf842898802dd4d862d54c513f",
+  "data": "2024-09-20T07:57:57.000Z",
+  "byte_prima": 7225,
+  "byte_dopo": 7228,
+  "chiavi_cambiate": [
+   "eos_token"
+  ],
+  "chiavi_comportamento": [
+   "eos_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "HuggingFaceTB/SmolLM2-135M-Instruct",
+  "file": "tokenizer_config.json",
+  "prima": "c369d07e8e4c5b825466d13a28b6d8800656c343",
+  "dopo": "eba0825ddc7730d24a88685a6c0a078cf919b383",
+  "data": "2024-10-31T18:03:27.000Z",
+  "byte_prima": 3590,
+  "byte_dopo": 3764,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "HuggingFaceTB/SmolLM2-135M-Instruct",
+  "file": "tokenizer_config.json",
+  "prima": "45dead349c328fe92a861c5162de28c8c86754e1",
+  "dopo": "9a66ea6ac76f436080ad0be87c98f751bbbc23a3",
+  "data": "2025-01-07T16:14:49.000Z",
+  "byte_prima": 3764,
+  "byte_dopo": 3764,
+  "chiavi_cambiate": [
+   "model_max_length"
+  ],
+  "chiavi_comportamento": [],
+  "classe": "innocuo"
+ },
+ {
+  "repo": "nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16",
+  "file": "chat_template.jinja",
+  "prima": "4a31ff1b4fdffee9cba50ce7844ac6708e1a485f",
+  "dopo": "4fed69b4f37cde78542ef42c69bc567ddca0d645",
+  "data": "2025-12-15T09:57:14.000Z",
+  "byte_prima": 10843,
+  "byte_dopo": 10504,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16",
+  "file": "tokenizer_config.json",
+  "prima": "4a31ff1b4fdffee9cba50ce7844ac6708e1a485f",
+  "dopo": "4fed69b4f37cde78542ef42c69bc567ddca0d645",
+  "data": "2025-12-15T09:57:14.000Z",
+  "byte_prima": 188397,
+  "byte_dopo": 188049,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8",
+  "file": "generation_config.json",
+  "prima": "3e3d2d849dab9d323d2d0355604bb54e20547be0",
+  "dopo": "d8df4ca2367d9fa65e4cefc0ef44fcc6ed2f6565",
+  "data": "2025-07-31T08:30:02.000Z",
+  "byte_prima": 95,
+  "byte_dopo": 180,
+  "chiavi_cambiate": [
+   "_from_model_config",
+   "do_sample",
+   "eos_token_id",
+   "pad_token_id",
+   "repetition_penalty",
+   "temperature",
+   "top_k",
+   "top_p",
+   "transformers_version"
+  ],
+  "chiavi_comportamento": [
+   "do_sample",
+   "eos_token_id",
+   "pad_token_id",
+   "repetition_penalty",
+   "temperature",
+   "top_k",
+   "top_p"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8",
+  "file": "tokenizer_config.json",
+  "prima": "b771c46af0ca185345753e6f973a4ce2b74205f0",
+  "dopo": "acc0a21828d8d3483ddd1ce54d2e98a89ca80309",
+  "data": "2025-08-07T07:04:49.000Z",
+  "byte_prima": 12404,
+  "byte_dopo": 11713,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8",
+  "file": "chat_template.jinja",
+  "prima": "acc0a21828d8d3483ddd1ce54d2e98a89ca80309",
+  "dopo": "e8ab3f2db9e388999a004eea5a31c16a8b517bc0",
+  "data": "2025-08-21T10:22:22.000Z",
+  "byte_prima": null,
+  "byte_dopo": 6211,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8",
+  "file": "tokenizer_config.json",
+  "prima": "acc0a21828d8d3483ddd1ce54d2e98a89ca80309",
+  "dopo": "e8ab3f2db9e388999a004eea5a31c16a8b517bc0",
+  "data": "2025-08-21T10:22:22.000Z",
+  "byte_prima": 11713,
+  "byte_dopo": 13055,
+  "chiavi_cambiate": [
+   "chat_template",
+   "extra_special_tokens"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-30B-A3B",
+  "file": "special_tokens_map.json",
+  "prima": "5f4c806cc519fb8bb64c719fbc6d0d73eee6b2c7",
+  "dopo": "876f22dd0d8eb57ab91892bfb3c558889897651b",
+  "data": "2025-04-28T18:00:17.000Z",
+  "byte_prima": 613,
+  "byte_dopo": null,
+  "chiavi_cambiate": [
+   "additional_special_tokens",
+   "eos_token",
+   "pad_token"
+  ],
+  "chiavi_comportamento": [
+   "additional_special_tokens",
+   "eos_token",
+   "pad_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-30B-A3B",
+  "file": "tokenizer_config.json",
+  "prima": "4c446470ba0aec43e22ac1128f9ffd915f338ba3",
+  "dopo": "f0abbbee7f4db139f64a2c3be5dc133fd7328acb",
+  "data": "2025-05-19T07:42:56.000Z",
+  "byte_prima": 9675,
+  "byte_dopo": 9732,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "file": "generation_config.json",
+  "prima": "97291689aa1d570fa5dfe204ddb77274a648fd77",
+  "dopo": "b92fe559a97985763a05d1965db70c2f7e353b78",
+  "data": "2025-07-28T13:11:12.000Z",
+  "byte_prima": null,
+  "byte_dopo": 238,
+  "chiavi_cambiate": [
+   "bos_token_id",
+   "do_sample",
+   "eos_token_id",
+   "pad_token_id",
+   "temperature",
+   "top_k",
+   "top_p",
+   "transformers_version"
+  ],
+  "chiavi_comportamento": [
+   "bos_token_id",
+   "do_sample",
+   "eos_token_id",
+   "pad_token_id",
+   "temperature",
+   "top_k",
+   "top_p"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "file": "generation_config.json",
+  "prima": "13b91ea9539e6cc1c464d15a6e053e40f3ca1845",
+  "dopo": "023ad300e0cf991b9e6aeacade6e7bc71185fe71",
+  "data": "2025-07-29T10:44:37.000Z",
+  "byte_prima": 238,
+  "byte_dopo": 239,
+  "chiavi_cambiate": [
+   "temperature",
+   "top_p"
+  ],
+  "chiavi_comportamento": [
+   "temperature",
+   "top_p"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "file": "tokenizer_config.json",
+  "prima": "bf8598538010d711f8ffa291159b0a4fae1182ef",
+  "dopo": "fd5492ea24611e203da0b593be7916913e490362",
+  "data": "2025-07-29T12:11:03.000Z",
+  "byte_prima": 10959,
+  "byte_dopo": 10824,
+  "chiavi_cambiate": [
+   "chat_template",
+   "model_max_length"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "file": "generation_config.json",
+  "prima": "c950284c33dc1a4bfffbf8daf2c4e07ed9091cdc",
+  "dopo": "97f3f7d6f068582355b6fb44014a1b60e282636b",
+  "data": "2025-07-29T12:38:27.000Z",
+  "byte_prima": 239,
+  "byte_dopo": 239,
+  "chiavi_cambiate": [
+   "temperature",
+   "top_p"
+  ],
+  "chiavi_comportamento": [
+   "temperature",
+   "top_p"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "file": "tokenizer_config.json",
+  "prima": "3d729a084f14c9502775d59d95c71385293f5518",
+  "dopo": "3ffd1f50b179e643d839c86df9ffbbefcb0d5018",
+  "data": "2025-08-08T07:20:23.000Z",
+  "byte_prima": 10824,
+  "byte_dopo": 10825,
+  "chiavi_cambiate": [
+   "model_max_length"
+  ],
+  "chiavi_comportamento": [],
+  "classe": "innocuo"
+ },
+ {
+  "repo": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "file": "tokenizer_config.json",
+  "prima": "61082d4deaa4785f64943b443cbc2b5de7524fad",
+  "dopo": "0d7cf23991f47feeb3a57ecb4c9cee8ea4a17bfe",
+  "data": "2025-09-17T06:56:43.000Z",
+  "byte_prima": 10825,
+  "byte_dopo": 9377,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
+  "file": "chat_template.jinja",
+  "prima": "2aff31a04896ab1f3716dde35f73d099ed0c08c5",
+  "dopo": "895dae2f8357fa092f0240bde859ddbf527e9b0b",
+  "data": "2026-08-19T13:46:13.000Z",
+  "byte_prima": null,
+  "byte_dopo": 8952,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "nvidia/Gemma-4-26B-A4B-NVFP4",
+  "file": "chat_template.jinja",
+  "prima": "e4831cf4b3efa077857915037383346f8336bceb",
+  "dopo": "bbf84e07ec612504a2ad296b3c7ab2e1712f7ea2",
+  "data": "2026-05-07T00:43:59.000Z",
+  "byte_prima": 16448,
+  "byte_dopo": 16934,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "deepseek-ai/DeepSeek-V3-0324",
+  "file": "tokenizer_config.json",
+  "prima": "f6be68c847f9ac8d52255b2c5b888cc6723fbcb2",
+  "dopo": "500c51d54664c2d53011337cb84b5b353855bced",
+  "data": "2025-03-25T06:58:36.000Z",
+  "byte_prima": 3882,
+  "byte_dopo": 3883,
+  "chiavi_cambiate": [
+   "model_max_length"
+  ],
+  "chiavi_comportamento": [],
+  "classe": "innocuo"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-Coder-32B-Instruct-AWQ",
+  "file": "generation_config.json",
+  "prima": "809193f9fbb537e7ad2167d1991eeb5c9c14291b",
+  "dopo": "1ed0a6145da0ce550c628e8e8b678f51e695995d",
+  "data": "2024-11-18T12:55:21.000Z",
+  "byte_prima": 243,
+  "byte_dopo": 243,
+  "chiavi_cambiate": [
+   "transformers_version"
+  ],
+  "chiavi_comportamento": [],
+  "classe": "innocuo"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-Coder-32B-Instruct-AWQ",
+  "file": "tokenizer_config.json",
+  "prima": "809193f9fbb537e7ad2167d1991eeb5c9c14291b",
+  "dopo": "1ed0a6145da0ce550c628e8e8b678f51e695995d",
+  "data": "2024-11-18T12:55:21.000Z",
+  "byte_prima": 7305,
+  "byte_dopo": 7305,
+  "chiavi_cambiate": [
+   "model_max_length"
+  ],
+  "chiavi_comportamento": [],
+  "classe": "innocuo"
+ },
+ {
+  "repo": "nvidia/Gemma-4-31B-IT-NVFP4",
+  "file": "tokenizer_config.json",
+  "prima": "5d24e54bc06049c87faa380094a4959d2951d3c9",
+  "dopo": "4caa7d91810d0856081b8660df86d5baaa78ec70",
+  "data": "2026-04-02T16:57:10.000Z",
+  "byte_prima": 2586,
+  "byte_dopo": 2068,
+  "chiavi_cambiate": [
+   "is_local",
+   "model_specific_special_tokens",
+   "pad_token",
+   "response_schema"
+  ],
+  "chiavi_comportamento": [
+   "pad_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "nvidia/Gemma-4-31B-IT-NVFP4",
+  "file": "tokenizer_config.json",
+  "prima": "b5f38c021d5e9ac761943255d7fc07c65adace8e",
+  "dopo": "50687fbbadad4eff4f88f6ca3cec7bf99af871f5",
+  "data": "2026-04-18T08:11:33.000Z",
+  "byte_prima": 2068,
+  "byte_dopo": 2094,
+  "chiavi_cambiate": [
+   "response_schema"
+  ],
+  "chiavi_comportamento": [],
+  "classe": "innocuo"
+ },
+ {
+  "repo": "nvidia/Gemma-4-31B-IT-NVFP4",
+  "file": "chat_template.jinja",
+  "prima": "50687fbbadad4eff4f88f6ca3cec7bf99af871f5",
+  "dopo": "61521ee452a45ae05ca99b3b19fb44df64d36824",
+  "data": "2026-04-18T08:11:47.000Z",
+  "byte_prima": 12045,
+  "byte_dopo": 16448,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "nvidia/Gemma-4-31B-IT-NVFP4",
+  "file": "chat_template.jinja",
+  "prima": "61521ee452a45ae05ca99b3b19fb44df64d36824",
+  "dopo": "05fa17010ac2bf68365b33bdd20f07faa10654b4",
+  "data": "2026-05-01T08:45:55.000Z",
+  "byte_prima": 16448,
+  "byte_dopo": 16934,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-32B-Instruct-AWQ",
+  "file": "tokenizer_config.json",
+  "prima": "251a85a7dfd47d23dc308c69d2df71cf75b338f5",
+  "dopo": "4b99fe578fcefa565d7497b70939b0e40de1b434",
+  "data": "2024-09-19T07:30:29.000Z",
+  "byte_prima": 7307,
+  "byte_dopo": 7305,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
+  "file": "chat_template.jinja",
+  "prima": "120acacf3271feaf4ba5273d00d98b4cc1b0026d",
+  "dopo": "3ff6a82aadec49f1f12d8bdb12df5575560d1a44",
+  "data": "2026-08-05T22:25:13.000Z",
+  "byte_prima": 10152,
+  "byte_dopo": 9867,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "zai-org/GLM-5",
+  "file": "chat_template.jinja",
+  "prima": "64eea7dbc0a271a9fe2c2881495efa8511c0cc1b",
+  "dopo": "f4c624070fb778e07ad16fb04c34dad055be3fce",
+  "data": "2026-03-11T12:23:19.000Z",
+  "byte_prima": 3120,
+  "byte_dopo": 3123,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-14B-Instruct",
+  "file": "tokenizer_config.json",
+  "prima": "e4e2ea5d6ecac526535b11d21273a69ffff11b16",
+  "dopo": "e648520a381cc1bac5b91ff5f42879ba32550fc9",
+  "data": "2024-09-18T01:43:14.000Z",
+  "byte_prima": 7228,
+  "byte_dopo": 7308,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-14B-Instruct",
+  "file": "tokenizer_config.json",
+  "prima": "f55224c616ca27d4bcf28969a156de12c98981cf",
+  "dopo": "502e5d8bfd665ed113fd9b3626445ca7b0596303",
+  "data": "2024-09-19T07:30:18.000Z",
+  "byte_prima": 7308,
+  "byte_dopo": 7305,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "openai-community/gpt2-large",
+  "file": "generation_config.json",
+  "prima": "e5ab12c7d42b9e60a6025476a688aab2c5695189",
+  "dopo": "b54dbc3879361633ba43e2df284fd21de7c8d4a4",
+  "data": "2023-01-24T14:00:36.000Z",
+  "byte_prima": null,
+  "byte_dopo": 124,
+  "chiavi_cambiate": [
+   "_from_model_config",
+   "bos_token_id",
+   "eos_token_id",
+   "transformers_version"
+  ],
+  "chiavi_comportamento": [
+   "bos_token_id",
+   "eos_token_id"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "openai-community/gpt2-large",
+  "file": "tokenizer_config.json",
+  "prima": "97935fc1a406f447320c3db70fe9e9875dca2595",
+  "dopo": "32b71b12589c2f8d625668d2335a01cac3249519",
+  "data": "2024-02-19T11:11:02.000Z",
+  "byte_prima": null,
+  "byte_dopo": 26,
+  "chiavi_cambiate": [
+   "model_max_length"
+  ],
+  "chiavi_comportamento": [],
+  "classe": "innocuo"
+ },
+ {
+  "repo": "unsloth/Llama-3.2-1B-Instruct",
+  "file": "special_tokens_map.json",
+  "prima": "518b1bc58ed163032668f0513a82ccd17b6f5a4b",
+  "dopo": "4e20426873bde3b9bae9ed89fc2f95ed9638d23b",
+  "data": "2024-09-25T18:41:01.000Z",
+  "byte_prima": null,
+  "byte_dopo": 454,
+  "chiavi_cambiate": [
+   "bos_token",
+   "eos_token",
+   "pad_token"
+  ],
+  "chiavi_comportamento": [
+   "bos_token",
+   "eos_token",
+   "pad_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "unsloth/Llama-3.2-1B-Instruct",
+  "file": "tokenizer_config.json",
+  "prima": "518b1bc58ed163032668f0513a82ccd17b6f5a4b",
+  "dopo": "4e20426873bde3b9bae9ed89fc2f95ed9638d23b",
+  "data": "2024-09-25T18:41:01.000Z",
+  "byte_prima": null,
+  "byte_dopo": 54598,
+  "chiavi_cambiate": [
+   "added_tokens_decoder",
+   "bos_token",
+   "chat_template",
+   "clean_up_tokenization_spaces",
+   "eos_token",
+   "model_input_names",
+   "model_max_length",
+   "pad_token",
+   "padding_side",
+   "tokenizer_class"
+  ],
+  "chiavi_comportamento": [
+   "added_tokens_decoder",
+   "bos_token",
+   "chat_template",
+   "eos_token",
+   "pad_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "unsloth/Llama-3.2-1B-Instruct",
+  "file": "special_tokens_map.json",
+  "prima": "d2b9e36fa60db5ac69ce42498103dcbcfa836229",
+  "dopo": "d5a34d2d81ec5c33c511d632517d2cc8b4395792",
+  "data": "2024-09-29T08:21:17.000Z",
+  "byte_prima": 454,
+  "byte_dopo": 296,
+  "chiavi_cambiate": [
+   "pad_token"
+  ],
+  "chiavi_comportamento": [
+   "pad_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "unsloth/Llama-3.2-1B-Instruct",
+  "file": "tokenizer_config.json",
+  "prima": "d2b9e36fa60db5ac69ce42498103dcbcfa836229",
+  "dopo": "d5a34d2d81ec5c33c511d632517d2cc8b4395792",
+  "data": "2024-09-29T08:21:17.000Z",
+  "byte_prima": 54598,
+  "byte_dopo": 54528,
+  "chiavi_cambiate": [
+   "pad_token",
+   "padding_side"
+  ],
+  "chiavi_comportamento": [
+   "pad_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "unsloth/Llama-3.2-1B-Instruct",
+  "file": "special_tokens_map.json",
+  "prima": "d5a34d2d81ec5c33c511d632517d2cc8b4395792",
+  "dopo": "bd6d97814a86488154b2032080b776ca831e5547",
+  "data": "2024-09-29T08:21:55.000Z",
+  "byte_prima": 296,
+  "byte_dopo": 454,
+  "chiavi_cambiate": [
+   "pad_token"
+  ],
+  "chiavi_comportamento": [
+   "pad_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "unsloth/Llama-3.2-1B-Instruct",
+  "file": "tokenizer_config.json",
+  "prima": "d5a34d2d81ec5c33c511d632517d2cc8b4395792",
+  "dopo": "bd6d97814a86488154b2032080b776ca831e5547",
+  "data": "2024-09-29T08:21:55.000Z",
+  "byte_prima": 54528,
+  "byte_dopo": 54598,
+  "chiavi_cambiate": [
+   "pad_token",
+   "padding_side"
+  ],
+  "chiavi_comportamento": [
+   "pad_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "unsloth/Llama-3.2-1B-Instruct",
+  "file": "generation_config.json",
+  "prima": "22e9fdbe3473c7affd8596fdc248e67e3a004da1",
+  "dopo": "0430e7102ae7f4fad2b056a4d5064abd985588fc",
+  "data": "2025-01-22T09:38:08.000Z",
+  "byte_prima": 184,
+  "byte_dopo": 234,
+  "chiavi_cambiate": [
+   "max_length",
+   "pad_token_id",
+   "transformers_version"
+  ],
+  "chiavi_comportamento": [
+   "max_length",
+   "pad_token_id"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "unsloth/Llama-3.2-1B-Instruct",
+  "file": "tokenizer_config.json",
+  "prima": "22e9fdbe3473c7affd8596fdc248e67e3a004da1",
+  "dopo": "0430e7102ae7f4fad2b056a4d5064abd985588fc",
+  "data": "2025-01-22T09:38:08.000Z",
+  "byte_prima": 54598,
+  "byte_dopo": 54658,
+  "chiavi_cambiate": [
+   "add_bos_token",
+   "chat_template",
+   "extra_special_tokens"
+  ],
+  "chiavi_comportamento": [
+   "add_bos_token",
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "unsloth/Llama-3.2-1B-Instruct",
+  "file": "tokenizer_config.json",
+  "prima": "0430e7102ae7f4fad2b056a4d5064abd985588fc",
+  "dopo": "2906abdacc8c773de918615c4c5f7232f1109e62",
+  "data": "2025-01-22T12:11:26.000Z",
+  "byte_prima": 54658,
+  "byte_dopo": 54674,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "unsloth/Llama-3.2-1B-Instruct",
+  "file": "generation_config.json",
+  "prima": "eb49081324edb2ff14f848ce16393c067c6f4976",
+  "dopo": "9b58d4a36161a1e49ecf0a69d20b2736fef8e438",
+  "data": "2025-02-25T02:04:27.000Z",
+  "byte_prima": 234,
+  "byte_dopo": 239,
+  "chiavi_cambiate": [
+   "transformers_version"
+  ],
+  "chiavi_comportamento": [],
+  "classe": "innocuo"
+ },
+ {
+  "repo": "unsloth/Llama-3.2-1B-Instruct",
+  "file": "tokenizer_config.json",
+  "prima": "eb49081324edb2ff14f848ce16393c067c6f4976",
+  "dopo": "9b58d4a36161a1e49ecf0a69d20b2736fef8e438",
+  "data": "2025-02-25T02:04:27.000Z",
+  "byte_prima": 54674,
+  "byte_dopo": 54670,
+  "chiavi_cambiate": [
+   "tokenizer_class"
+  ],
+  "chiavi_comportamento": [],
+  "classe": "innocuo"
+ },
+ {
+  "repo": "unsloth/Llama-3.2-1B-Instruct",
+  "file": "generation_config.json",
+  "prima": "9b58d4a36161a1e49ecf0a69d20b2736fef8e438",
+  "dopo": "8bb5cb07b99d216973083809005fecebd2d4202e",
+  "data": "2025-04-26T07:06:10.000Z",
+  "byte_prima": 239,
+  "byte_dopo": 234,
+  "chiavi_cambiate": [
+   "transformers_version"
+  ],
+  "chiavi_comportamento": [],
+  "classe": "innocuo"
+ },
+ {
+  "repo": "unsloth/Llama-3.2-1B-Instruct",
+  "file": "chat_template.jinja",
+  "prima": "8bb5cb07b99d216973083809005fecebd2d4202e",
+  "dopo": "5a8abab4a5d6f164389b1079fb721cfab8d7126c",
+  "data": "2025-05-09T20:24:41.000Z",
+  "byte_prima": null,
+  "byte_dopo": 3827,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "unsloth/Llama-3.2-1B-Instruct",
+  "file": "generation_config.json",
+  "prima": "8bb5cb07b99d216973083809005fecebd2d4202e",
+  "dopo": "5a8abab4a5d6f164389b1079fb721cfab8d7126c",
+  "data": "2025-05-09T20:24:41.000Z",
+  "byte_prima": 234,
+  "byte_dopo": 239,
+  "chiavi_cambiate": [
+   "transformers_version"
+  ],
+  "chiavi_comportamento": [],
+  "classe": "innocuo"
+ },
+ {
+  "repo": "unsloth/Llama-3.2-1B-Instruct",
+  "file": "tokenizer_config.json",
+  "prima": "8bb5cb07b99d216973083809005fecebd2d4202e",
+  "dopo": "5a8abab4a5d6f164389b1079fb721cfab8d7126c",
+  "data": "2025-05-09T20:24:41.000Z",
+  "byte_prima": 54670,
+  "byte_dopo": 54669,
+  "chiavi_cambiate": [],
+  "chiavi_comportamento": [],
+  "classe": "innocuo"
+ },
+ {
+  "repo": "trl-internal-testing/tiny-Qwen3ForCausalLM",
+  "file": "special_tokens_map.json",
+  "prima": "4ff9ee1b5dcc87a68fcaa2676aebfc48bf77322e",
+  "dopo": "fd2815bbd38c6bee679a9bd4f8aab6a9876c5e23",
+  "data": "2025-05-05T18:41:19.000Z",
+  "byte_prima": null,
+  "byte_dopo": 613,
+  "chiavi_cambiate": [
+   "additional_special_tokens",
+   "eos_token",
+   "pad_token"
+  ],
+  "chiavi_comportamento": [
+   "additional_special_tokens",
+   "eos_token",
+   "pad_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "trl-internal-testing/tiny-Qwen3ForCausalLM",
+  "file": "tokenizer_config.json",
+  "prima": "4ff9ee1b5dcc87a68fcaa2676aebfc48bf77322e",
+  "dopo": "fd2815bbd38c6bee679a9bd4f8aab6a9876c5e23",
+  "data": "2025-05-05T18:41:19.000Z",
+  "byte_prima": null,
+  "byte_dopo": 9706,
+  "chiavi_cambiate": [
+   "add_bos_token",
+   "add_prefix_space",
+   "added_tokens_decoder",
+   "additional_special_tokens",
+   "chat_template",
+   "clean_up_tokenization_spaces",
+   "eos_token",
+   "errors",
+   "extra_special_tokens",
+   "model_max_length",
+   "pad_token",
+   "split_special_tokens",
+   "tokenizer_class"
+  ],
+  "chiavi_comportamento": [
+   "add_bos_token",
+   "added_tokens_decoder",
+   "additional_special_tokens",
+   "chat_template",
+   "eos_token",
+   "pad_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "trl-internal-testing/tiny-Qwen3ForCausalLM",
+  "file": "chat_template.jinja",
+  "prima": "d01c23e36d02cb4832f9475c5de612b2b624124e",
+  "dopo": "a231f7e63de6d9a5fcb4c9f67634c6d5bb5250df",
+  "data": "2025-06-14T18:02:41.000Z",
+  "byte_prima": null,
+  "byte_dopo": 4153,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "trl-internal-testing/tiny-Qwen3ForCausalLM",
+  "file": "tokenizer_config.json",
+  "prima": "d01c23e36d02cb4832f9475c5de612b2b624124e",
+  "dopo": "a231f7e63de6d9a5fcb4c9f67634c6d5bb5250df",
+  "data": "2025-06-14T18:02:41.000Z",
+  "byte_prima": 9706,
+  "byte_dopo": 5404,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "trl-internal-testing/tiny-Qwen3ForCausalLM",
+  "file": "tokenizer_config.json",
+  "prima": "9a7f0ac31f3fe6a7b36a8c9503c2e3b69bbf63a1",
+  "dopo": "e50056a85080bf743ad973d687bcb6903cecb8a7",
+  "data": "2025-12-09T03:45:58.000Z",
+  "byte_prima": 5404,
+  "byte_dopo": 728,
+  "chiavi_cambiate": [
+   "added_tokens_decoder",
+   "additional_special_tokens",
+   "backend",
+   "extra_special_tokens",
+   "is_local"
+  ],
+  "chiavi_comportamento": [
+   "added_tokens_decoder",
+   "additional_special_tokens"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "trl-internal-testing/tiny-Qwen3ForCausalLM",
+  "file": "generation_config.json",
+  "prima": "e50056a85080bf743ad973d687bcb6903cecb8a7",
+  "dopo": "f310bc268a32e176522e9bbc187e5fd444068604",
+  "data": "2025-12-09T03:45:58.000Z",
+  "byte_prima": 73,
+  "byte_dopo": 218,
+  "chiavi_cambiate": [
+   "_from_model_config",
+   "bos_token_id",
+   "do_sample",
+   "eos_token_id",
+   "pad_token_id",
+   "temperature",
+   "top_k",
+   "top_p"
+  ],
+  "chiavi_comportamento": [
+   "bos_token_id",
+   "do_sample",
+   "eos_token_id",
+   "pad_token_id",
+   "temperature",
+   "top_k",
+   "top_p"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "trl-internal-testing/tiny-Qwen3ForCausalLM",
+  "file": "tokenizer_config.json",
+  "prima": "749f2b6cb3a48573bb686276b8355bdd01dac0f3",
+  "dopo": "3b8e9375ebd2e670688a3a9d7e607e56ffae7ac4",
+  "data": "2025-12-09T04:15:17.000Z",
+  "byte_prima": 728,
+  "byte_dopo": 5404,
+  "chiavi_cambiate": [
+   "added_tokens_decoder",
+   "additional_special_tokens",
+   "backend",
+   "extra_special_tokens",
+   "is_local"
+  ],
+  "chiavi_comportamento": [
+   "added_tokens_decoder",
+   "additional_special_tokens"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "trl-internal-testing/tiny-Qwen3ForCausalLM",
+  "file": "generation_config.json",
+  "prima": "3b8e9375ebd2e670688a3a9d7e607e56ffae7ac4",
+  "dopo": "6aebe853bfa3e48f3c34ff3a10d0995b740c546c",
+  "data": "2025-12-09T04:15:18.000Z",
+  "byte_prima": 69,
+  "byte_dopo": 214,
+  "chiavi_cambiate": [
+   "_from_model_config",
+   "bos_token_id",
+   "do_sample",
+   "eos_token_id",
+   "pad_token_id",
+   "temperature",
+   "top_k",
+   "top_p"
+  ],
+  "chiavi_comportamento": [
+   "bos_token_id",
+   "do_sample",
+   "eos_token_id",
+   "pad_token_id",
+   "temperature",
+   "top_k",
+   "top_p"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "trl-internal-testing/tiny-Qwen3ForCausalLM",
+  "file": "generation_config.json",
+  "prima": "a6db72e2e07137b5884c38041c4323e7fba4ccf7",
+  "dopo": "09ff4b6a128d2b5ef38401a0f63199e72f476f4d",
+  "data": "2025-12-09T04:40:18.000Z",
+  "byte_prima": 69,
+  "byte_dopo": 214,
+  "chiavi_cambiate": [
+   "_from_model_config",
+   "bos_token_id",
+   "do_sample",
+   "eos_token_id",
+   "pad_token_id",
+   "temperature",
+   "top_k",
+   "top_p"
+  ],
+  "chiavi_comportamento": [
+   "bos_token_id",
+   "do_sample",
+   "eos_token_id",
+   "pad_token_id",
+   "temperature",
+   "top_k",
+   "top_p"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "trl-internal-testing/tiny-Qwen3ForCausalLM",
+  "file": "generation_config.json",
+  "prima": "8c5d2a1b78991ce46b9d10369bfa2264a71c7c78",
+  "dopo": "52b2e48b0004586eff92c403efa5ce5547c43a45",
+  "data": "2025-12-19T19:11:13.000Z",
+  "byte_prima": 69,
+  "byte_dopo": 214,
+  "chiavi_cambiate": [
+   "_from_model_config",
+   "bos_token_id",
+   "do_sample",
+   "eos_token_id",
+   "pad_token_id",
+   "temperature",
+   "top_k",
+   "top_p"
+  ],
+  "chiavi_comportamento": [
+   "bos_token_id",
+   "do_sample",
+   "eos_token_id",
+   "pad_token_id",
+   "temperature",
+   "top_k",
+   "top_p"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "deepseek-ai/DeepSeek-V4-Flash",
+  "file": "generation_config.json",
+  "prima": "d07dda52835726afafe2b3eac322d9a7e2103fe6",
+  "dopo": "a7aaed80dd2df27620eb534454253ea25eb11c7a",
+  "data": "2026-04-24T02:24:45.000Z",
+  "byte_prima": null,
+  "byte_dopo": 170,
+  "chiavi_cambiate": [
+   "_from_model_config",
+   "bos_token_id",
+   "do_sample",
+   "eos_token_id",
+   "temperature",
+   "top_p",
+   "transformers_version"
+  ],
+  "chiavi_comportamento": [
+   "bos_token_id",
+   "do_sample",
+   "eos_token_id",
+   "temperature",
+   "top_p"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "deepseek-ai/DeepSeek-V4-Flash",
+  "file": "tokenizer_config.json",
+  "prima": "d07dda52835726afafe2b3eac322d9a7e2103fe6",
+  "dopo": "a7aaed80dd2df27620eb534454253ea25eb11c7a",
+  "data": "2026-04-24T02:24:45.000Z",
+  "byte_prima": null,
+  "byte_dopo": 801,
+  "chiavi_cambiate": [
+   "add_bos_token",
+   "add_eos_token",
+   "bos_token",
+   "clean_up_tokenization_spaces",
+   "eos_token",
+   "legacy",
+   "model_max_length",
+   "pad_token",
+   "sp_model_kwargs",
+   "tokenizer_class"
+  ],
+  "chiavi_comportamento": [
+   "add_bos_token",
+   "add_eos_token",
+   "bos_token",
+   "eos_token",
+   "pad_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "MiniMaxAI/MiniMax-M2.5",
+  "file": "chat_template.jinja",
+  "prima": "9ba43d5bb9bd0ee24ebd9cf219d51031a0b8a768",
+  "dopo": "134ae7c46b8c0152819a9c534dad8628066b23b1",
+  "data": "2026-02-12T16:07:45.000Z",
+  "byte_prima": 6473,
+  "byte_dopo": 6524,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "MiniMaxAI/MiniMax-M2.5",
+  "file": "generation_config.json",
+  "prima": "9ba43d5bb9bd0ee24ebd9cf219d51031a0b8a768",
+  "dopo": "134ae7c46b8c0152819a9c534dad8628066b23b1",
+  "data": "2026-02-12T16:07:45.000Z",
+  "byte_prima": null,
+  "byte_dopo": 166,
+  "chiavi_cambiate": [
+   "bos_token_id",
+   "do_sample",
+   "eos_token_id",
+   "temperature",
+   "top_k",
+   "top_p",
+   "transformers_version"
+  ],
+  "chiavi_comportamento": [
+   "bos_token_id",
+   "do_sample",
+   "eos_token_id",
+   "temperature",
+   "top_k",
+   "top_p"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-32B-AWQ",
+  "file": "generation_config.json",
+  "prima": "0db3ae291118146b3b56daf38afd935a6d967a2b",
+  "dopo": "d5f8dfea94a4df504de08bd3670cd5fdfb6a92ce",
+  "data": "2025-05-01T14:28:51.000Z",
+  "byte_prima": 142,
+  "byte_dopo": 239,
+  "chiavi_cambiate": [
+   "_from_model_config",
+   "bos_token_id",
+   "eos_token_id",
+   "temperature",
+   "top_k",
+   "top_p",
+   "transformers_version"
+  ],
+  "chiavi_comportamento": [
+   "bos_token_id",
+   "eos_token_id",
+   "temperature",
+   "top_k",
+   "top_p"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-32B-AWQ",
+  "file": "tokenizer_config.json",
+  "prima": "0db3ae291118146b3b56daf38afd935a6d967a2b",
+  "dopo": "d5f8dfea94a4df504de08bd3670cd5fdfb6a92ce",
+  "data": "2025-05-01T14:28:51.000Z",
+  "byte_prima": 9706,
+  "byte_dopo": 9676,
+  "chiavi_cambiate": [
+   "extra_special_tokens"
+  ],
+  "chiavi_comportamento": [],
+  "classe": "innocuo"
+ },
+ {
+  "repo": "Qwen/Qwen3-32B-AWQ",
+  "file": "special_tokens_map.json",
+  "prima": "e7e63a7150b6e6c5384a97137872022e95bcf0b1",
+  "dopo": "b3465d68dcd82c8aa49df48ad596d8db6053f3d1",
+  "data": "2025-05-01T14:37:23.000Z",
+  "byte_prima": 613,
+  "byte_dopo": null,
+  "chiavi_cambiate": [
+   "additional_special_tokens",
+   "eos_token",
+   "pad_token"
+  ],
+  "chiavi_comportamento": [
+   "additional_special_tokens",
+   "eos_token",
+   "pad_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-32B-AWQ",
+  "file": "tokenizer_config.json",
+  "prima": "c104c984c4d320d9bd3aeee7e01f168e629e657e",
+  "dopo": "1e09580a8dacf7685baf956d86ca7a13c7506910",
+  "data": "2025-05-19T07:44:10.000Z",
+  "byte_prima": 9676,
+  "byte_dopo": 9732,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "zai-org/GLM-4.5-Air",
+  "file": "generation_config.json",
+  "prima": "715cc6e736044d47e5598de94658d36e55fc2b92",
+  "dopo": "ca896bc108d0c20fe40d62b03490d6e6427bea10",
+  "data": "2025-07-28T12:19:19.000Z",
+  "byte_prima": null,
+  "byte_dopo": 155,
+  "chiavi_cambiate": [
+   "_from_model_config",
+   "eos_token_id",
+   "pad_token_id",
+   "transformers_version"
+  ],
+  "chiavi_comportamento": [
+   "eos_token_id",
+   "pad_token_id"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-3B-Instruct-AWQ",
+  "file": "tokenizer_config.json",
+  "prima": "2bfaac09dce9cd1ae92f226aa37893fd2c3533e4",
+  "dopo": "a2be73dcf1f9d5172f1f37762ce9ddbfa96e854e",
+  "data": "2024-09-19T07:30:08.000Z",
+  "byte_prima": 7307,
+  "byte_dopo": 7305,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-7B",
+  "file": "tokenizer_config.json",
+  "prima": "7c128dfad5b6947573d3c14d6d8c423ed5be7af4",
+  "dopo": "3115c99c189e698dd7274e8a463a1025b0c878a6",
+  "data": "2024-09-16T11:28:55.000Z",
+  "byte_prima": 5012,
+  "byte_dopo": 7228,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-7B",
+  "file": "tokenizer_config.json",
+  "prima": "57597c00770845ceba45271ba1b24c94bbcc7baf",
+  "dopo": "09a0bac5707b43ec44508eab308b0846320c1ed4",
+  "data": "2024-09-19T07:30:09.000Z",
+  "byte_prima": 7228,
+  "byte_dopo": 7225,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-7B",
+  "file": "tokenizer_config.json",
+  "prima": "09a0bac5707b43ec44508eab308b0846320c1ed4",
+  "dopo": "e25af2efae60472008fbeaf5fb7c4274a87f78d4",
+  "data": "2024-09-20T07:58:01.000Z",
+  "byte_prima": 7225,
+  "byte_dopo": 7228,
+  "chiavi_cambiate": [
+   "eos_token"
+  ],
+  "chiavi_comportamento": [
+   "eos_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "HuggingFaceTB/SmolLM3-3B",
+  "file": "generation_config.json",
+  "prima": "ddd1ea141798fe1410f053bff546d43c9510f0a3",
+  "dopo": "2ea4d77711467794bfae4d525e1995b32191ce4d",
+  "data": "2025-07-08T14:23:54.000Z",
+  "byte_prima": 174,
+  "byte_dopo": 182,
+  "chiavi_cambiate": [
+   "_from_model_config",
+   "do_sample",
+   "temperature",
+   "top_p",
+   "use_cache"
+  ],
+  "chiavi_comportamento": [
+   "do_sample",
+   "temperature",
+   "top_p"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "HuggingFaceTB/SmolLM3-3B",
+  "file": "chat_template.jinja",
+  "prima": "2ea4d77711467794bfae4d525e1995b32191ce4d",
+  "dopo": "a169fa445c7eb1c4df03da97cd914dbdb9a94421",
+  "data": "2025-07-08T14:28:27.000Z",
+  "byte_prima": 4658,
+  "byte_dopo": 5499,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "HuggingFaceTB/SmolLM3-3B",
+  "file": "chat_template.jinja",
+  "prima": "b49c77130b3407155d9b83b404d9b28b5d1845ae",
+  "dopo": "486a602f60b9b61d727ee978b3747824cb659f4d",
+  "data": "2025-07-09T10:05:39.000Z",
+  "byte_prima": 5499,
+  "byte_dopo": 5598,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-8B-Base",
+  "file": "tokenizer_config.json",
+  "prima": "ac2b9a2dab8f407657aab2391e8176805c502d40",
+  "dopo": "a64df03b50f8fdeb56e303ed2dd5228dc149f926",
+  "data": "2025-04-28T18:19:03.000Z",
+  "byte_prima": 7226,
+  "byte_dopo": 9675,
+  "chiavi_cambiate": [
+   "added_tokens_decoder",
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "added_tokens_decoder",
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-8B-Base",
+  "file": "tokenizer_config.json",
+  "prima": "b53affe9dcff71ea989116a20abf368cbe4f2bdd",
+  "dopo": "b86f722ec0768e8849ddeb2d8ce3a518bf4fd504",
+  "data": "2025-05-20T12:05:22.000Z",
+  "byte_prima": 9675,
+  "byte_dopo": 9678,
+  "chiavi_cambiate": [
+   "eos_token"
+  ],
+  "chiavi_comportamento": [
+   "eos_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "PrimeIntellect/Qwen3-0.6B",
+  "file": "chat_template.jinja",
+  "prima": "75dedaf26b4ddfb27b54b9d06a4938fade800845",
+  "dopo": "1f818745f470b18c51d477e185aa671da451bdfd",
+  "data": "2025-08-12T20:01:07.000Z",
+  "byte_prima": null,
+  "byte_dopo": 2507,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "PrimeIntellect/Qwen3-0.6B",
+  "file": "special_tokens_map.json",
+  "prima": "75dedaf26b4ddfb27b54b9d06a4938fade800845",
+  "dopo": "1f818745f470b18c51d477e185aa671da451bdfd",
+  "data": "2025-08-12T20:01:07.000Z",
+  "byte_prima": null,
+  "byte_dopo": 613,
+  "chiavi_cambiate": [
+   "additional_special_tokens",
+   "eos_token",
+   "pad_token"
+  ],
+  "chiavi_comportamento": [
+   "additional_special_tokens",
+   "eos_token",
+   "pad_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "PrimeIntellect/Qwen3-0.6B",
+  "file": "tokenizer_config.json",
+  "prima": "75dedaf26b4ddfb27b54b9d06a4938fade800845",
+  "dopo": "1f818745f470b18c51d477e185aa671da451bdfd",
+  "data": "2025-08-12T20:01:07.000Z",
+  "byte_prima": null,
+  "byte_dopo": 5404,
+  "chiavi_cambiate": [
+   "add_bos_token",
+   "add_prefix_space",
+   "added_tokens_decoder",
+   "additional_special_tokens",
+   "clean_up_tokenization_spaces",
+   "eos_token",
+   "errors",
+   "extra_special_tokens",
+   "model_max_length",
+   "pad_token",
+   "split_special_tokens",
+   "tokenizer_class"
+  ],
+  "chiavi_comportamento": [
+   "add_bos_token",
+   "added_tokens_decoder",
+   "additional_special_tokens",
+   "eos_token",
+   "pad_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-Coder-7B-Instruct-AWQ",
+  "file": "generation_config.json",
+  "prima": "3f08fd7343ed74290e875bd830961b92b0d62da5",
+  "dopo": "8e8ed243bbe6f9a5aff549a0924562fc719b2b8a",
+  "data": "2024-11-18T12:54:24.000Z",
+  "byte_prima": 242,
+  "byte_dopo": 242,
+  "chiavi_cambiate": [
+   "transformers_version"
+  ],
+  "chiavi_comportamento": [],
+  "classe": "innocuo"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-Coder-7B-Instruct-AWQ",
+  "file": "tokenizer_config.json",
+  "prima": "3f08fd7343ed74290e875bd830961b92b0d62da5",
+  "dopo": "8e8ed243bbe6f9a5aff549a0924562fc719b2b8a",
+  "data": "2024-11-18T12:54:24.000Z",
+  "byte_prima": 7305,
+  "byte_dopo": 7305,
+  "chiavi_cambiate": [
+   "model_max_length"
+  ],
+  "chiavi_comportamento": [],
+  "classe": "innocuo"
+ },
+ {
+  "repo": "tencent/Hy3",
+  "file": "chat_template.jinja",
+  "prima": "9feb6050f5d08c498aa128413584982cd545c49b",
+  "dopo": "3917583e8e630bd692dba80241ca349b8975aac4",
+  "data": "2026-07-05T05:58:15.000Z",
+  "byte_prima": 9414,
+  "byte_dopo": 10223,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
+  "file": "chat_template.jinja",
+  "prima": "b3caaabed0263651a17dc1f2d4ce97e794f76c44",
+  "dopo": "742ebb650c8bcf75d8ef92a3b19faabf7dd32664",
+  "data": "2026-08-05T02:37:28.000Z",
+  "byte_prima": 10152,
+  "byte_dopo": 9867,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-1.5B",
+  "file": "tokenizer_config.json",
+  "prima": "09e6328424220dbdff94a72e36498803ff47aa9e",
+  "dopo": "033b7782da89bcc457997494478bba1bf19025bc",
+  "data": "2024-09-16T11:24:54.000Z",
+  "byte_prima": 5012,
+  "byte_dopo": 7228,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-1.5B",
+  "file": "tokenizer_config.json",
+  "prima": "2215461b9880efdf84d68aff4f3e498dd704df6b",
+  "dopo": "e5dfabbcffd9b0c7b31d89b82c5a6b72e663f32c",
+  "data": "2024-09-19T07:29:57.000Z",
+  "byte_prima": 7228,
+  "byte_dopo": 7225,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-1.5B",
+  "file": "tokenizer_config.json",
+  "prima": "e5dfabbcffd9b0c7b31d89b82c5a6b72e663f32c",
+  "dopo": "5f3adf4f8825bd43137c77c3d1db791c197b5bd3",
+  "data": "2024-09-20T07:57:58.000Z",
+  "byte_prima": 7225,
+  "byte_dopo": 7228,
+  "chiavi_cambiate": [
+   "eos_token"
+  ],
+  "chiavi_comportamento": [
+   "eos_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-Coder-32B-Instruct",
+  "file": "generation_config.json",
+  "prima": "d7a414c7c6297f60dcf1b5a14b7e5f25864e3181",
+  "dopo": "b47205940b83b5b484577359f71ee7b88472df67",
+  "data": "2024-11-18T12:55:03.000Z",
+  "byte_prima": 242,
+  "byte_dopo": 243,
+  "chiavi_cambiate": [
+   "transformers_version"
+  ],
+  "chiavi_comportamento": [],
+  "classe": "innocuo"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-Coder-32B-Instruct",
+  "file": "tokenizer_config.json",
+  "prima": "d7a414c7c6297f60dcf1b5a14b7e5f25864e3181",
+  "dopo": "b47205940b83b5b484577359f71ee7b88472df67",
+  "data": "2024-11-18T12:55:03.000Z",
+  "byte_prima": 7305,
+  "byte_dopo": 7305,
+  "chiavi_cambiate": [
+   "model_max_length"
+  ],
+  "chiavi_comportamento": [],
+  "classe": "innocuo"
+ },
+ {
+  "repo": "Qwen/Qwen3-0.6B-Base",
+  "file": "tokenizer_config.json",
+  "prima": "fe3e458850fec03cd4609ed85e19145064e59d4e",
+  "dopo": "527f918d05b5c4bcfc25c13b054f06ff8e906e82",
+  "data": "2025-04-28T17:30:06.000Z",
+  "byte_prima": 7226,
+  "byte_dopo": 9675,
+  "chiavi_cambiate": [
+   "added_tokens_decoder",
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "added_tokens_decoder",
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-0.6B-Base",
+  "file": "tokenizer_config.json",
+  "prima": "15c1898c3109c305f9f13cd74555b04ff204dada",
+  "dopo": "311c62e88814bff7206909ccd330bab0a784743b",
+  "data": "2025-05-20T12:03:21.000Z",
+  "byte_prima": 9675,
+  "byte_dopo": 9678,
+  "chiavi_cambiate": [
+   "eos_token"
+  ],
+  "chiavi_comportamento": [
+   "eos_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-4B-Base",
+  "file": "tokenizer_config.json",
+  "prima": "467dab366c672683972926cfe188b7e4fef289b7",
+  "dopo": "08a151eb7f61cd599444a3fb2fe2008762111300",
+  "data": "2025-04-28T18:12:31.000Z",
+  "byte_prima": 7226,
+  "byte_dopo": 9675,
+  "chiavi_cambiate": [
+   "added_tokens_decoder",
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "added_tokens_decoder",
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-4B-Base",
+  "file": "tokenizer_config.json",
+  "prima": "ff84294b7f21731d197d58a4a842cf4a37a501fa",
+  "dopo": "08238297d7a5db40bf8d7513ce96da39f41d3b17",
+  "data": "2025-05-20T12:04:42.000Z",
+  "byte_prima": 9675,
+  "byte_dopo": 9678,
+  "chiavi_cambiate": [
+   "eos_token"
+  ],
+  "chiavi_comportamento": [
+   "eos_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-1.7B-Base",
+  "file": "tokenizer_config.json",
+  "prima": "8b1d62daf679f3fee2a755cecef8cdf0a1ff43a8",
+  "dopo": "36be17a0ee54955c2d50eb4af5a126b429874a6e",
+  "data": "2025-04-28T17:42:43.000Z",
+  "byte_prima": 7226,
+  "byte_dopo": 9675,
+  "chiavi_cambiate": [
+   "added_tokens_decoder",
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "added_tokens_decoder",
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-1.7B-Base",
+  "file": "tokenizer_config.json",
+  "prima": "a0fbe3348c9b61bf686f0d75c05be2b61263b8e8",
+  "dopo": "912d2727784ca0a6f718845aa14d4d9e5f48fe26",
+  "data": "2025-05-20T12:03:42.000Z",
+  "byte_prima": 9675,
+  "byte_dopo": 9678,
+  "chiavi_cambiate": [
+   "eos_token"
+  ],
+  "chiavi_comportamento": [
+   "eos_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "zai-org/GLM-5.1",
+  "file": "chat_template.jinja",
+  "prima": "bef021499129c8734c071411f980c5c718874da3",
+  "dopo": "442b5279043b5f43f382003e7272731f680e1393",
+  "data": "2026-04-16T06:11:43.000Z",
+  "byte_prima": 4476,
+  "byte_dopo": 4672,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-Coder-30B-A3B-Instruct",
+  "file": "tokenizer_config.json",
+  "prima": "d4add6db775e2ab1471d0dfcd5cd80cc4c541ad7",
+  "dopo": "8110d98ad896c995124f3bc44b2f8dd695a4d252",
+  "data": "2025-08-07T07:08:04.000Z",
+  "byte_prima": 13601,
+  "byte_dopo": 12910,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-Coder-30B-A3B-Instruct",
+  "file": "chat_template.jinja",
+  "prima": "8110d98ad896c995124f3bc44b2f8dd695a4d252",
+  "dopo": "573fa3901e5799703b1e60825b0ec024a4c0f1d3",
+  "data": "2025-08-21T10:18:32.000Z",
+  "byte_prima": null,
+  "byte_dopo": 6211,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-Coder-30B-A3B-Instruct",
+  "file": "tokenizer_config.json",
+  "prima": "8110d98ad896c995124f3bc44b2f8dd695a4d252",
+  "dopo": "573fa3901e5799703b1e60825b0ec024a4c0f1d3",
+  "data": "2025-08-21T10:18:32.000Z",
+  "byte_prima": 12910,
+  "byte_dopo": 13055,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+  "file": "generation_config.json",
+  "prima": "1308edffca034aa17d682aee1cb8cfcc42d86af4",
+  "dopo": "93fa5286879b6da098e10eeba43ff44f956ba274",
+  "data": "2026-08-19T16:34:08.000Z",
+  "byte_prima": null,
+  "byte_dopo": 214,
+  "chiavi_cambiate": [
+   "bos_token_id",
+   "do_sample",
+   "eos_token_id",
+   "pad_token_id",
+   "temperature",
+   "top_k",
+   "top_p",
+   "transformers_version"
+  ],
+  "chiavi_comportamento": [
+   "bos_token_id",
+   "do_sample",
+   "eos_token_id",
+   "pad_token_id",
+   "temperature",
+   "top_k",
+   "top_p"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+  "file": "tokenizer_config.json",
+  "prima": "3bb4e8de5dab90a96b8d1508b318ddb4801ed3c0",
+  "dopo": "74e7b99a96d1621cb5ffdb6496649e8587fdd64f",
+  "data": "2026-08-19T16:34:55.000Z",
+  "byte_prima": null,
+  "byte_dopo": 1313,
+  "chiavi_cambiate": [
+   "add_prefix_space",
+   "audio_bos_token",
+   "audio_eos_token",
+   "audio_token",
+   "backend",
+   "clean_up_tokenization_spaces",
+   "eos_token",
+   "errors",
+   "image_token",
+   "is_local",
+   "local_files_only",
+   "max_length",
+   "model_max_length",
+   "model_specific_special_tokens",
+   "pad_token",
+   "pad_token_type_id",
+   "padding_side",
+   "pretokenize_regex",
+   "split_special_tokens",
+   "stride",
+   "tokenizer_class",
+   "truncation_side",
+   "truncation_strategy",
+   "video_token",
+   "vision_bos_token",
+   "vision_eos_token"
+  ],
+  "chiavi_comportamento": [
+   "eos_token",
+   "max_length",
+   "pad_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+  "file": "chat_template.jinja",
+  "prima": "f44bf1af22a96b5331ddc146e29c745767688ca7",
+  "dopo": "fc09b0df0896106d9bd6bcd7403905dd83fe12d7",
+  "data": "2026-08-20T23:50:51.000Z",
+  "byte_prima": 8952,
+  "byte_dopo": 8950,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+  "file": "generation_config.json",
+  "prima": "e0e59783b58598a2fd1f72964836ab428311be83",
+  "dopo": "5350c98c83e37447f416ffa88f2982d9794f6b6a",
+  "data": "2026-08-23T03:58:21.000Z",
+  "byte_prima": 202,
+  "byte_dopo": 165,
+  "chiavi_cambiate": [
+   "eos_token_id"
+  ],
+  "chiavi_comportamento": [
+   "eos_token_id"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+  "file": "chat_template.jinja",
+  "prima": "9a83e5e632025069b5517244e35aa3ad5d037638",
+  "dopo": "489c6c867824d9111e7c79e1ff645e78491fa7e2",
+  "data": "2026-08-23T17:42:37.000Z",
+  "byte_prima": 408,
+  "byte_dopo": 506,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+  "file": "tokenizer_config.json",
+  "prima": "825d48fc28008a65aa3c92291f05700b4c21318a",
+  "dopo": "a58c3b53b3ce71551eafde2ed5ec8df48e0f4ff8",
+  "data": "2026-08-24T17:47:52.000Z",
+  "byte_prima": 17928,
+  "byte_dopo": 7675,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "llamafactory/tiny-random-Llama-3",
+  "file": "generation_config.json",
+  "prima": "2c85ff1cbe94f987e5af95683ad49232ed5f5766",
+  "dopo": "c17693c90450da4160582668bfe65a60175d43e5",
+  "data": "2024-06-07T20:48:43.000Z",
+  "byte_prima": 188,
+  "byte_dopo": 187,
+  "chiavi_cambiate": [
+   "bos_token_id",
+   "eos_token_id",
+   "pad_token_id",
+   "transformers_version"
+  ],
+  "chiavi_comportamento": [
+   "bos_token_id",
+   "eos_token_id",
+   "pad_token_id"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "llamafactory/tiny-random-Llama-3",
+  "file": "special_tokens_map.json",
+  "prima": "2c85ff1cbe94f987e5af95683ad49232ed5f5766",
+  "dopo": "c17693c90450da4160582668bfe65a60175d43e5",
+  "data": "2024-06-07T20:48:43.000Z",
+  "byte_prima": 414,
+  "byte_dopo": 73,
+  "chiavi_cambiate": [
+   "bos_token",
+   "eos_token",
+   "unk_token"
+  ],
+  "chiavi_comportamento": [
+   "bos_token",
+   "eos_token",
+   "unk_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "llamafactory/tiny-random-Llama-3",
+  "file": "tokenizer_config.json",
+  "prima": "2c85ff1cbe94f987e5af95683ad49232ed5f5766",
+  "dopo": "c17693c90450da4160582668bfe65a60175d43e5",
+  "data": "2024-06-07T20:48:43.000Z",
+  "byte_prima": 1618,
+  "byte_dopo": 50977,
+  "chiavi_cambiate": [
+   "add_bos_token",
+   "add_eos_token",
+   "added_tokens_decoder",
+   "bos_token",
+   "chat_template",
+   "clean_up_tokenization_spaces",
+   "eos_token",
+   "legacy",
+   "model_input_names",
+   "padding_side",
+   "sp_model_kwargs",
+   "tokenizer_class",
+   "unk_token"
+  ],
+  "chiavi_comportamento": [
+   "add_bos_token",
+   "add_eos_token",
+   "added_tokens_decoder",
+   "bos_token",
+   "chat_template",
+   "eos_token",
+   "unk_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "llamafactory/tiny-random-Llama-3",
+  "file": "generation_config.json",
+  "prima": "3872e19fa3559c76987bf71a55a8db601656103a",
+  "dopo": "4c47201fd9055540bdfb60b62f11c006c7efbb79",
+  "data": "2024-06-07T21:03:44.000Z",
+  "byte_prima": 187,
+  "byte_dopo": 182,
+  "chiavi_cambiate": [
+   "transformers_version"
+  ],
+  "chiavi_comportamento": [],
+  "classe": "innocuo"
+ },
+ {
+  "repo": "llamafactory/tiny-random-Llama-3",
+  "file": "tokenizer_config.json",
+  "prima": "2d9d8c1112e9cd4b0d66bb612e09be7da7997b18",
+  "dopo": "7aa8d3a6cad945714172439b0c60815289291b64",
+  "data": "2025-01-13T12:16:10.000Z",
+  "byte_prima": 50977,
+  "byte_dopo": 55351,
+  "chiavi_cambiate": [
+   "added_tokens_decoder",
+   "chat_template",
+   "model_max_length"
+  ],
+  "chiavi_comportamento": [
+   "added_tokens_decoder",
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "llamafactory/tiny-random-Llama-3",
+  "file": "generation_config.json",
+  "prima": "91099956cf45a62b7f8a1f7b543f146c02d37694",
+  "dopo": "3d9bad8dc2017610ef323728df21f9023b6f1763",
+  "data": "2025-01-13T12:18:27.000Z",
+  "byte_prima": 182,
+  "byte_dopo": 184,
+  "chiavi_cambiate": [
+   "eos_token_id",
+   "max_length",
+   "transformers_version"
+  ],
+  "chiavi_comportamento": [
+   "eos_token_id",
+   "max_length"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "llamafactory/tiny-random-Llama-3",
+  "file": "tokenizer_config.json",
+  "prima": "1eea8d26ea195928896520491d2cad489cba8bdb",
+  "dopo": "b6475c3a7bd11f8d5056144b1c13d3d4ceb10026",
+  "data": "2025-01-13T12:23:28.000Z",
+  "byte_prima": 55351,
+  "byte_dopo": 50911,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "MiniMaxAI/MiniMax-M2.7",
+  "file": "chat_template.jinja",
+  "prima": "4c9387fe99ab54b9478ab9ee3c1d5f19623bded5",
+  "dopo": "d7153aa1bfdcad43f7aa6f7fc8ddeb2e8da49306",
+  "data": "2026-04-09T14:17:34.000Z",
+  "byte_prima": 6473,
+  "byte_dopo": 6524,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "poolside/Laguna-XS.2",
+  "file": "generation_config.json",
+  "prima": "a6da52e3e9f9d486278fa2103a15d12d54fc0e59",
+  "dopo": "07c6c8e9fc4a43381946f981850a7822c12ad8c5",
+  "data": "2026-05-27T09:00:30.000Z",
+  "byte_prima": 168,
+  "byte_dopo": 184,
+  "chiavi_cambiate": [
+   "max_new_tokens",
+   "min_p",
+   "temperature",
+   "top_p"
+  ],
+  "chiavi_comportamento": [
+   "max_new_tokens",
+   "min_p",
+   "temperature",
+   "top_p"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "poolside/Laguna-XS.2",
+  "file": "generation_config.json",
+  "prima": "0bab366de50990e88340a1129a5a20aeed43419a",
+  "dopo": "f5f48854b62bd9bbe208dcaae6cd4b92ce4aa5da",
+  "data": "2026-06-18T18:34:44.000Z",
+  "byte_prima": 184,
+  "byte_dopo": 328,
+  "chiavi_cambiate": [
+   "default_chat_template_kwargs",
+   "reasoning_parser",
+   "tool_call_parser"
+  ],
+  "chiavi_comportamento": [],
+  "classe": "innocuo"
+ },
+ {
+  "repo": "poolside/Laguna-XS.2",
+  "file": "tokenizer_config.json",
+  "prima": "f5f48854b62bd9bbe208dcaae6cd4b92ce4aa5da",
+  "dopo": "3ff0d45128bcf130915d97174439c5e88ab0a3d1",
+  "data": "2026-07-01T08:57:39.000Z",
+  "byte_prima": 12979,
+  "byte_dopo": 12922,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "poolside/Laguna-M.1",
+  "file": "generation_config.json",
+  "prima": "9dd7749d5c9fa7bab5565d40f9c14e37debd1543",
+  "dopo": "e836636ca400894d3c49bab2f7676606e5dd290d",
+  "data": "2026-06-18T18:34:28.000Z",
+  "byte_prima": 184,
+  "byte_dopo": 328,
+  "chiavi_cambiate": [
+   "default_chat_template_kwargs",
+   "reasoning_parser",
+   "tool_call_parser"
+  ],
+  "chiavi_comportamento": [],
+  "classe": "innocuo"
+ },
+ {
+  "repo": "poolside/Laguna-M.1",
+  "file": "tokenizer_config.json",
+  "prima": "5bb2892a899809fd903829735f927207da358f2f",
+  "dopo": "4f8aa297f7866eaca7d955ee2960273d23010cd3",
+  "data": "2026-07-01T08:56:58.000Z",
+  "byte_prima": 12979,
+  "byte_dopo": 12922,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-8B-FP8",
+  "file": "generation_config.json",
+  "prima": "7bc181685238f30f554abe922bb7175319667e67",
+  "dopo": "add3e8dee80bcfc07aca2fd9edb299ae5c1cb8f7",
+  "data": "2025-04-28T18:16:15.000Z",
+  "byte_prima": 121,
+  "byte_dopo": 213,
+  "chiavi_cambiate": [
+   "_from_model_config",
+   "bos_token_id",
+   "do_sample",
+   "eos_token_id",
+   "temperature",
+   "top_k",
+   "top_p",
+   "transformers_version"
+  ],
+  "chiavi_comportamento": [
+   "bos_token_id",
+   "do_sample",
+   "eos_token_id",
+   "temperature",
+   "top_k",
+   "top_p"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-8B-FP8",
+  "file": "special_tokens_map.json",
+  "prima": "136b5b114bdb30a91fdb6cfa524030dd1ce18fa6",
+  "dopo": "02d96047e6925eca29b70fe31f420c1afa2e5d64",
+  "data": "2025-04-28T18:17:28.000Z",
+  "byte_prima": 613,
+  "byte_dopo": null,
+  "chiavi_cambiate": [
+   "additional_special_tokens",
+   "eos_token",
+   "pad_token"
+  ],
+  "chiavi_comportamento": [
+   "additional_special_tokens",
+   "eos_token",
+   "pad_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-8B-FP8",
+  "file": "tokenizer_config.json",
+  "prima": "a29cae3df5d16cc895083497dad6ba9530c7d84c",
+  "dopo": "a8f74dfface525a7143ff3a196248434898fdf04",
+  "data": "2025-05-19T07:46:45.000Z",
+  "byte_prima": 9675,
+  "byte_dopo": 9732,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-32B-Instruct-GPTQ-Int4",
+  "file": "tokenizer_config.json",
+  "prima": "3fa9c79b1c7afa3aff71daed487ef6af89be942c",
+  "dopo": "9239191be9d2202d2018e2ed73e37b644b4b3816",
+  "data": "2024-09-18T02:13:21.000Z",
+  "byte_prima": 7228,
+  "byte_dopo": 7307,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-32B-Instruct-GPTQ-Int4",
+  "file": "tokenizer_config.json",
+  "prima": "cb0b5c911379854cd2571f61a0834b61d56bd9d8",
+  "dopo": "34f0b153f75fea7e00a683b7505f51f7fd08da25",
+  "data": "2024-09-19T07:30:26.000Z",
+  "byte_prima": 7307,
+  "byte_dopo": 7305,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-72B-Instruct-AWQ",
+  "file": "tokenizer_config.json",
+  "prima": "a250ba806fc03a38e76765b811d843b462e045b6",
+  "dopo": "035adeffb861e8ee98344e2c7d8f50fe585e373d",
+  "data": "2024-09-19T07:30:38.000Z",
+  "byte_prima": 7307,
+  "byte_dopo": 7305,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "allenai/Olmo-3-7B-Think",
+  "file": "generation_config.json",
+  "prima": "a39e3f896babd3f4ab1f9c7c75abc3fa0919141b",
+  "dopo": "032a160e7ffc30f73fad9d7cfcaf56649cbd065c",
+  "data": "2025-11-21T19:10:12.000Z",
+  "byte_prima": 122,
+  "byte_dopo": 182,
+  "chiavi_cambiate": [
+   "max_new_tokens",
+   "temperature",
+   "top_p",
+   "transformers_version"
+  ],
+  "chiavi_comportamento": [
+   "max_new_tokens",
+   "temperature",
+   "top_p"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "allenai/Olmo-3-7B-Think",
+  "file": "generation_config.json",
+  "prima": "b3744c9993deed9261cc209f03927f113cdc755f",
+  "dopo": "5d89684927443a2bf68dff246f38bbc72458aabe",
+  "data": "2025-12-10T21:46:11.000Z",
+  "byte_prima": 182,
+  "byte_dopo": 203,
+  "chiavi_cambiate": [
+   "do_sample"
+  ],
+  "chiavi_comportamento": [
+   "do_sample"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "EleutherAI/gpt-neo-125m",
+  "file": "special_tokens_map.json",
+  "prima": "c0af9267b67ba6195206fe24bb1a20c160b91c7d",
+  "dopo": "b837f547b21dba6b29d7cc9154145a241b2a3945",
+  "data": "2021-04-06T18:07:03.000Z",
+  "byte_prima": null,
+  "byte_dopo": 357,
+  "chiavi_cambiate": [
+   "bos_token",
+   "eos_token",
+   "unk_token"
+  ],
+  "chiavi_comportamento": [
+   "bos_token",
+   "eos_token",
+   "unk_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "EleutherAI/gpt-neo-125m",
+  "file": "tokenizer_config.json",
+  "prima": "c0af9267b67ba6195206fe24bb1a20c160b91c7d",
+  "dopo": "b837f547b21dba6b29d7cc9154145a241b2a3945",
+  "data": "2021-04-06T18:07:03.000Z",
+  "byte_prima": null,
+  "byte_dopo": 560,
+  "chiavi_cambiate": [
+   "add_prefix_space",
+   "bos_token",
+   "eos_token",
+   "errors",
+   "model_max_length",
+   "name_or_path",
+   "unk_token"
+  ],
+  "chiavi_comportamento": [
+   "bos_token",
+   "eos_token",
+   "unk_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "EleutherAI/gpt-neo-125m",
+  "file": "generation_config.json",
+  "prima": "4445ae416d954757a2f3e2e6d446af5f22b04f8b",
+  "dopo": "21def0189f5705e2521767faed922f1f15e7d7db",
+  "data": "2024-01-31T20:29:39.000Z",
+  "byte_prima": null,
+  "byte_dopo": 119,
+  "chiavi_cambiate": [
+   "_from_model_config",
+   "bos_token_id",
+   "eos_token_id",
+   "transformers_version"
+  ],
+  "chiavi_comportamento": [
+   "bos_token_id",
+   "eos_token_id"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "EleutherAI/gpt-neo-125m",
+  "file": "tokenizer_config.json",
+  "prima": "4445ae416d954757a2f3e2e6d446af5f22b04f8b",
+  "dopo": "21def0189f5705e2521767faed922f1f15e7d7db",
+  "data": "2024-01-31T20:29:39.000Z",
+  "byte_prima": 560,
+  "byte_dopo": 727,
+  "chiavi_cambiate": [
+   "add_bos_token",
+   "clean_up_tokenization_spaces",
+   "name_or_path",
+   "tokenizer_class"
+  ],
+  "chiavi_comportamento": [
+   "add_bos_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-Coder-3B-Instruct",
+  "file": "generation_config.json",
+  "prima": "34219ccce5c83e369ccf32cf56019035f47efb42",
+  "dopo": "89fe5444e8baf5736e70f528f1edcc79e6616ef6",
+  "data": "2024-11-18T12:53:38.000Z",
+  "byte_prima": 242,
+  "byte_dopo": 243,
+  "chiavi_cambiate": [
+   "transformers_version"
+  ],
+  "chiavi_comportamento": [],
+  "classe": "innocuo"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-Coder-3B-Instruct",
+  "file": "tokenizer_config.json",
+  "prima": "34219ccce5c83e369ccf32cf56019035f47efb42",
+  "dopo": "89fe5444e8baf5736e70f528f1edcc79e6616ef6",
+  "data": "2024-11-18T12:53:38.000Z",
+  "byte_prima": 7305,
+  "byte_dopo": 7305,
+  "chiavi_cambiate": [
+   "model_max_length"
+  ],
+  "chiavi_comportamento": [],
+  "classe": "innocuo"
+ },
+ {
+  "repo": "microsoft/phi-2",
+  "file": "generation_config.json",
+  "prima": "cb02e3efd822d6dbc1ca7e0dff31c29a11550411",
+  "dopo": "313453cae69791d7650cda8f0134d4233f6f253c",
+  "data": "2024-01-27T17:21:23.000Z",
+  "byte_prima": 74,
+  "byte_dopo": 124,
+  "chiavi_cambiate": [
+   "bos_token_id",
+   "eos_token_id"
+  ],
+  "chiavi_comportamento": [
+   "bos_token_id",
+   "eos_token_id"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "NousResearch/Hermes-3-Llama-3.1-8B",
+  "file": "special_tokens_map.json",
+  "prima": "06f644ab8370c9fe2288c072ffdb6fecf79fb3c6",
+  "dopo": "39cc98e847feefc6196fc32f8f9bbc06bb1f787d",
+  "data": "2024-07-31T01:19:21.000Z",
+  "byte_prima": 449,
+  "byte_dopo": 444,
+  "chiavi_cambiate": [
+   "eos_token"
+  ],
+  "chiavi_comportamento": [
+   "eos_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "NousResearch/Hermes-3-Llama-3.1-8B",
+  "file": "generation_config.json",
+  "prima": "39cc98e847feefc6196fc32f8f9bbc06bb1f787d",
+  "dopo": "d4ed47f114cf92e2f6ad1eaa5c28dd7932ae4b64",
+  "data": "2024-07-31T01:19:29.000Z",
+  "byte_prima": 185,
+  "byte_dopo": 185,
+  "chiavi_cambiate": [
+   "eos_token_id"
+  ],
+  "chiavi_comportamento": [
+   "eos_token_id"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "NousResearch/Hermes-3-Llama-3.1-8B",
+  "file": "tokenizer_config.json",
+  "prima": "34ccd9045c44ce074650c47bdb86254f1aa05956",
+  "dopo": "5aada9f97327e253b3cf836e051df623a965a162",
+  "data": "2024-07-31T01:26:06.000Z",
+  "byte_prima": 50334,
+  "byte_dopo": 50329,
+  "chiavi_cambiate": [
+   "pad_token"
+  ],
+  "chiavi_comportamento": [
+   "pad_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "NousResearch/Hermes-3-Llama-3.1-8B",
+  "file": "tokenizer_config.json",
+  "prima": "5aada9f97327e253b3cf836e051df623a965a162",
+  "dopo": "9949f486fbfa5834405a9aabf4adb26fe5b29274",
+  "data": "2024-07-31T01:27:19.000Z",
+  "byte_prima": 50329,
+  "byte_dopo": 50324,
+  "chiavi_cambiate": [
+   "eos_token"
+  ],
+  "chiavi_comportamento": [
+   "eos_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "NousResearch/Hermes-3-Llama-3.1-8B",
+  "file": "tokenizer_config.json",
+  "prima": "248bb9b3e1f00f5e7d530090a17c9201eca42e09",
+  "dopo": "db6a44dd23ecd3eb23b46234d44214998ab38540",
+  "data": "2024-08-06T03:33:28.000Z",
+  "byte_prima": 50324,
+  "byte_dopo": 50242,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "NousResearch/Hermes-3-Llama-3.1-8B",
+  "file": "tokenizer_config.json",
+  "prima": "8c61760e58f42c621869677b82216f6daee10322",
+  "dopo": "f537e1048542f59a6ac3d2662ff36dd756755dde",
+  "data": "2024-08-18T22:00:20.000Z",
+  "byte_prima": 50242,
+  "byte_dopo": 55654,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "NousResearch/Hermes-3-Llama-3.1-8B",
+  "file": "tokenizer_config.json",
+  "prima": "f537e1048542f59a6ac3d2662ff36dd756755dde",
+  "dopo": "67bf4aca9f4243e275f402f3708eed3aa8a9038c",
+  "data": "2024-08-19T15:42:05.000Z",
+  "byte_prima": 55654,
+  "byte_dopo": 55655,
+  "chiavi_cambiate": [],
+  "chiavi_comportamento": [],
+  "classe": "innocuo"
+ },
+ {
+  "repo": "NousResearch/Hermes-3-Llama-3.1-8B",
+  "file": "tokenizer_config.json",
+  "prima": "67bf4aca9f4243e275f402f3708eed3aa8a9038c",
+  "dopo": "aa50cfc2048ce84e9734f79eb1cd76f8ed543661",
+  "data": "2024-08-22T10:12:10.000Z",
+  "byte_prima": 55655,
+  "byte_dopo": 55789,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "NousResearch/Hermes-3-Llama-3.1-8B",
+  "file": "tokenizer_config.json",
+  "prima": "aabb745a717e133b74dcae23195d2635cf5f38cc",
+  "dopo": "5e3fd4817e213a9fd15a5bb3ec95788a6f04d4a5",
+  "data": "2024-09-05T07:35:38.000Z",
+  "byte_prima": 55789,
+  "byte_dopo": 55820,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "NousResearch/Hermes-3-Llama-3.1-8B",
+  "file": "tokenizer_config.json",
+  "prima": "cc68dc2c355c72a3564fc4cde2caeceaf663b4c5",
+  "dopo": "5ba4922000a4050f66d359446248817b40479c37",
+  "data": "2024-09-08T06:46:52.000Z",
+  "byte_prima": 55820,
+  "byte_dopo": 55609,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "NousResearch/Hermes-3-Llama-3.1-8B",
+  "file": "tokenizer_config.json",
+  "prima": "5ba4922000a4050f66d359446248817b40479c37",
+  "dopo": "ebcf7c1aca87a99f70e26cf59678587dd73ed4bf",
+  "data": "2024-09-08T07:25:22.000Z",
+  "byte_prima": 55609,
+  "byte_dopo": 55772,
+  "chiavi_cambiate": [
+   "_testo",
+   "added_tokens_decoder",
+   "bos_token",
+   "chat_template",
+   "clean_up_tokenization_spaces",
+   "eos_token",
+   "model_input_names",
+   "model_max_length",
+   "pad_token",
+   "tokenizer_class"
+  ],
+  "chiavi_comportamento": [
+   "added_tokens_decoder",
+   "bos_token",
+   "chat_template",
+   "eos_token",
+   "pad_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "NousResearch/Hermes-3-Llama-3.1-8B",
+  "file": "tokenizer_config.json",
+  "prima": "ebcf7c1aca87a99f70e26cf59678587dd73ed4bf",
+  "dopo": "489839286ef3415bd8c689dcdf96f812291e81ba",
+  "data": "2024-09-08T07:28:46.000Z",
+  "byte_prima": 55772,
+  "byte_dopo": 55778,
+  "chiavi_cambiate": [
+   "_testo",
+   "added_tokens_decoder",
+   "bos_token",
+   "chat_template",
+   "clean_up_tokenization_spaces",
+   "eos_token",
+   "model_input_names",
+   "model_max_length",
+   "pad_token",
+   "tokenizer_class"
+  ],
+  "chiavi_comportamento": [
+   "added_tokens_decoder",
+   "bos_token",
+   "chat_template",
+   "eos_token",
+   "pad_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "NousResearch/Hermes-3-Llama-3.1-8B",
+  "file": "tokenizer_config.json",
+  "prima": "489839286ef3415bd8c689dcdf96f812291e81ba",
+  "dopo": "896ea440e5a9e6070e3d8a2774daf2b481ab425b",
+  "data": "2024-09-08T07:39:55.000Z",
+  "byte_prima": 55778,
+  "byte_dopo": 55803,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "deepseek-ai/deepseek-coder-7b-instruct-v1.5",
+  "file": "generation_config.json",
+  "prima": "f701335d4f6cc27708185d8e4f6a1704cd530520",
+  "dopo": "0c5229eb1c7a028c2f2fd51a0da070042ead8269",
+  "data": "2024-02-05T03:37:07.000Z",
+  "byte_prima": 111,
+  "byte_dopo": 121,
+  "chiavi_cambiate": [
+   "bos_token_id",
+   "eos_token_id"
+  ],
+  "chiavi_comportamento": [
+   "bos_token_id",
+   "eos_token_id"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "deepseek-ai/deepseek-coder-7b-instruct-v1.5",
+  "file": "generation_config.json",
+  "prima": "c63ca91ecafdb18a55364b095d752d3df1693c3f",
+  "dopo": "2a050a4c59d687a85324d32e147517992117ed30",
+  "data": "2024-02-05T03:38:36.000Z",
+  "byte_prima": 121,
+  "byte_dopo": 121,
+  "chiavi_cambiate": [
+   "eos_token_id"
+  ],
+  "chiavi_comportamento": [
+   "eos_token_id"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-Coder-7B-Instruct-GPTQ-Int4",
+  "file": "generation_config.json",
+  "prima": "85fa26bcad08874ed465c540c7b995f247b41f7b",
+  "dopo": "3d0e91af138113d0b17d8011adf140d22423d13e",
+  "data": "2024-11-18T12:54:13.000Z",
+  "byte_prima": 242,
+  "byte_dopo": 242,
+  "chiavi_cambiate": [
+   "transformers_version"
+  ],
+  "chiavi_comportamento": [],
+  "classe": "innocuo"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-Coder-7B-Instruct-GPTQ-Int4",
+  "file": "tokenizer_config.json",
+  "prima": "85fa26bcad08874ed465c540c7b995f247b41f7b",
+  "dopo": "3d0e91af138113d0b17d8011adf140d22423d13e",
+  "data": "2024-11-18T12:54:13.000Z",
+  "byte_prima": 7305,
+  "byte_dopo": 7305,
+  "chiavi_cambiate": [
+   "model_max_length"
+  ],
+  "chiavi_comportamento": [],
+  "classe": "innocuo"
+ },
+ {
+  "repo": "poolside/Laguna-XS-2.1",
+  "file": "chat_template.jinja",
+  "prima": "b12ac507d76baf20f39bc20568459fd75b19aba9",
+  "dopo": "575f0f288a8e61da7492135a678c52dc371a7936",
+  "data": "2026-07-07T08:43:44.000Z",
+  "byte_prima": 6116,
+  "byte_dopo": 3874,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "poolside/Laguna-XS-2.1",
+  "file": "tokenizer_config.json",
+  "prima": "c405648833500615a2efde76886b8aed4fb9324e",
+  "dopo": "205dc65dd4bda946c50da6b7522b215734fa107b",
+  "data": "2026-07-24T10:38:51.000Z",
+  "byte_prima": 12922,
+  "byte_dopo": 16985,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "poolside/Laguna-XS-2.1",
+  "file": "generation_config.json",
+  "prima": "205dc65dd4bda946c50da6b7522b215734fa107b",
+  "dopo": "e9df9a59996d790b94b70f3fef343fe1d9e34bdf",
+  "data": "2026-07-29T13:24:04.000Z",
+  "byte_prima": 463,
+  "byte_dopo": 477,
+  "chiavi_cambiate": [
+   "top_k"
+  ],
+  "chiavi_comportamento": [
+   "top_k"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "swiss-ai/Apertus-8B-Instruct-2509",
+  "file": "chat_template.jinja",
+  "prima": "55ec663ac96b82bfa30608b9c7db4926e09591b0",
+  "dopo": "ffb69ffeb76480f975934e7c997feb857151c83b",
+  "data": "2025-09-01T22:39:33.000Z",
+  "byte_prima": 13845,
+  "byte_dopo": 13991,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "swiss-ai/Apertus-8B-Instruct-2509",
+  "file": "chat_template.jinja",
+  "prima": "5df61a7485f61f7a059ec858bc3557ad7fe45e3d",
+  "dopo": "cdb3e4f4ad41e0cc394bb92c302ac2eed57e9586",
+  "data": "2025-11-14T11:00:08.000Z",
+  "byte_prima": 13991,
+  "byte_dopo": 14601,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "swiss-ai/Apertus-8B-Instruct-2509",
+  "file": "tokenizer_config.json",
+  "prima": "5df61a7485f61f7a059ec858bc3557ad7fe45e3d",
+  "dopo": "cdb3e4f4ad41e0cc394bb92c302ac2eed57e9586",
+  "data": "2025-11-14T11:00:08.000Z",
+  "byte_prima": 177337,
+  "byte_dopo": 177334,
+  "chiavi_cambiate": [
+   "added_tokens_decoder"
+  ],
+  "chiavi_comportamento": [
+   "added_tokens_decoder"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "swiss-ai/Apertus-8B-Instruct-2509",
+  "file": "tokenizer_config.json",
+  "prima": "2256fb4a51e59fc115305da71c420b3b0a278e07",
+  "dopo": "b946d40447b2b597999b9c86d44bee0b452c919f",
+  "data": "2026-07-17T08:57:20.000Z",
+  "byte_prima": 177334,
+  "byte_dopo": 177337,
+  "chiavi_cambiate": [
+   "added_tokens_decoder"
+  ],
+  "chiavi_comportamento": [
+   "added_tokens_decoder"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-235B-A22B",
+  "file": "special_tokens_map.json",
+  "prima": "0ade50d449c1aa644bcdeaae250b17520caaebe6",
+  "dopo": "92aeee8d623ee31a39c5eb070dd256cef5dff412",
+  "data": "2025-04-28T17:53:09.000Z",
+  "byte_prima": 613,
+  "byte_dopo": null,
+  "chiavi_cambiate": [
+   "additional_special_tokens",
+   "eos_token",
+   "pad_token"
+  ],
+  "chiavi_comportamento": [
+   "additional_special_tokens",
+   "eos_token",
+   "pad_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-235B-A22B",
+  "file": "tokenizer_config.json",
+  "prima": "b51c4308ed84804fa6722b20722cd91e3cd17808",
+  "dopo": "d5280577feb14062e43e5d6ad97fcdf9d2f581cc",
+  "data": "2025-05-19T07:42:02.000Z",
+  "byte_prima": 9675,
+  "byte_dopo": 9732,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-Coder-1.5B-Instruct",
+  "file": "generation_config.json",
+  "prima": "a31addcae829213cffe3cfb872284974a4346531",
+  "dopo": "9ce57ed54f45f61e349bb44ec689e4a013b8be7c",
+  "data": "2024-09-19T04:01:58.000Z",
+  "byte_prima": 117,
+  "byte_dopo": 241,
+  "chiavi_cambiate": [
+   "do_sample",
+   "eos_token_id",
+   "max_new_tokens",
+   "pad_token_id",
+   "repetition_penalty",
+   "temperature",
+   "top_k",
+   "top_p",
+   "transformers_version"
+  ],
+  "chiavi_comportamento": [
+   "do_sample",
+   "eos_token_id",
+   "max_new_tokens",
+   "pad_token_id",
+   "repetition_penalty",
+   "temperature",
+   "top_k",
+   "top_p"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-Coder-1.5B-Instruct",
+  "file": "tokenizer_config.json",
+  "prima": "9ce57ed54f45f61e349bb44ec689e4a013b8be7c",
+  "dopo": "71754d9e15bcc0c2223ad2854682b4ea58fd6f66",
+  "data": "2024-09-19T07:30:41.000Z",
+  "byte_prima": 7228,
+  "byte_dopo": 7225,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-Coder-1.5B-Instruct",
+  "file": "tokenizer_config.json",
+  "prima": "cc932d8a05bf5a3dcd700f50584714d17fc4d03a",
+  "dopo": "19ddfaeed64b22390fd727ac3caf3c2571fda6e3",
+  "data": "2024-09-20T03:47:19.000Z",
+  "byte_prima": 7225,
+  "byte_dopo": 7305,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-Coder-1.5B-Instruct",
+  "file": "generation_config.json",
+  "prima": "357b899b4714bf46d935fb9911e8139b5b9efc29",
+  "dopo": "50285f662d2777f8c585069ed157217de098d26e",
+  "data": "2024-11-18T12:53:10.000Z",
+  "byte_prima": 241,
+  "byte_dopo": 242,
+  "chiavi_cambiate": [
+   "transformers_version"
+  ],
+  "chiavi_comportamento": [],
+  "classe": "innocuo"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-Coder-1.5B-Instruct",
+  "file": "tokenizer_config.json",
+  "prima": "357b899b4714bf46d935fb9911e8139b5b9efc29",
+  "dopo": "50285f662d2777f8c585069ed157217de098d26e",
+  "data": "2024-11-18T12:53:10.000Z",
+  "byte_prima": 7305,
+  "byte_dopo": 7305,
+  "chiavi_cambiate": [
+   "model_max_length"
+  ],
+  "chiavi_comportamento": [],
+  "classe": "innocuo"
+ },
+ {
+  "repo": "trl-internal-testing/tiny-random-LlamaForCausalLM",
+  "file": "special_tokens_map.json",
+  "prima": "5dad3ab546b8c64a0dd8598d74617eab659bf786",
+  "dopo": "a3361c167ef99e1cb13bd770eb25c7ec1510ca18",
+  "data": "2023-03-29T07:11:50.000Z",
+  "byte_prima": null,
+  "byte_dopo": 3,
+  "chiavi_cambiate": [],
+  "chiavi_comportamento": [],
+  "classe": "innocuo"
+ },
+ {
+  "repo": "trl-internal-testing/tiny-random-LlamaForCausalLM",
+  "file": "tokenizer_config.json",
+  "prima": "5dad3ab546b8c64a0dd8598d74617eab659bf786",
+  "dopo": "a3361c167ef99e1cb13bd770eb25c7ec1510ca18",
+  "data": "2023-03-29T07:11:50.000Z",
+  "byte_prima": null,
+  "byte_dopo": 257,
+  "chiavi_cambiate": [
+   "bos_token",
+   "eos_token",
+   "model_max_length",
+   "special_tokens_map_file",
+   "tokenizer_class",
+   "unk_token"
+  ],
+  "chiavi_comportamento": [
+   "bos_token",
+   "eos_token",
+   "unk_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "trl-internal-testing/tiny-random-LlamaForCausalLM",
+  "file": "generation_config.json",
+  "prima": "a2230a9caaf8ae26dca7b7bca430ae036f6c6a6b",
+  "dopo": "e47f42c46e5aa2d90b1854c6d3ec8a30b46eb4bc",
+  "data": "2024-04-23T12:10:14.000Z",
+  "byte_prima": 138,
+  "byte_dopo": 137,
+  "chiavi_cambiate": [
+   "pad_token_id"
+  ],
+  "chiavi_comportamento": [
+   "pad_token_id"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "trl-internal-testing/tiny-random-LlamaForCausalLM",
+  "file": "special_tokens_map.json",
+  "prima": "e47f42c46e5aa2d90b1854c6d3ec8a30b46eb4bc",
+  "dopo": "2c542e4731d42d3bb68324c4eca16df9f93b8b33",
+  "data": "2024-04-23T12:12:07.000Z",
+  "byte_prima": 3,
+  "byte_dopo": 552,
+  "chiavi_cambiate": [
+   "bos_token",
+   "eos_token",
+   "pad_token",
+   "unk_token"
+  ],
+  "chiavi_comportamento": [
+   "bos_token",
+   "eos_token",
+   "pad_token",
+   "unk_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "trl-internal-testing/tiny-random-LlamaForCausalLM",
+  "file": "tokenizer_config.json",
+  "prima": "e47f42c46e5aa2d90b1854c6d3ec8a30b46eb4bc",
+  "dopo": "2c542e4731d42d3bb68324c4eca16df9f93b8b33",
+  "data": "2024-04-23T12:12:07.000Z",
+  "byte_prima": 257,
+  "byte_dopo": 822,
+  "chiavi_cambiate": [
+   "add_bos_token",
+   "add_eos_token",
+   "added_tokens_decoder",
+   "bos_token",
+   "clean_up_tokenization_spaces",
+   "eos_token",
+   "model_max_length",
+   "pad_token",
+   "special_tokens_map_file",
+   "unk_token",
+   "use_default_system_prompt"
+  ],
+  "chiavi_comportamento": [
+   "add_bos_token",
+   "add_eos_token",
+   "added_tokens_decoder",
+   "bos_token",
+   "eos_token",
+   "pad_token",
+   "unk_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-Coder-480B-A35B-Instruct-FP8",
+  "file": "special_tokens_map.json",
+  "prima": "7e2940c33763dda2c83fd05bea4d431e768c4d46",
+  "dopo": "9866a339f8823c42f615755b9ef23cc296d0658c",
+  "data": "2025-07-22T16:52:56.000Z",
+  "byte_prima": 613,
+  "byte_dopo": null,
+  "chiavi_cambiate": [
+   "additional_special_tokens",
+   "eos_token",
+   "pad_token"
+  ],
+  "chiavi_comportamento": [
+   "additional_special_tokens",
+   "eos_token",
+   "pad_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-Coder-480B-A35B-Instruct-FP8",
+  "file": "generation_config.json",
+  "prima": "9866a339f8823c42f615755b9ef23cc296d0658c",
+  "dopo": "8fe13515933c3065538cad7de50bbca4b1af3e3b",
+  "data": "2025-07-22T17:26:20.000Z",
+  "byte_prima": 121,
+  "byte_dopo": 180,
+  "chiavi_cambiate": [
+   "_from_model_config",
+   "bos_token_id",
+   "do_sample",
+   "eos_token_id",
+   "pad_token_id",
+   "repetition_penalty",
+   "temperature",
+   "top_k",
+   "top_p",
+   "transformers_version"
+  ],
+  "chiavi_comportamento": [
+   "bos_token_id",
+   "do_sample",
+   "eos_token_id",
+   "pad_token_id",
+   "repetition_penalty",
+   "temperature",
+   "top_k",
+   "top_p"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-Coder-480B-A35B-Instruct-FP8",
+  "file": "tokenizer_config.json",
+  "prima": "9866a339f8823c42f615755b9ef23cc296d0658c",
+  "dopo": "8fe13515933c3065538cad7de50bbca4b1af3e3b",
+  "data": "2025-07-22T17:26:20.000Z",
+  "byte_prima": 5405,
+  "byte_dopo": 13601,
+  "chiavi_cambiate": [
+   "chat_template",
+   "extra_special_tokens"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-Coder-480B-A35B-Instruct-FP8",
+  "file": "tokenizer_config.json",
+  "prima": "bcb68ce106fd61984f681a36f4b1d6c4398f0c5c",
+  "dopo": "1f6f99b0d0f8e209a7574a946b440b1020a6f31b",
+  "data": "2025-08-07T07:07:09.000Z",
+  "byte_prima": 13601,
+  "byte_dopo": 12910,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-Coder-480B-A35B-Instruct-FP8",
+  "file": "chat_template.jinja",
+  "prima": "1f6f99b0d0f8e209a7574a946b440b1020a6f31b",
+  "dopo": "61868e4047c896cd11faf7dc5bc0f9f73ba5ed95",
+  "data": "2025-08-21T10:08:13.000Z",
+  "byte_prima": 6722,
+  "byte_dopo": null,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-Coder-480B-A35B-Instruct-FP8",
+  "file": "chat_template.jinja",
+  "prima": "61868e4047c896cd11faf7dc5bc0f9f73ba5ed95",
+  "dopo": "003f183a92fbe5b9a8325aaa8b2ae797c91dd90f",
+  "data": "2025-08-21T10:40:35.000Z",
+  "byte_prima": null,
+  "byte_dopo": 6211,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen3-Coder-480B-A35B-Instruct-FP8",
+  "file": "tokenizer_config.json",
+  "prima": "61868e4047c896cd11faf7dc5bc0f9f73ba5ed95",
+  "dopo": "003f183a92fbe5b9a8325aaa8b2ae797c91dd90f",
+  "data": "2025-08-21T10:40:35.000Z",
+  "byte_prima": 12910,
+  "byte_dopo": 13055,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "IlyaGusev/saiga_llama3_8b",
+  "file": "generation_config.json",
+  "prima": "07d82ece22e5578add4e2d4908f0b01447276846",
+  "dopo": "0af818c24e23e1aff7f3ad895c6862f4d3598971",
+  "data": "2024-04-19T11:52:31.000Z",
+  "byte_prima": 121,
+  "byte_dopo": 277,
+  "chiavi_cambiate": [
+   "do_sample",
+   "max_new_tokens",
+   "pad_token_id",
+   "repetition_penalty",
+   "temperature",
+   "top_k",
+   "top_p",
+   "transformers_version"
+  ],
+  "chiavi_comportamento": [
+   "do_sample",
+   "max_new_tokens",
+   "pad_token_id",
+   "repetition_penalty",
+   "temperature",
+   "top_k",
+   "top_p"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "IlyaGusev/saiga_llama3_8b",
+  "file": "tokenizer_config.json",
+  "prima": "55a2da966c9a86ff2c529b96439573d47cf13574",
+  "dopo": "d04705b3c527cc5f5b0ee48c170e4d921cf28d45",
+  "data": "2024-04-19T12:22:29.000Z",
+  "byte_prima": 51078,
+  "byte_dopo": 51506,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "peft-internal-testing/tiny-random-OPTForCausalLM",
+  "file": "special_tokens_map.json",
+  "prima": "2e0dbbef18bc18d44d6cd07e7bfd1d775516fd30",
+  "dopo": "6dbfc797d40268c2f04755d6dddcb462f6e30d79",
+  "data": "2025-11-17T13:22:34.000Z",
+  "byte_prima": null,
+  "byte_dopo": 548,
+  "chiavi_cambiate": [
+   "bos_token",
+   "eos_token",
+   "pad_token",
+   "unk_token"
+  ],
+  "chiavi_comportamento": [
+   "bos_token",
+   "eos_token",
+   "pad_token",
+   "unk_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "peft-internal-testing/tiny-random-OPTForCausalLM",
+  "file": "tokenizer_config.json",
+  "prima": "2e0dbbef18bc18d44d6cd07e7bfd1d775516fd30",
+  "dopo": "6dbfc797d40268c2f04755d6dddcb462f6e30d79",
+  "data": "2025-11-17T13:22:34.000Z",
+  "byte_prima": null,
+  "byte_dopo": 775,
+  "chiavi_cambiate": [
+   "add_bos_token",
+   "add_prefix_space",
+   "added_tokens_decoder",
+   "bos_token",
+   "clean_up_tokenization_spaces",
+   "eos_token",
+   "errors",
+   "extra_special_tokens",
+   "model_max_length",
+   "pad_token",
+   "pad_token_type_id",
+   "padding_side",
+   "tokenizer_class",
+   "unk_token"
+  ],
+  "chiavi_comportamento": [
+   "add_bos_token",
+   "added_tokens_decoder",
+   "bos_token",
+   "eos_token",
+   "pad_token",
+   "unk_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-Coder-1.5B",
+  "file": "tokenizer_config.json",
+  "prima": "835b517c690ba0a4a54212e87a0d6ab1a7fc03d0",
+  "dopo": "8fb5dcaecbef422c87aa43358f562efa33e6639c",
+  "data": "2024-09-19T07:30:40.000Z",
+  "byte_prima": 7228,
+  "byte_dopo": 7225,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-Coder-1.5B",
+  "file": "tokenizer_config.json",
+  "prima": "5978c887d5312b7e3fd554d62516fb12cb1ed049",
+  "dopo": "d3586cfe793730945f8e4d7ef31032a3ee50247d",
+  "data": "2024-09-20T03:47:03.000Z",
+  "byte_prima": 7225,
+  "byte_dopo": 7305,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-Coder-1.5B",
+  "file": "tokenizer_config.json",
+  "prima": "2a7876a1717b81c75d35c34348057e6e3fb53561",
+  "dopo": "ad471626edbeca4f7349a79796b2f0ccf56283e3",
+  "data": "2024-09-20T08:43:21.000Z",
+  "byte_prima": 7305,
+  "byte_dopo": 7308,
+  "chiavi_cambiate": [
+   "eos_token"
+  ],
+  "chiavi_comportamento": [
+   "eos_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-Coder-1.5B",
+  "file": "generation_config.json",
+  "prima": "6df6cbb5f18af4eae29e0bc95b7ecd46b07fbdcd",
+  "dopo": "df3ce67c0e24480f20468b6ef2894622d69eb73b",
+  "data": "2024-11-18T12:53:05.000Z",
+  "byte_prima": 117,
+  "byte_dopo": 117,
+  "chiavi_cambiate": [
+   "transformers_version"
+  ],
+  "chiavi_comportamento": [],
+  "classe": "innocuo"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-Coder-1.5B",
+  "file": "tokenizer_config.json",
+  "prima": "6df6cbb5f18af4eae29e0bc95b7ecd46b07fbdcd",
+  "dopo": "df3ce67c0e24480f20468b6ef2894622d69eb73b",
+  "data": "2024-11-18T12:53:05.000Z",
+  "byte_prima": 7308,
+  "byte_dopo": 7308,
+  "chiavi_cambiate": [
+   "model_max_length"
+  ],
+  "chiavi_comportamento": [],
+  "classe": "innocuo"
+ },
+ {
+  "repo": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
+  "file": "generation_config.json",
+  "prima": "10f2fc8858445f38790ac4586892f80a3e376084",
+  "dopo": "4e5485ed9bc7191a570b78c3bf4b9b252ca63793",
+  "data": "2025-01-21T03:54:07.000Z",
+  "byte_prima": null,
+  "byte_dopo": 181,
+  "chiavi_cambiate": [
+   "_from_model_config",
+   "bos_token_id",
+   "do_sample",
+   "eos_token_id",
+   "temperature",
+   "top_p",
+   "transformers_version"
+  ],
+  "chiavi_comportamento": [
+   "bos_token_id",
+   "do_sample",
+   "eos_token_id",
+   "temperature",
+   "top_p"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
+  "file": "tokenizer_config.json",
+  "prima": "14dd1130311655b43c3ce41dd505f70f6ca89845",
+  "dopo": "6602cadec947dbb53e64f3d8d6425320b2197247",
+  "data": "2025-02-09T06:34:39.000Z",
+  "byte_prima": 3061,
+  "byte_dopo": 3071,
+  "chiavi_cambiate": [
+   "chat_template"
+  ],
+  "chiavi_comportamento": [
+   "chat_template"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "allenai/Olmo-3-7B-Instruct",
+  "file": "generation_config.json",
+  "prima": "8b6b19f0bd6708bdfa5510c21be52f3af3caa336",
+  "dopo": "48683dfc961ce0f02f802f109b261d6028d83e0c",
+  "data": "2025-11-21T19:13:08.000Z",
+  "byte_prima": 117,
+  "byte_dopo": 183,
+  "chiavi_cambiate": [
+   "max_new_tokens",
+   "temperature",
+   "top_p"
+  ],
+  "chiavi_comportamento": [
+   "max_new_tokens",
+   "temperature",
+   "top_p"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "allenai/Olmo-3-7B-Instruct",
+  "file": "generation_config.json",
+  "prima": "84e56fcd924b9a0f6efb6997cf0dc9624b0a2331",
+  "dopo": "51c1f0b28546f9cf537583ea5b9f5da4fed23ebe",
+  "data": "2025-11-26T02:06:50.000Z",
+  "byte_prima": 183,
+  "byte_dopo": 204,
+  "chiavi_cambiate": [
+   "do_sample"
+  ],
+  "chiavi_comportamento": [
+   "do_sample"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "bigscience/bloom-560m",
+  "file": "tokenizer_config.json",
+  "prima": "4a0a1b762dbcfb586af561ee545248229666c9fc",
+  "dopo": "0628d1bbfc2b2600d2d671d9d1dc0cc66c8d1867",
+  "data": "2022-06-22T17:47:06.000Z",
+  "byte_prima": 204,
+  "byte_dopo": 199,
+  "chiavi_cambiate": [
+   "tokenizer_class"
+  ],
+  "chiavi_comportamento": [],
+  "classe": "innocuo"
+ },
+ {
+  "repo": "bigscience/bloom-560m",
+  "file": "tokenizer_config.json",
+  "prima": "7fdf1238d3cf6f3ea9f383ac44de1abffddf40aa",
+  "dopo": "3e8a2f1867282e17817de0f8282c0ee199f45796",
+  "data": "2022-07-13T09:03:27.000Z",
+  "byte_prima": 199,
+  "byte_dopo": 222,
+  "chiavi_cambiate": [
+   "padding_side"
+  ],
+  "chiavi_comportamento": [],
+  "classe": "innocuo"
+ },
+ {
+  "repo": "unsloth/mistral-7b-v0.3-bnb-4bit",
+  "file": "special_tokens_map.json",
+  "prima": "42897d14ddbc5d5f4d40a481f17b87f49ea12511",
+  "dopo": "fdeda262808c80a14999cf57fc891418b0569f8e",
+  "data": "2024-05-22T18:17:21.000Z",
+  "byte_prima": null,
+  "byte_dopo": 560,
+  "chiavi_cambiate": [
+   "bos_token",
+   "eos_token",
+   "pad_token",
+   "unk_token"
+  ],
+  "chiavi_comportamento": [
+   "bos_token",
+   "eos_token",
+   "pad_token",
+   "unk_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "unsloth/mistral-7b-v0.3-bnb-4bit",
+  "file": "tokenizer_config.json",
+  "prima": "42897d14ddbc5d5f4d40a481f17b87f49ea12511",
+  "dopo": "fdeda262808c80a14999cf57fc891418b0569f8e",
+  "data": "2024-05-22T18:17:21.000Z",
+  "byte_prima": null,
+  "byte_dopo": 136734,
+  "chiavi_cambiate": [
+   "add_bos_token",
+   "add_eos_token",
+   "add_prefix_space",
+   "added_tokens_decoder",
+   "bos_token",
+   "clean_up_tokenization_spaces",
+   "eos_token",
+   "legacy",
+   "model_max_length",
+   "pad_token",
+   "padding_side",
+   "sp_model_kwargs",
+   "spaces_between_special_tokens",
+   "tokenizer_class",
+   "unk_token",
+   "use_default_system_prompt"
+  ],
+  "chiavi_comportamento": [
+   "add_bos_token",
+   "add_eos_token",
+   "added_tokens_decoder",
+   "bos_token",
+   "eos_token",
+   "pad_token",
+   "unk_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "unsloth/mistral-7b-v0.3-bnb-4bit",
+  "file": "generation_config.json",
+  "prima": "6ae0f3056d3ba783295883026e417e8f838a6e9e",
+  "dopo": "ff1aba4d92518713a7366d03d247afb1b0b76a64",
+  "data": "2024-08-07T00:55:23.000Z",
+  "byte_prima": 111,
+  "byte_dopo": 157,
+  "chiavi_cambiate": [
+   "max_length",
+   "pad_token_id",
+   "transformers_version"
+  ],
+  "chiavi_comportamento": [
+   "max_length",
+   "pad_token_id"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "unsloth/mistral-7b-v0.3-bnb-4bit",
+  "file": "special_tokens_map.json",
+  "prima": "ff1aba4d92518713a7366d03d247afb1b0b76a64",
+  "dopo": "f56edbe57286f2f04b275177f35fa8cc472f5352",
+  "data": "2024-08-07T00:55:24.000Z",
+  "byte_prima": 560,
+  "byte_dopo": 446,
+  "chiavi_cambiate": [
+   "pad_token"
+  ],
+  "chiavi_comportamento": [
+   "pad_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "unsloth/mistral-7b-v0.3-bnb-4bit",
+  "file": "generation_config.json",
+  "prima": "8c2486624d5c30ea823876fbb607482f72dc29b3",
+  "dopo": "485889b7daeb5b7d67123362c63cf8f5c2244037",
+  "data": "2024-09-03T03:45:48.000Z",
+  "byte_prima": 157,
+  "byte_dopo": 157,
+  "chiavi_cambiate": [
+   "transformers_version"
+  ],
+  "chiavi_comportamento": [],
+  "classe": "innocuo"
+ },
+ {
+  "repo": "microsoft/phi-4",
+  "file": "generation_config.json",
+  "prima": "f957856cd926f9d681b14153374d755dd97e45ed",
+  "dopo": "6fbb3d3bbe726c99b4188087b4deeec1bceac5ae",
+  "data": "2025-02-04T11:51:00.000Z",
+  "byte_prima": 156,
+  "byte_dopo": 156,
+  "chiavi_cambiate": [
+   "eos_token_id",
+   "pad_token_id"
+  ],
+  "chiavi_comportamento": [
+   "eos_token_id",
+   "pad_token_id"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "microsoft/phi-4",
+  "file": "special_tokens_map.json",
+  "prima": "f957856cd926f9d681b14153374d755dd97e45ed",
+  "dopo": "6fbb3d3bbe726c99b4188087b4deeec1bceac5ae",
+  "data": "2025-02-04T11:51:00.000Z",
+  "byte_prima": 99,
+  "byte_dopo": 95,
+  "chiavi_cambiate": [
+   "eos_token",
+   "pad_token"
+  ],
+  "chiavi_comportamento": [
+   "eos_token",
+   "pad_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "microsoft/phi-4",
+  "file": "tokenizer_config.json",
+  "prima": "f957856cd926f9d681b14153374d755dd97e45ed",
+  "dopo": "6fbb3d3bbe726c99b4188087b4deeec1bceac5ae",
+  "data": "2025-02-04T11:51:00.000Z",
+  "byte_prima": 17656,
+  "byte_dopo": 17737,
+  "chiavi_cambiate": [
+   "chat_template",
+   "eos_token",
+   "pad_token"
+  ],
+  "chiavi_comportamento": [
+   "chat_template",
+   "eos_token",
+   "pad_token"
+  ],
+  "classe": "comportamento"
+ },
+ {
+  "repo": "microsoft/phi-4",
+  "file": "generation_config.json",
+  "prima": "932b33c0ec9ca189badeb22480721a8de9d0e006",
+  "dopo": "2db69c1c3e91a05d2c64a3185acfbaf36f744e25",
+  "data": "2026-07-14T14:22:25.000Z",
+  "byte_prima": 156,
+  "byte_dopo": 184,
+  "chiavi_cambiate": [
+   "eos_token_id"
+  ],
+  "chiavi_comportamento": [
+   "eos_token_id"
+  ],
+  "classe": "comportamento"
+ }
+]

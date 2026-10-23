@@ -1,0 +1,47 @@
+{
+ "A": {
+  "repo": "Qwen/Qwen2.5-0.5B-Instruct",
+  "locali": {
+   "model.safetensors": "fdf756fa7fcbe7404d5c60e26bff1a0c8b8aa1f72ced49e7dd0210fe288fb7fe"
+  },
+  "remoti": {
+   "d95514450ad4d12e3801a889a2907919baee6df0": {
+    "model.safetensors": "fdf756fa7fcbe7404d5c60e26bff1a0c8b8aa1f72ced49e7dd0210fe288fb7fe"
+   },
+   "a338b55dd21219a5f4da42bc11a9313d1a27d4cc": {
+    "model.safetensors": "fdf756fa7fcbe7404d5c60e26bff1a0c8b8aa1f72ced49e7dd0210fe288fb7fe"
+   }
+  },
+  "identici": true
+ },
+ "B": {
+  "repo": "Qwen/Qwen2.5-1.5B-Instruct",
+  "locali": {
+   "model.safetensors": "dd924a11b4c220f385b51ffa522daea7c9f3d850e31b162bb5661df483c6d3ee"
+  },
+  "remoti": {
+   "582efe62d7cfafd242bffca71ecbde1bcecc1bcc": {
+    "model.safetensors": "dd924a11b4c220f385b51ffa522daea7c9f3d850e31b162bb5661df483c6d3ee"
+   },
+   "b9d14db30f3849a06f43e2c7d5d413223919f5ed": {
+    "model.safetensors": "dd924a11b4c220f385b51ffa522daea7c9f3d850e31b162bb5661df483c6d3ee"
+   }
+  },
+  "identici": true
+ },
+ "C": {
+  "repo": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",
+  "locali": {
+   "model.safetensors": "58858233513d76b8703e72eed6ce16807b523328188e13329257fb9594462945"
+  },
+  "remoti": {
+   "6393b7559e403fd1d80bfead361586fd6f630a4d": {
+    "model.safetensors": "58858233513d76b8703e72eed6ce16807b523328188e13329257fb9594462945"
+   },
+   "530ca3e1ad39d440e182c2e4317aa40f012512fa": {
+    "model.safetensors": "58858233513d76b8703e72eed6ce16807b523328188e13329257fb9594462945"
+   }
+  },
+  "identici": true
+ }
+}

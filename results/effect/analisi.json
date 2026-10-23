@@ -1,0 +1,119 @@
+{
+ "A": {
+  "n": 1319,
+  "accuratezza": {
+   "prima": 0.4685,
+   "dopo": 0.4594,
+   "controllo": 0.4693
+  },
+  "prima_giusta_dopo_sbagliata": 134,
+  "prima_sbagliata_dopo_giusta": 122,
+  "p_mcnemar": 0.49184284998141153,
+  "controllo": {
+   "prima_giusta_controllo_sbagliata": 63,
+   "prima_sbagliata_controllo_giusta": 64,
+   "p_mcnemar": 1.0,
+   "significativo": false
+  },
+  "descrittive": {
+   "prima": {
+    "token_medi": 316.0,
+    "troncate": 7,
+    "senza_boxed": 22,
+    "ragionamento_vuoto": 0
+   },
+   "dopo": {
+    "token_medi": 315.8,
+    "troncate": 7,
+    "senza_boxed": 55,
+    "ragionamento_vuoto": 0
+   },
+   "controllo": {
+    "token_medi": 313.8,
+    "troncate": 7,
+    "senza_boxed": 19,
+    "ragionamento_vuoto": 0
+   }
+  },
+  "p_holm": 0.9836856999628231,
+  "verdetto": "nessun effetto dimostrato"
+ },
+ "B": {
+  "n": 1319,
+  "accuratezza": {
+   "prima": 0.7111,
+   "dopo": 0.7309,
+   "controllo": 0.7157
+  },
+  "prima_giusta_dopo_sbagliata": 83,
+  "prima_sbagliata_dopo_giusta": 109,
+  "p_mcnemar": 0.0709195590441608,
+  "controllo": {
+   "prima_giusta_controllo_sbagliata": 34,
+   "prima_sbagliata_controllo_giusta": 40,
+   "p_mcnemar": 0.5613807442989819,
+   "significativo": false
+  },
+  "descrittive": {
+   "prima": {
+    "token_medi": 312.6,
+    "troncate": 2,
+    "senza_boxed": 2,
+    "ragionamento_vuoto": 0
+   },
+   "dopo": {
+    "token_medi": 308.8,
+    "troncate": 1,
+    "senza_boxed": 8,
+    "ragionamento_vuoto": 0
+   },
+   "controllo": {
+    "token_medi": 312.4,
+    "troncate": 3,
+    "senza_boxed": 3,
+    "ragionamento_vuoto": 0
+   }
+  },
+  "p_holm": 0.21275867713248237,
+  "verdetto": "nessun effetto dimostrato"
+ },
+ "C": {
+  "n": 660,
+  "accuratezza": {
+   "prima": 0.75,
+   "dopo": 0.7394,
+   "controllo": 0.7288
+  },
+  "prima_giusta_dopo_sbagliata": 55,
+  "prima_sbagliata_dopo_giusta": 48,
+  "p_mcnemar": 0.5546010666648742,
+  "controllo": {
+   "prima_giusta_controllo_sbagliata": 60,
+   "prima_sbagliata_controllo_giusta": 46,
+   "p_mcnemar": 0.20649820735970978,
+   "significativo": false
+  },
+  "descrittive": {
+   "prima": {
+    "token_medi": 1326.2,
+    "troncate": 175,
+    "senza_boxed": 161,
+    "ragionamento_vuoto": 0
+   },
+   "dopo": {
+    "token_medi": 1326.5,
+    "troncate": 178,
+    "senza_boxed": 165,
+    "ragionamento_vuoto": 0
+   },
+   "controllo": {
+    "token_medi": 1346.1,
+    "troncate": 185,
+    "senza_boxed": 175,
+    "ragionamento_vuoto": 0
+   }
+  },
+  "p_holm": 0.9836856999628231,
+  "verdetto": "nessun effetto dimostrato"
+ }
+}

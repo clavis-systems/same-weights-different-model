@@ -1,0 +1,43 @@
+VARIANTE principale
+A: n=1319  prima=618 (46.85%)  dopo=605 (45.87%)  controllo=619 (46.93%)
+   dopo_vs_prima: b=133 c=120 disc=253 diff=-0.99 pt IC95=[-3.35,+1.38] p=0.4507
+   controllo_vs_prima: b=63 c=64 disc=127 diff=+0.08 pt IC95=[-1.60,+1.75] p=1.0000
+   Holm(dopo vs prima)=0.9013  controllo signif.=False  -> nessun effetto dimostrato
+B: n=1319  prima=937 (71.04%)  dopo=963 (73.01%)  controllo=943 (71.49%)
+   dopo_vs_prima: b=83 c=109 disc=192 diff=+1.97 pt IC95=[-0.09,+4.03] p=0.0709
+   controllo_vs_prima: b=34 c=40 disc=74 diff=+0.45 pt IC95=[-0.82,+1.73] p=0.5614
+   Holm(dopo vs prima)=0.2128  controllo signif.=False  -> nessun effetto dimostrato
+C: n=660  prima=495 (75.00%)  dopo=488 (73.94%)  controllo=481 (72.88%)
+   dopo_vs_prima: b=55 c=48 disc=103 diff=-1.06 pt IC95=[-4.07,+1.95] p=0.5546
+   controllo_vs_prima: b=60 c=46 disc=106 diff=-2.12 pt IC95=[-5.17,+0.93] p=0.2065
+   Holm(dopo vs prima)=0.9013  controllo signif.=False  -> nessun effetto dimostrato
+
+VARIANTE rigida
+  A: 617/605/618  p_dopo=0.4901 Holm=0.9803 p_ctrl=1.0000 -> nessun effetto dimostrato
+  B: 937/963/943  p_dopo=0.0709 Holm=0.2128 p_ctrl=0.5614 -> nessun effetto dimostrato
+  C: 495/488/481  p_dopo=0.5546 Holm=0.9803 p_ctrl=0.2065 -> nessun effetto dimostrato
+VARIANTE solo_boxed
+  A: 616/597/615  p_dopo=0.2577 Holm=0.5155 p_ctrl=1.0000 -> nessun effetto dimostrato
+  B: 937/961/943  p_dopo=0.0967 Holm=0.2901 p_ctrl=0.5614 -> nessun effetto dimostrato
+  C: 470/463/448  p_dopo=0.5621 Holm=0.5621 p_ctrl=0.0390 -> non interpretabile (controllo significativo)
+VARIANTE boxed_poi_testo
+  A: 618/605/619  p_dopo=0.4507 Holm=0.9013 p_ctrl=1.0000 -> nessun effetto dimostrato
+  B: 937/963/943  p_dopo=0.0709 Holm=0.2128 p_ctrl=0.5614 -> nessun effetto dimostrato
+  C: 495/488/481  p_dopo=0.5546 Holm=0.9013 p_ctrl=0.2065 -> nessun effetto dimostrato
+VARIANTE solo_testo
+  A: 592/580/594  p_dopo=0.4867 Holm=0.9734 p_ctrl=0.9291 -> nessun effetto dimostrato
+  B: 908/925/912  p_dopo=0.2614 Holm=0.7842 p_ctrl=0.7343 -> nessun effetto dimostrato
+  C: 475/468/468  p_dopo=0.5546 Holm=0.9734 p_ctrl=0.5657 -> nessun effetto dimostrato
+
+salvato miei_numeri.json
+
+AGGIUNTE (dopo il confronto)
+ragionamento vuoto: {"A": {"prima": 0, "dopo": 0, "controllo": 0}, "B": {"prima": 0, "dopo": 0, "controllo": 0}, "C": {"prima": 0, "dopo": 0, "controllo": 0}}
+primo_numero_scatola
+  A: 618/606/619  dopo_vs_prima b=134 c=122 p=0.4918 Holm=0.9837 ctrl b=63 c=64 p=1.0000 -> nessun effetto dimostrato
+  B: 938/964/944  dopo_vs_prima b=83 c=109 p=0.0709 Holm=0.2128 ctrl b=34 c=40 p=0.5614 -> nessun effetto dimostrato
+  C: 495/488/481  dopo_vs_prima b=55 c=48 p=0.5546 Holm=0.9837 ctrl b=60 c=46 p=0.2065 -> nessun effetto dimostrato
+principale_orari
+  A: 618/605/619  dopo_vs_prima b=133 c=120 p=0.4507 Holm=0.9013 ctrl b=63 c=64 p=1.0000 -> nessun effetto dimostrato
+  B: 938/963/944  dopo_vs_prima b=84 c=109 p=0.0838 Holm=0.2514 ctrl b=34 c=40 p=0.5614 -> nessun effetto dimostrato
+  C: 495/488/481  dopo_vs_prima b=55 c=48 p=0.5546 Holm=0.9013 ctrl b=60 c=46 p=0.2065 -> nessun effetto dimostrato

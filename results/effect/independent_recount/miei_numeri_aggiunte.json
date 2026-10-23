@@ -1,0 +1,290 @@
+{
+ "nota": "Aggiunte scritte dopo aver aperto analisi.json ed effetto.py, per spiegare le differenze e per la descrittiva 'ragionamento vuoto'.",
+ "ragionamento_vuoto": {
+  "A": {
+   "prima": 0,
+   "dopo": 0,
+   "controllo": 0
+  },
+  "B": {
+   "prima": 0,
+   "dopo": 0,
+   "controllo": 0
+  },
+  "C": {
+   "prima": 0,
+   "dopo": 0,
+   "controllo": 0
+  }
+ },
+ "C_inizio_risposta": {
+  "prima": {
+   "iniziano_con_<think>\\nOkay": 660,
+   "iniziano_con_Okay": 0
+  },
+  "dopo": {
+   "iniziano_con_<think>\\nOkay": 0,
+   "iniziano_con_Okay": 660
+  },
+  "controllo": {
+   "iniziano_con_<think>\\nOkay": 660,
+   "iniziano_con_Okay": 0
+  }
+ },
+ "primo_numero_scatola": {
+  "A": {
+   "n_comuni": 1319,
+   "accuratezza": {
+    "prima": {
+     "corrette": 618,
+     "accuratezza_%": 46.85367702805156
+    },
+    "dopo": {
+     "corrette": 606,
+     "accuratezza_%": 45.94389689158454
+    },
+    "controllo": {
+     "corrette": 619,
+     "accuratezza_%": 46.929492039423806
+    }
+   },
+   "dopo_vs_prima": {
+    "b_prima_giusta_altra_sbagliata": 134,
+    "c_prima_sbagliata_altra_giusta": 122,
+    "discordanti": 256,
+    "diff_punti_altra_meno_prima": -0.9097801364670205,
+    "ic95_diff_punti": [
+     -3.286788212718509,
+     1.4672279397844679
+    ],
+    "p_mcnemar": 0.49184284998141153
+   },
+   "controllo_vs_prima": {
+    "b_prima_giusta_altra_sbagliata": 63,
+    "c_prima_sbagliata_altra_giusta": 64,
+    "discordanti": 127,
+    "diff_punti_altra_meno_prima": 0.0758150113722517,
+    "ic95_diff_punti": [
+     -1.5987571345456693,
+     1.7503871572901726
+    ],
+    "p_mcnemar": 1.0
+   },
+   "p_holm_dopo_vs_prima": 0.9836856999628231,
+   "controllo_significativo": false,
+   "verdetto": "nessun effetto dimostrato"
+  },
+  "B": {
+   "n_comuni": 1319,
+   "accuratezza": {
+    "prima": {
+     "corrette": 938,
+     "accuratezza_%": 71.1144806671721
+    },
+    "dopo": {
+     "corrette": 964,
+     "accuratezza_%": 73.08567096285064
+    },
+    "controllo": {
+     "corrette": 944,
+     "accuratezza_%": 71.56937073540561
+    }
+   },
+   "dopo_vs_prima": {
+    "b_prima_giusta_altra_sbagliata": 83,
+    "c_prima_sbagliata_altra_giusta": 109,
+    "discordanti": 192,
+    "diff_punti_altra_meno_prima": 1.9711902956785443,
+    "ic95_diff_punti": [
+     -0.08504828165829849,
+     4.0274288730153875
+    ],
+    "p_mcnemar": 0.0709195590441608
+   },
+   "controllo_vs_prima": {
+    "b_prima_giusta_altra_sbagliata": 34,
+    "c_prima_sbagliata_altra_giusta": 40,
+    "discordanti": 74,
+    "diff_punti_altra_meno_prima": 0.45489006823351025,
+    "ic95_diff_punti": [
+     -0.8231340615730762,
+     1.7329141980400964
+    ],
+    "p_mcnemar": 0.5613807442989819
+   },
+   "p_holm_dopo_vs_prima": 0.21275867713248237,
+   "controllo_significativo": false,
+   "verdetto": "nessun effetto dimostrato"
+  },
+  "C": {
+   "n_comuni": 660,
+   "accuratezza": {
+    "prima": {
+     "corrette": 495,
+     "accuratezza_%": 75.0
+    },
+    "dopo": {
+     "corrette": 488,
+     "accuratezza_%": 73.93939393939394
+    },
+    "controllo": {
+     "corrette": 481,
+     "accuratezza_%": 72.87878787878788
+    }
+   },
+   "dopo_vs_prima": {
+    "b_prima_giusta_altra_sbagliata": 55,
+    "c_prima_sbagliata_altra_giusta": 48,
+    "discordanti": 103,
+    "diff_punti_altra_meno_prima": -1.0606060606060606,
+    "ic95_diff_punti": [
+     -4.073377565136465,
+     1.9521654439243448
+    ],
+    "p_mcnemar": 0.5546010666648742
+   },
+   "controllo_vs_prima": {
+    "b_prima_giusta_altra_sbagliata": 60,
+    "c_prima_sbagliata_altra_giusta": 46,
+    "discordanti": 106,
+    "diff_punti_altra_meno_prima": -2.121212121212121,
+    "ic95_diff_punti": [
+     -5.174360267435738,
+     0.9319360250114952
+    ],
+    "p_mcnemar": 0.20649820735970978
+   },
+   "p_holm_dopo_vs_prima": 0.9836856999628231,
+   "controllo_significativo": false,
+   "verdetto": "nessun effetto dimostrato"
+  }
+ },
+ "principale_orari": {
+  "A": {
+   "n_comuni": 1319,
+   "accuratezza": {
+    "prima": {
+     "corrette": 618,
+     "accuratezza_%": 46.85367702805156
+    },
+    "dopo": {
+     "corrette": 605,
+     "accuratezza_%": 45.86808188021228
+    },
+    "controllo": {
+     "corrette": 619,
+     "accuratezza_%": 46.929492039423806
+    }
+   },
+   "dopo_vs_prima": {
+    "b_prima_giusta_altra_sbagliata": 133,
+    "c_prima_sbagliata_altra_giusta": 120,
+    "discordanti": 253,
+    "diff_punti_altra_meno_prima": -0.9855951478392722,
+    "ic95_diff_punti": [
+     -3.3485398657979983,
+     1.3773495701194538
+    ],
+    "p_mcnemar": 0.45065405836765166
+   },
+   "controllo_vs_prima": {
+    "b_prima_giusta_altra_sbagliata": 63,
+    "c_prima_sbagliata_altra_giusta": 64,
+    "discordanti": 127,
+    "diff_punti_altra_meno_prima": 0.0758150113722517,
+    "ic95_diff_punti": [
+     -1.5987571345456693,
+     1.7503871572901726
+    ],
+    "p_mcnemar": 1.0
+   },
+   "p_holm_dopo_vs_prima": 0.9013081167353033,
+   "controllo_significativo": false,
+   "verdetto": "nessun effetto dimostrato"
+  },
+  "B": {
+   "n_comuni": 1319,
+   "accuratezza": {
+    "prima": {
+     "corrette": 938,
+     "accuratezza_%": 71.1144806671721
+    },
+    "dopo": {
+     "corrette": 963,
+     "accuratezza_%": 73.00985595147839
+    },
+    "controllo": {
+     "corrette": 944,
+     "accuratezza_%": 71.56937073540561
+    }
+   },
+   "dopo_vs_prima": {
+    "b_prima_giusta_altra_sbagliata": 84,
+    "c_prima_sbagliata_altra_giusta": 109,
+    "discordanti": 193,
+    "diff_punti_altra_meno_prima": 1.8953752843062925,
+    "ic95_diff_punti": [
+     -0.16643247156745214,
+     3.957183040180037
+    ],
+    "p_mcnemar": 0.08380154521018622
+   },
+   "controllo_vs_prima": {
+    "b_prima_giusta_altra_sbagliata": 34,
+    "c_prima_sbagliata_altra_giusta": 40,
+    "discordanti": 74,
+    "diff_punti_altra_meno_prima": 0.45489006823351025,
+    "ic95_diff_punti": [
+     -0.8231340615730762,
+     1.7329141980400964
+    ],
+    "p_mcnemar": 0.5613807442989819
+   },
+   "p_holm_dopo_vs_prima": 0.25140463563055865,
+   "controllo_significativo": false,
+   "verdetto": "nessun effetto dimostrato"
+  },
+  "C": {
+   "n_comuni": 660,
+   "accuratezza": {
+    "prima": {
+     "corrette": 495,
+     "accuratezza_%": 75.0
+    },
+    "dopo": {
+     "corrette": 488,
+     "accuratezza_%": 73.93939393939394
+    },
+    "controllo": {
+     "corrette": 481,
+     "accuratezza_%": 72.87878787878788
+    }
+   },
+   "dopo_vs_prima": {
+    "b_prima_giusta_altra_sbagliata": 55,
+    "c_prima_sbagliata_altra_giusta": 48,
+    "discordanti": 103,
+    "diff_punti_altra_meno_prima": -1.0606060606060606,
+    "ic95_diff_punti": [
+     -4.073377565136465,
+     1.9521654439243448
+    ],
+    "p_mcnemar": 0.5546010666648742
+   },
+   "controllo_vs_prima": {
+    "b_prima_giusta_altra_sbagliata": 60,
+    "c_prima_sbagliata_altra_giusta": 46,
+    "discordanti": 106,
+    "diff_punti_altra_meno_prima": -2.121212121212121,
+    "ic95_diff_punti": [
+     -5.174360267435738,
+     0.9319360250114952
+    ],
+    "p_mcnemar": 0.20649820735970978
+   },
+   "p_holm_dopo_vs_prima": 0.9013081167353033,
+   "controllo_significativo": false,
+   "verdetto": "nessun effetto dimostrato"
+  }
+ }
+}

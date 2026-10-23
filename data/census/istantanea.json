@@ -1,0 +1,1006 @@
+{
+ "ora_utc": "2026-10-20T11:51:42.116568+00:00",
+ "n": 200,
+ "modelli": [
+  {
+   "repo": "Qwen/Qwen3-0.6B",
+   "downloads": 28577260,
+   "likes": 1836
+  },
+  {
+   "repo": "openai-community/gpt2",
+   "downloads": 17890978,
+   "likes": 3881
+  },
+  {
+   "repo": "Qwen/Qwen3-4B",
+   "downloads": 11730390,
+   "likes": 766
+  },
+  {
+   "repo": "Qwen/Qwen3-8B",
+   "downloads": 8809116,
+   "likes": 2128
+  },
+  {
+   "repo": "Qwen/Qwen3-14B",
+   "downloads": 8720109,
+   "likes": 511
+  },
+  {
+   "repo": "Qwen/Qwen2.5-7B-Instruct",
+   "downloads": 6895413,
+   "likes": 2448
+  },
+  {
+   "repo": "openai/gpt-oss-20b",
+   "downloads": 5933604,
+   "likes": 5193
+  },
+  {
+   "repo": "facebook/opt-125m",
+   "downloads": 5887680,
+   "likes": 330
+  },
+  {
+   "repo": "Qwen/Qwen2.5-0.5B-Instruct",
+   "downloads": 5751568,
+   "likes": 701
+  },
+  {
+   "repo": "deepseek-ai/DeepSeek-V3.2",
+   "downloads": 5391205,
+   "likes": 1584
+  },
+  {
+   "repo": "meta-llama/Llama-3.1-8B-Instruct",
+   "downloads": 5382594,
+   "likes": 8519
+  },
+  {
+   "repo": "Qwen/Qwen2.5-1.5B-Instruct",
+   "downloads": 5299828,
+   "likes": 895
+  },
+  {
+   "repo": "ornith-ai/Ornith-1.5-9B-GGUF",
+   "downloads": 4991826,
+   "likes": 565
+  },
+  {
+   "repo": "meta-llama/Llama-3.2-1B-Instruct",
+   "downloads": 4946933,
+   "likes": 1868
+  },
+  {
+   "repo": "dphn/dolphin-2.9.1-yi-1.5-34b",
+   "downloads": 4691186,
+   "likes": 83
+  },
+  {
+   "repo": "nvidia/Qwen3.6-35B-A3B-NVFP4",
+   "downloads": 4377689,
+   "likes": 664
+  },
+  {
+   "repo": "RadixArk/Kimi-K3-DSpark",
+   "downloads": 4283735,
+   "likes": 73
+  },
+  {
+   "repo": "Qwen/Qwen3-1.7B",
+   "downloads": 4252018,
+   "likes": 588
+  },
+  {
+   "repo": "deepseek-ai/DeepSeek-V4-Flash-0731",
+   "downloads": 4229961,
+   "likes": 4082
+  },
+  {
+   "repo": "Qwen/Qwen2.5-3B-Instruct",
+   "downloads": 4166857,
+   "likes": 611
+  },
+  {
+   "repo": "trl-internal-testing/tiny-Qwen2ForCausalLM-2.5",
+   "downloads": 4129010,
+   "likes": 57
+  },
+  {
+   "repo": "ornith-ai/Ornith-1.5-35B-A3B-GGUF",
+   "downloads": 3840023,
+   "likes": 528
+  },
+  {
+   "repo": "EleutherAI/pythia-160m",
+   "downloads": 3425951,
+   "likes": 61
+  },
+  {
+   "repo": "openai/gpt-oss-120b",
+   "downloads": 3141375,
+   "likes": 5426
+  },
+  {
+   "repo": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+   "downloads": 2999667,
+   "likes": 2763
+  },
+  {
+   "repo": "Qwen/Qwen3-32B",
+   "downloads": 2890893,
+   "likes": 769
+  },
+  {
+   "repo": "Qwen/Qwen3-4B-Instruct-2507",
+   "downloads": 2773818,
+   "likes": 1015
+  },
+  {
+   "repo": "Qwen/Qwen3-14B-AWQ",
+   "downloads": 2745605,
+   "likes": 85
+  },
+  {
+   "repo": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+   "downloads": 2575500,
+   "likes": 1646
+  },
+  {
+   "repo": "CMSManhattan/JiRackUltra_1b",
+   "downloads": 2490599,
+   "likes": 13
+  },
+  {
+   "repo": "ornith-ai/Ornith-1.0-9B-GGUF",
+   "downloads": 2338420,
+   "likes": 693
+  },
+  {
+   "repo": "Qwen/Qwen3-8B-AWQ",
+   "downloads": 2152483,
+   "likes": 66
+  },
+  {
+   "repo": "Qwen/Qwen2.5-7B-Instruct-AWQ",
+   "downloads": 2151883,
+   "likes": 58
+  },
+  {
+   "repo": "zai-org/GLM-5.3",
+   "downloads": 1873260,
+   "likes": 2268
+  },
+  {
+   "repo": "distilbert/distilgpt2",
+   "downloads": 1774384,
+   "likes": 657
+  },
+  {
+   "repo": "HuggingFaceTB/SmolLM2-135M",
+   "downloads": 1765330,
+   "likes": 254
+  },
+  {
+   "repo": "mistralai/Mistral-7B-Instruct-v0.2",
+   "downloads": 1736575,
+   "likes": 3267
+  },
+  {
+   "repo": "Qwen/Qwen2.5-Coder-14B-Instruct",
+   "downloads": 1714632,
+   "likes": 201
+  },
+  {
+   "repo": "nvidia/NVIDIA-Nemotron-3-Nano-4B-BF16",
+   "downloads": 1713512,
+   "likes": 138
+  },
+  {
+   "repo": "nvidia/Qwen2.5-VL-7B-Instruct-NVFP4",
+   "downloads": 1659965,
+   "likes": 25
+  },
+  {
+   "repo": "nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-NVFP4",
+   "downloads": 1550461,
+   "likes": 190
+  },
+  {
+   "repo": "Qwen/Qwen2.5-Coder-7B-Instruct",
+   "downloads": 1546895,
+   "likes": 837
+  },
+  {
+   "repo": "ornith-ai/Ornith-1.0-35B-GGUF",
+   "downloads": 1513951,
+   "likes": 1062
+  },
+  {
+   "repo": "Qwen/Qwen2.5-14B-Instruct-AWQ",
+   "downloads": 1459870,
+   "likes": 49
+  },
+  {
+   "repo": "google/gemma-3-1b-it",
+   "downloads": 1424092,
+   "likes": 1247
+  },
+  {
+   "repo": "EleutherAI/pythia-70m-deduped",
+   "downloads": 1413140,
+   "likes": 36
+  },
+  {
+   "repo": "deepseek-ai/DeepSeek-V3",
+   "downloads": 1377427,
+   "likes": 4447
+  },
+  {
+   "repo": "Qwen/Qwen3-4B-Instruct-2507-FP8",
+   "downloads": 1368588,
+   "likes": 89
+  },
+  {
+   "repo": "ornith-ai/Ornith-1.0-35B",
+   "downloads": 1365252,
+   "likes": 517
+  },
+  {
+   "repo": "Qwen/Qwen2.5-32B-Instruct",
+   "downloads": 1347325,
+   "likes": 371
+  },
+  {
+   "repo": "openbmb/MiniCPM5-2B",
+   "downloads": 1328986,
+   "likes": 1803
+  },
+  {
+   "repo": "deepseek-ai/DeepSeek-R1",
+   "downloads": 1324679,
+   "likes": 14395
+  },
+  {
+   "repo": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",
+   "downloads": 1312244,
+   "likes": 1638
+  },
+  {
+   "repo": "Qwen/Qwen2.5-0.5B",
+   "downloads": 1304867,
+   "likes": 479
+  },
+  {
+   "repo": "HuggingFaceTB/SmolLM2-135M-Instruct",
+   "downloads": 1301896,
+   "likes": 454
+  },
+  {
+   "repo": "antirez/deepseek-v4-gguf",
+   "downloads": 1262374,
+   "likes": 487
+  },
+  {
+   "repo": "ukisai/Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
+   "downloads": 1241163,
+   "likes": 403
+  },
+  {
+   "repo": "nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16",
+   "downloads": 1201209,
+   "likes": 831
+  },
+  {
+   "repo": "Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8",
+   "downloads": 1178088,
+   "likes": 229
+  },
+  {
+   "repo": "bigscience/bloomz-560m",
+   "downloads": 1177866,
+   "likes": 147
+  },
+  {
+   "repo": "ornith-ai/Ornith-1.5-397B-GGUF",
+   "downloads": 1173209,
+   "likes": 46
+  },
+  {
+   "repo": "openbmb/MiniCPM5-2B-DSpark",
+   "downloads": 1150646,
+   "likes": 49
+  },
+  {
+   "repo": "empero-ai/Qwen3.8-35B-A3B-Distill-GGUF",
+   "downloads": 1145980,
+   "likes": 226
+  },
+  {
+   "repo": "Qwen/Qwen3-30B-A3B",
+   "downloads": 1133218,
+   "likes": 968
+  },
+  {
+   "repo": "meta-llama/Llama-3.2-3B-Instruct",
+   "downloads": 1129500,
+   "likes": 2831
+  },
+  {
+   "repo": "unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF",
+   "downloads": 1114165,
+   "likes": 1158
+  },
+  {
+   "repo": "ornith-ai/Ornith-1.5-35B-A3B-NVFP4",
+   "downloads": 1112990,
+   "likes": 65
+  },
+  {
+   "repo": "zai-org/GLM-4.7-Flash",
+   "downloads": 1085125,
+   "likes": 1880
+  },
+  {
+   "repo": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+   "downloads": 1082817,
+   "likes": 848
+  },
+  {
+   "repo": "0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
+   "downloads": 1070113,
+   "likes": 720
+  },
+  {
+   "repo": "TinyLlama/TinyLlama-1.1B-Chat-v1.0",
+   "downloads": 1052925,
+   "likes": 1871
+  },
+  {
+   "repo": "prism-ml/Ternary-Bonsai-27B-mlx-2bit",
+   "downloads": 1041721,
+   "likes": 211
+  },
+  {
+   "repo": "Qwen/Qwen3-Coder-Next-FP8",
+   "downloads": 1034239,
+   "likes": 204
+  },
+  {
+   "repo": "prism-ml/Bonsai-27B-mlx-1bit",
+   "downloads": 1031925,
+   "likes": 276
+  },
+  {
+   "repo": "nvidia/Gemma-4-26B-A4B-NVFP4",
+   "downloads": 1019835,
+   "likes": 164
+  },
+  {
+   "repo": "nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16",
+   "downloads": 1008838,
+   "likes": 368
+  },
+  {
+   "repo": "deepseek-ai/DeepSeek-V3-0324",
+   "downloads": 1008047,
+   "likes": 3220
+  },
+  {
+   "repo": "Qwen/Qwen2.5-Coder-32B-Instruct-AWQ",
+   "downloads": 1002099,
+   "likes": 47
+  },
+  {
+   "repo": "bartowski/Qwen2.5-32B-Instruct-GGUF",
+   "downloads": 999489,
+   "likes": 86
+  },
+  {
+   "repo": "nvidia/Gemma-4-31B-IT-NVFP4",
+   "downloads": 998067,
+   "likes": 584
+  },
+  {
+   "repo": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16",
+   "downloads": 974120,
+   "likes": 436
+  },
+  {
+   "repo": "Qwen/Qwen2.5-32B-Instruct-AWQ",
+   "downloads": 973431,
+   "likes": 109
+  },
+  {
+   "repo": "RedHatAI/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-FP8",
+   "downloads": 958809,
+   "likes": 11
+  },
+  {
+   "repo": "unsloth/GLM-5.3-Flash-GGUF",
+   "downloads": 934656,
+   "likes": 488
+  },
+  {
+   "repo": "nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
+   "downloads": 930643,
+   "likes": 468
+  },
+  {
+   "repo": "sshleifer/tiny-gpt2",
+   "downloads": 922842,
+   "likes": 36
+  },
+  {
+   "repo": "nvidia/Qwen3.6-27B-NVFP4",
+   "downloads": 908822,
+   "likes": 445
+  },
+  {
+   "repo": "zai-org/GLM-5",
+   "downloads": 907939,
+   "likes": 2138
+  },
+  {
+   "repo": "Qwen/Qwen2.5-14B-Instruct",
+   "downloads": 905386,
+   "likes": 376
+  },
+  {
+   "repo": "openai-community/gpt2-large",
+   "downloads": 862698,
+   "likes": 369
+  },
+  {
+   "repo": "unsloth/Llama-3.2-1B-Instruct",
+   "downloads": 818737,
+   "likes": 103
+  },
+  {
+   "repo": "trl-internal-testing/tiny-Qwen3ForCausalLM",
+   "downloads": 812349,
+   "likes": 9
+  },
+  {
+   "repo": "kindlingai/glm-5.3-exlr8-k2-k3-k4",
+   "downloads": 804107,
+   "likes": 16
+  },
+  {
+   "repo": "deepseek-ai/DeepSeek-V4-Flash",
+   "downloads": 801786,
+   "likes": 2326
+  },
+  {
+   "repo": "cyankiwi/Qwen3-Coder-30B-A3B-Instruct-AWQ-4bit",
+   "downloads": 794468,
+   "likes": 66
+  },
+  {
+   "repo": "MiniMaxAI/MiniMax-M2.5",
+   "downloads": 792702,
+   "likes": 1521
+  },
+  {
+   "repo": "ornith-ai/Ornith-1.0-9B",
+   "downloads": 781883,
+   "likes": 561
+  },
+  {
+   "repo": "Qwen/Qwen3-32B-AWQ",
+   "downloads": 772419,
+   "likes": 149
+  },
+  {
+   "repo": "zai-org/GLM-4.5-Air",
+   "downloads": 764275,
+   "likes": 646
+  },
+  {
+   "repo": "Qwen/Qwen2.5-3B-Instruct-AWQ",
+   "downloads": 757025,
+   "likes": 23
+  },
+  {
+   "repo": "Qwen/Qwen2.5-7B",
+   "downloads": 756195,
+   "likes": 334
+  },
+  {
+   "repo": "casperhansen/llama-3.3-70b-instruct-awq",
+   "downloads": 751215,
+   "likes": 53
+  },
+  {
+   "repo": "LiquidAI/LFM2.5-2.6B-GGUF",
+   "downloads": 750210,
+   "likes": 386
+  },
+  {
+   "repo": "HuggingFaceTB/SmolLM3-3B",
+   "downloads": 748383,
+   "likes": 1066
+  },
+  {
+   "repo": "ornith-ai/Ornith-1.5-9B-NVFP4",
+   "downloads": 747618,
+   "likes": 16
+  },
+  {
+   "repo": "Qwen/Qwen3-8B-Base",
+   "downloads": 746822,
+   "likes": 143
+  },
+  {
+   "repo": "PrimeIntellect/Qwen3-0.6B",
+   "downloads": 741392,
+   "likes": 0
+  },
+  {
+   "repo": "Qwen/Qwen2.5-Coder-7B-Instruct-AWQ",
+   "downloads": 739305,
+   "likes": 34
+  },
+  {
+   "repo": "tencent/Hy3",
+   "downloads": 734232,
+   "likes": 983
+  },
+  {
+   "repo": "esatapedico/Qwen3.8-27B-NVFP4-MTP-GGUF",
+   "downloads": 726038,
+   "likes": 118
+  },
+  {
+   "repo": "google/gemma-2-9b-it",
+   "downloads": 703550,
+   "likes": 1152
+  },
+  {
+   "repo": "nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
+   "downloads": 695209,
+   "likes": 241
+  },
+  {
+   "repo": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
+   "downloads": 693970,
+   "likes": 453
+  },
+  {
+   "repo": "LGAI-EXAONE/EXAONE-3.5-7.8B-Instruct-AWQ",
+   "downloads": 675102,
+   "likes": 22
+  },
+  {
+   "repo": "AtomicChat/Qwen3.8-Flash-Next-GGUF",
+   "downloads": 671304,
+   "likes": 195
+  },
+  {
+   "repo": "Qwen/Qwen2.5-1.5B",
+   "downloads": 670015,
+   "likes": 238
+  },
+  {
+   "repo": "meta-llama/Llama-3.1-8B",
+   "downloads": 645398,
+   "likes": 2676
+  },
+  {
+   "repo": "Qwen/Qwen2.5-Coder-32B-Instruct",
+   "downloads": 641314,
+   "likes": 2179
+  },
+  {
+   "repo": "Qwen/Qwen3-0.6B-Base",
+   "downloads": 640664,
+   "likes": 213
+  },
+  {
+   "repo": "ibm-granite/granite-4.1-3b",
+   "downloads": 635953,
+   "likes": 116
+  },
+  {
+   "repo": "Qwen/Qwen3-8B-GGUF",
+   "downloads": 630107,
+   "likes": 336
+  },
+  {
+   "repo": "peculiar-ragdoll/Sharp-Spark-X2.5-4B-GGUF",
+   "downloads": 628296,
+   "likes": 138
+  },
+  {
+   "repo": "Qwen/Qwen3-4B-Thinking-2507",
+   "downloads": 610295,
+   "likes": 625
+  },
+  {
+   "repo": "cyankiwi/MiniCPM-SALA-AWQ-8bit",
+   "downloads": 605592,
+   "likes": 1
+  },
+  {
+   "repo": "Qwen/Qwen3-4B-Base",
+   "downloads": 597073,
+   "likes": 113
+  },
+  {
+   "repo": "openbmb/MiniCPM5-2B-MLX",
+   "downloads": 583739,
+   "likes": 57
+  },
+  {
+   "repo": "meta-llama/Llama-3.2-1B",
+   "downloads": 583606,
+   "likes": 2707
+  },
+  {
+   "repo": "nvidia/Qwen3.8-27B-NVFP4",
+   "downloads": 583415,
+   "likes": 204
+  },
+  {
+   "repo": "EleutherAI/pythia-14m",
+   "downloads": 583408,
+   "likes": 8
+  },
+  {
+   "repo": "Qwen/Qwen3-4B-GGUF",
+   "downloads": 580339,
+   "likes": 195
+  },
+  {
+   "repo": "Qwen/Qwen3-1.7B-Base",
+   "downloads": 570382,
+   "likes": 93
+  },
+  {
+   "repo": "meta-llama/Llama-2-7b-hf",
+   "downloads": 568766,
+   "likes": 2469
+  },
+  {
+   "repo": "empero-ai/Qwen3.8-4B-Distill-GGUF",
+   "downloads": 560067,
+   "likes": 186
+  },
+  {
+   "repo": "Orion-zhen/Qwen2.5-Coder-7B-Instruct-AWQ",
+   "downloads": 557989,
+   "likes": 1
+  },
+  {
+   "repo": "shibing624/macbert4csc-base-chinese",
+   "downloads": 556521,
+   "likes": 121
+  },
+  {
+   "repo": "CMSManhattan/JiRackDeltaNet_27b",
+   "downloads": 556517,
+   "likes": 3
+  },
+  {
+   "repo": "zai-org/GLM-5.1",
+   "downloads": 554492,
+   "likes": 1846
+  },
+  {
+   "repo": "Qwen/Qwen3-Coder-30B-A3B-Instruct",
+   "downloads": 552103,
+   "likes": 1295
+  },
+  {
+   "repo": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+   "downloads": 550946,
+   "likes": 1497
+  },
+  {
+   "repo": "empero-ai/Qwen3.8-9B-Distill-GGUF",
+   "downloads": 542531,
+   "likes": 310
+  },
+  {
+   "repo": "prism-ml/Ternary-Bonsai-27B-gguf",
+   "downloads": 536392,
+   "likes": 1427
+  },
+  {
+   "repo": "unsloth/gpt-oss-20b-GGUF",
+   "downloads": 536088,
+   "likes": 882
+  },
+  {
+   "repo": "llamafactory/tiny-random-Llama-3",
+   "downloads": 533866,
+   "likes": 4
+  },
+  {
+   "repo": "deepseek-ai/DeepSeek-Coder-V2-Lite-Instruct",
+   "downloads": 532094,
+   "likes": 702
+  },
+  {
+   "repo": "MiniMaxAI/MiniMax-M2.7",
+   "downloads": 527802,
+   "likes": 1256
+  },
+  {
+   "repo": "FINAL-Bench/POCKET-35B-GGUF",
+   "downloads": 527634,
+   "likes": 84
+  },
+  {
+   "repo": "Qwen/Qwen3-Coder-Next",
+   "downloads": 522825,
+   "likes": 1703
+  },
+  {
+   "repo": "ornith-ai/Ornith-1.5-35B-A3B-FP8",
+   "downloads": 521290,
+   "likes": 32
+  },
+  {
+   "repo": "poolside/Laguna-XS.2",
+   "downloads": 520968,
+   "likes": 320
+  },
+  {
+   "repo": "RedHatAI/Llama-3.2-3B-Instruct-FP8-dynamic",
+   "downloads": 517022,
+   "likes": 3
+  },
+  {
+   "repo": "QuantTrio/Qwen3-VL-30B-A3B-Instruct-AWQ",
+   "downloads": 514635,
+   "likes": 45
+  },
+  {
+   "repo": "poolside/Laguna-M.1",
+   "downloads": 509076,
+   "likes": 149
+  },
+  {
+   "repo": "Qwen/Qwen3-8B-FP8",
+   "downloads": 507787,
+   "likes": 66
+  },
+  {
+   "repo": "unsloth/Qwen3-4B-GGUF",
+   "downloads": 502680,
+   "likes": 251
+  },
+  {
+   "repo": "bartowski/Meta-Llama-3.1-8B-Instruct-GGUF",
+   "downloads": 497896,
+   "likes": 423
+  },
+  {
+   "repo": "abenzerps/Apodex-1.1-mini-GGUF",
+   "downloads": 497398,
+   "likes": 19
+  },
+  {
+   "repo": "Qwen/Qwen2.5-32B-Instruct-GPTQ-Int4",
+   "downloads": 496864,
+   "likes": 49
+  },
+  {
+   "repo": "Qwen/Qwen2.5-72B-Instruct-AWQ",
+   "downloads": 492446,
+   "likes": 88
+  },
+  {
+   "repo": "BoldingBuilds/orcarouter_GLM-5.3-Flash-Uncensored-GGUF",
+   "downloads": 491410,
+   "likes": 27
+  },
+  {
+   "repo": "allenai/Olmo-3-7B-Think",
+   "downloads": 489660,
+   "likes": 110
+  },
+  {
+   "repo": "EleutherAI/gpt-neo-125m",
+   "downloads": 488718,
+   "likes": 231
+  },
+  {
+   "repo": "Qwen/Qwen2.5-Coder-3B-Instruct",
+   "downloads": 485418,
+   "likes": 145
+  },
+  {
+   "repo": "empero-ai/Qwen3.8-2B-Distill-GGUF",
+   "downloads": 483591,
+   "likes": 166
+  },
+  {
+   "repo": "microsoft/phi-2",
+   "downloads": 483155,
+   "likes": 3527
+  },
+  {
+   "repo": "NousResearch/Hermes-3-Llama-3.1-8B",
+   "downloads": 481324,
+   "likes": 519
+  },
+  {
+   "repo": "deepseek-ai/deepseek-coder-7b-instruct-v1.5",
+   "downloads": 474340,
+   "likes": 189
+  },
+  {
+   "repo": "Bahushruth/Qwen3.6-35B-A3B-abliterated-v4",
+   "downloads": 473143,
+   "likes": 13
+  },
+  {
+   "repo": "meta-llama/Llama-3.1-405B-FP8",
+   "downloads": 470198,
+   "likes": 124
+  },
+  {
+   "repo": "QuantTrio/GLM-4.7-Flash-AWQ",
+   "downloads": 461844,
+   "likes": 12
+  },
+  {
+   "repo": "meta-llama/Meta-Llama-3-8B-Instruct",
+   "downloads": 451674,
+   "likes": 5427
+  },
+  {
+   "repo": "ConwayResearch/Underdog-Saluki-27B-1.0",
+   "downloads": 449274,
+   "likes": 577
+  },
+  {
+   "repo": "ornith-ai/Ornith-1.5-9B",
+   "downloads": 448355,
+   "likes": 385
+  },
+  {
+   "repo": "Qwen/Qwen2.5-Coder-7B-Instruct-GPTQ-Int4",
+   "downloads": 445767,
+   "likes": 21
+  },
+  {
+   "repo": "poolside/Laguna-XS-2.1",
+   "downloads": 440897,
+   "likes": 257
+  },
+  {
+   "repo": "swiss-ai/Apertus-8B-Instruct-2509",
+   "downloads": 432443,
+   "likes": 497
+  },
+  {
+   "repo": "Qwen/Qwen3-235B-A22B",
+   "downloads": 429663,
+   "likes": 1119
+  },
+  {
+   "repo": "nvidia/Qwen3.5-122B-A10B-NVFP4",
+   "downloads": 429498,
+   "likes": 61
+  },
+  {
+   "repo": "XHToken/Spark-X2.5-4B-GGUF",
+   "downloads": 426324,
+   "likes": 280
+  },
+  {
+   "repo": "deepseek-ai/DeepSeek-R1-0528-Qwen3-8B",
+   "downloads": 426121,
+   "likes": 1122
+  },
+  {
+   "repo": "ornith-ai/Ornith-1.5-397B-NVFP4",
+   "downloads": 424558,
+   "likes": 22
+  },
+  {
+   "repo": "Qwen/Qwen2.5-Coder-1.5B-Instruct",
+   "downloads": 420424,
+   "likes": 162
+  },
+  {
+   "repo": "trl-internal-testing/tiny-random-LlamaForCausalLM",
+   "downloads": 419824,
+   "likes": 8
+  },
+  {
+   "repo": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+   "downloads": 418603,
+   "likes": 1704
+  },
+  {
+   "repo": "unsloth/GLM-5.3-GGUF",
+   "downloads": 410354,
+   "likes": 109
+  },
+  {
+   "repo": "Qwen/Qwen3-Coder-480B-A35B-Instruct-FP8",
+   "downloads": 407821,
+   "likes": 165
+  },
+  {
+   "repo": "IlyaGusev/saiga_llama3_8b",
+   "downloads": 403104,
+   "likes": 144
+  },
+  {
+   "repo": "peft-internal-testing/tiny-random-OPTForCausalLM",
+   "downloads": 400120,
+   "likes": 0
+  },
+  {
+   "repo": "rinna/japanese-gpt-neox-small",
+   "downloads": 392228,
+   "likes": 15
+  },
+  {
+   "repo": "Qwen/Qwen2.5-Coder-1.5B",
+   "downloads": 392014,
+   "likes": 127
+  },
+  {
+   "repo": "zai-org/GLM-5.2",
+   "downloads": 390974,
+   "likes": 5179
+  },
+  {
+   "repo": "FastFlowLM/GPT-OSS-20B-NPU2",
+   "downloads": 390025,
+   "likes": 1
+  },
+  {
+   "repo": "microsoft/Phi-3.5-mini-instruct",
+   "downloads": 389290,
+   "likes": 1280
+  },
+  {
+   "repo": "sakamakismile/Qwen3.8-27B-MTP-NVFP4",
+   "downloads": 386973,
+   "likes": 45
+  },
+  {
+   "repo": "stelterlab/Qwen3-30B-A3B-Instruct-2507-AWQ",
+   "downloads": 386856,
+   "likes": 1
+  },
+  {
+   "repo": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
+   "downloads": 386007,
+   "likes": 934
+  },
+  {
+   "repo": "LiquidAI/LFM2.5-230M-GGUF",
+   "downloads": 385803,
+   "likes": 121
+  },
+  {
+   "repo": "allenai/Olmo-3-7B-Instruct",
+   "downloads": 384377,
+   "likes": 159
+  },
+  {
+   "repo": "bigscience/bloom-560m",
+   "downloads": 373168,
+   "likes": 376
+  },
+  {
+   "repo": "unsloth/mistral-7b-v0.3-bnb-4bit",
+   "downloads": 373153,
+   "likes": 23
+  },
+  {
+   "repo": "microsoft/phi-4",
+   "downloads": 372960,
+   "likes": 2326
+  }
+ ]
+}

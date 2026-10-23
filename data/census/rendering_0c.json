@@ -1,0 +1,1720 @@
+[
+ {
+  "repo": "Qwen/Qwen3-0.6B",
+  "file": "tokenizer_config.json",
+  "dopo": "7e4ae267688d671ddfca3122e4528ee980cf3234",
+  "data": "2025-05-19T07:39:20.000Z",
+  "giorni": 21.1,
+  "conversazioni_diverse": [],
+  "classe": "nessun cambio visibile"
+ },
+ {
+  "repo": "Qwen/Qwen3-4B",
+  "file": "tokenizer_config.json",
+  "dopo": "8136a03248eac0530d0f630f9a4e21810f9137de",
+  "data": "2025-05-19T07:44:39.000Z",
+  "giorni": 21.1,
+  "conversazioni_diverse": [],
+  "classe": "nessun cambio visibile"
+ },
+ {
+  "repo": "Qwen/Qwen3-8B",
+  "file": "tokenizer_config.json",
+  "dopo": "895c8d171bc03c30e113cd7a28c02494b5e068b7",
+  "data": "2025-05-19T07:46:12.000Z",
+  "giorni": 21.1,
+  "conversazioni_diverse": [],
+  "classe": "nessun cambio visibile"
+ },
+ {
+  "repo": "Qwen/Qwen3-14B",
+  "file": "tokenizer_config.json",
+  "dopo": "ec3b5103878832857b9e0f6ab32eb37ee5e28e9a",
+  "data": "2025-05-19T07:41:02.000Z",
+  "giorni": 21.0,
+  "conversazioni_diverse": [],
+  "classe": "nessun cambio visibile"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-7B-Instruct",
+  "file": "tokenizer_config.json",
+  "dopo": "929d90a7473be218ae132181708d94dbf08a0420",
+  "data": "2024-09-18T01:42:04.000Z",
+  "giorni": 1.5,
+  "conversazioni_diverse": [
+   "C1",
+   "C3",
+   "C5"
+  ],
+  "classe": "uso normale",
+  "esempio": {
+   "conversazione": "C1",
+   "prima": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nHello, how are you?<|im_end|>\n<|im_start|>assistant\n",
+   "dopo": "<|im_start|>system\nYou are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>\n<|im_start|>user\nHello, how are you?<|im_end|>\n<|im_start|>assistant\n"
+  }
+ },
+ {
+  "repo": "Qwen/Qwen2.5-7B-Instruct",
+  "file": "tokenizer_config.json",
+  "dopo": "acbd96531cda22292a3ceaa67e984955d3965282",
+  "data": "2024-09-19T07:30:10.000Z",
+  "giorni": 2.7,
+  "conversazioni_diverse": [
+   "C5"
+  ],
+  "classe": "solo con strumenti"
+ },
+ {
+  "repo": "openai/gpt-oss-20b",
+  "file": "chat_template.jinja",
+  "dopo": "ec854da5735f125fe36f080d8013482590f9ad7d",
+  "data": "2025-08-05T15:40:37.000Z",
+  "giorni": 0.7,
+  "classe": "errore di rendering",
+  "errori": [
+   "__ERRORE__ UndefinedError"
+  ],
+  "conversazioni_diverse": [
+   "C1",
+   "C2",
+   "C3",
+   "C4",
+   "C5"
+  ],
+  "esempio": {
+   "conversazione": "C1",
+   "prima": "edge cutoff: 2024-06\nCurrent date: 2026-10-20\n\nReasoning: medium\n\n# Valid channels: analysis, commentary, final. Channel must be included for every message.\nCalls to these tools must go to the commentary channel: 'functions'.<|end|><|start|>user<|message|>Hello, how are you?<|end|><|start|>assistant",
+   "dopo": "age|>You are ChatGPT, a large language model trained by OpenAI.\nKnowledge cutoff: 2024-06\nCurrent date: 2026-10-20\n\nReasoning: medium\n\n# Valid channels: analysis, commentary, final. Channel must be included for every message.<|end|><|start|>user<|message|>Hello, how are you?<|end|><|start|>assistant"
+  }
+ },
+ {
+  "repo": "openai/gpt-oss-20b",
+  "file": "chat_template.json",
+  "dopo": "ec854da5735f125fe36f080d8013482590f9ad7d",
+  "data": "2025-08-05T15:40:37.000Z",
+  "giorni": 0.7,
+  "classe": "errore di rendering",
+  "errori": [
+   "__ERRORE__ UndefinedError"
+  ],
+  "conversazioni_diverse": [
+   "C1",
+   "C2",
+   "C3",
+   "C4",
+   "C5"
+  ],
+  "esempio": {
+   "conversazione": "C1",
+   "prima": "edge cutoff: 2024-06\nCurrent date: 2026-10-20\n\nReasoning: medium\n\n# Valid channels: analysis, commentary, final. Channel must be included for every message.\nCalls to these tools must go to the commentary channel: 'functions'.<|end|><|start|>user<|message|>Hello, how are you?<|end|><|start|>assistant",
+   "dopo": "age|>You are ChatGPT, a large language model trained by OpenAI.\nKnowledge cutoff: 2024-06\nCurrent date: 2026-10-20\n\nReasoning: medium\n\n# Valid channels: analysis, commentary, final. Channel must be included for every message.<|end|><|start|>user<|message|>Hello, how are you?<|end|><|start|>assistant"
+  }
+ },
+ {
+  "repo": "openai/gpt-oss-20b",
+  "file": "chat_template.json",
+  "dopo": "ef533c924d202f1bffdd43e1f0593ad7d42484d6",
+  "data": "2025-08-06T16:49:12.000Z",
+  "giorni": 1.7,
+  "classe": "non confrontabile"
+ },
+ {
+  "repo": "openai/gpt-oss-20b",
+  "file": "chat_template.jinja",
+  "dopo": "10e9d713f8e4a9281c59c40be6c58537480635ea",
+  "data": "2025-08-07T17:43:45.000Z",
+  "giorni": 2.8,
+  "conversazioni_diverse": [
+   "C5"
+  ],
+  "classe": "solo con strumenti"
+ },
+ {
+  "repo": "openai/gpt-oss-20b",
+  "file": "chat_template.jinja",
+  "dopo": "cbf31f62664d4b1360b3a78427f7b3c3ed8f0fa8",
+  "data": "2025-08-08T22:46:37.000Z",
+  "giorni": 4.0,
+  "conversazioni_diverse": [
+   "C2",
+   "C4",
+   "C5"
+  ],
+  "classe": "uso normale",
+  "esempio": {
+   "conversazione": "C2",
+   "prima": " cutoff: 2024-06\nCurrent date: 2026-10-20\n\nReasoning: medium\n\n# Valid channels: analysis, commentary, final. Channel must be included for every message.<|end|><|start|>developer<|message|># Instructions\n\nYou are a helpful assistant.<|end|><|start|>user<|message|>What is 2+2?<|end|><|start|>assistant",
+   "dopo": "utoff: 2024-06\nCurrent date: 2026-10-20\n\nReasoning: medium\n\n# Valid channels: analysis, commentary, final. Channel must be included for every message.<|end|><|start|>developer<|message|># Instructions\n\nYou are a helpful assistant.\n\n<|end|><|start|>user<|message|>What is 2+2?<|end|><|start|>assistant"
+  }
+ },
+ {
+  "repo": "Qwen/Qwen2.5-0.5B-Instruct",
+  "file": "tokenizer_config.json",
+  "dopo": "a338b55dd21219a5f4da42bc11a9313d1a27d4cc",
+  "data": "2024-09-18T01:38:51.000Z",
+  "giorni": 1.6,
+  "conversazioni_diverse": [
+   "C1",
+   "C3",
+   "C5"
+  ],
+  "classe": "uso normale",
+  "esempio": {
+   "conversazione": "C1",
+   "prima": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nHello, how are you?<|im_end|>\n<|im_start|>assistant\n",
+   "dopo": "<|im_start|>system\nYou are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>\n<|im_start|>user\nHello, how are you?<|im_end|>\n<|im_start|>assistant\n"
+  }
+ },
+ {
+  "repo": "Qwen/Qwen2.5-0.5B-Instruct",
+  "file": "tokenizer_config.json",
+  "dopo": "a8b602d9dafd3a75d382e62757d83d89fca3be54",
+  "data": "2024-09-19T07:29:52.000Z",
+  "giorni": 2.8,
+  "conversazioni_diverse": [
+   "C5"
+  ],
+  "classe": "solo con strumenti"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-1.5B-Instruct",
+  "file": "tokenizer_config.json",
+  "dopo": "b9d14db30f3849a06f43e2c7d5d413223919f5ed",
+  "data": "2024-09-18T01:39:57.000Z",
+  "giorni": 0.5,
+  "conversazioni_diverse": [
+   "C1",
+   "C3",
+   "C5"
+  ],
+  "classe": "uso normale",
+  "esempio": {
+   "conversazione": "C1",
+   "prima": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nHello, how are you?<|im_end|>\n<|im_start|>assistant\n",
+   "dopo": "<|im_start|>system\nYou are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>\n<|im_start|>user\nHello, how are you?<|im_end|>\n<|im_start|>assistant\n"
+  }
+ },
+ {
+  "repo": "Qwen/Qwen2.5-1.5B-Instruct",
+  "file": "tokenizer_config.json",
+  "dopo": "5fee7c4ed634dc66c6e318c8ac2897b8b9154536",
+  "data": "2024-09-19T07:29:59.000Z",
+  "giorni": 1.7,
+  "conversazioni_diverse": [
+   "C5"
+  ],
+  "classe": "solo con strumenti"
+ },
+ {
+  "repo": "Qwen/Qwen3-1.7B",
+  "file": "tokenizer_config.json",
+  "dopo": "0ecc654158dd093daab47fd37c5f122925d93983",
+  "data": "2025-05-19T07:40:08.000Z",
+  "giorni": 21.1,
+  "conversazioni_diverse": [],
+  "classe": "nessun cambio visibile"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-3B-Instruct",
+  "file": "tokenizer_config.json",
+  "dopo": "9fbe4b579dd1096693a521a055df1472cbb211bf",
+  "data": "2024-09-18T01:40:42.000Z",
+  "giorni": 0.5,
+  "conversazioni_diverse": [
+   "C1",
+   "C3",
+   "C5"
+  ],
+  "classe": "uso normale",
+  "esempio": {
+   "conversazione": "C1",
+   "prima": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nHello, how are you?<|im_end|>\n<|im_start|>assistant\n",
+   "dopo": "<|im_start|>system\nYou are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>\n<|im_start|>user\nHello, how are you?<|im_end|>\n<|im_start|>assistant\n"
+  }
+ },
+ {
+  "repo": "Qwen/Qwen2.5-3B-Instruct",
+  "file": "tokenizer_config.json",
+  "dopo": "82f42baa094a9600e39ccd80d34058aeeb3abbc1",
+  "data": "2024-09-19T07:30:05.000Z",
+  "giorni": 1.7,
+  "conversazioni_diverse": [
+   "C5"
+  ],
+  "classe": "solo con strumenti"
+ },
+ {
+  "repo": "trl-internal-testing/tiny-Qwen2ForCausalLM-2.5",
+  "file": "tokenizer_config.json",
+  "dopo": "e5161534f50cfbebe5d7da17050ccda3c1b2dd82",
+  "data": "2024-11-25T15:06:17.000Z",
+  "giorni": 0.0,
+  "classe": "non confrontabile"
+ },
+ {
+  "repo": "trl-internal-testing/tiny-Qwen2ForCausalLM-2.5",
+  "file": "chat_template.jinja",
+  "dopo": "8913f581956675bf74143b279ecbc7e08431d1ac",
+  "data": "2025-06-14T17:34:57.000Z",
+  "giorni": 201.1,
+  "classe": "non confrontabile"
+ },
+ {
+  "repo": "trl-internal-testing/tiny-Qwen2ForCausalLM-2.5",
+  "file": "tokenizer_config.json",
+  "dopo": "8913f581956675bf74143b279ecbc7e08431d1ac",
+  "data": "2025-06-14T17:34:57.000Z",
+  "giorni": 201.1,
+  "classe": "non confrontabile"
+ },
+ {
+  "repo": "trl-internal-testing/tiny-Qwen2ForCausalLM-2.5",
+  "file": "chat_template.jinja",
+  "dopo": "942bbf31e5ade328b6f16121fd6ed98f6f92c12f",
+  "data": "2025-06-14T17:55:06.000Z",
+  "giorni": 201.1,
+  "conversazioni_diverse": [],
+  "classe": "nessun cambio visibile"
+ },
+ {
+  "repo": "trl-internal-testing/tiny-Qwen2ForCausalLM-2.5",
+  "file": "chat_template.jinja",
+  "dopo": "abfa10439d84df1b4c9412a0bb81e8f238b7d220",
+  "data": "2025-06-14T17:57:35.000Z",
+  "giorni": 201.1,
+  "conversazioni_diverse": [],
+  "classe": "nessun cambio visibile"
+ },
+ {
+  "repo": "trl-internal-testing/tiny-Qwen2ForCausalLM-2.5",
+  "file": "chat_template.jinja",
+  "dopo": "74125628f9f276254b5ca4388dbcba3dec0dc473",
+  "data": "2025-06-14T18:03:34.000Z",
+  "giorni": 201.1,
+  "conversazioni_diverse": [],
+  "classe": "nessun cambio visibile"
+ },
+ {
+  "repo": "openai/gpt-oss-120b",
+  "file": "chat_template.jinja",
+  "dopo": "f39accdb091b6c5710dbbf02674c27064e35019b",
+  "data": "2025-08-05T15:45:04.000Z",
+  "giorni": 0.7,
+  "classe": "errore di rendering",
+  "errori": [
+   "__ERRORE__ UndefinedError"
+  ],
+  "conversazioni_diverse": [
+   "C1",
+   "C2",
+   "C3",
+   "C4",
+   "C5"
+  ],
+  "esempio": {
+   "conversazione": "C1",
+   "prima": "edge cutoff: 2024-06\nCurrent date: 2026-10-20\n\nReasoning: medium\n\n# Valid channels: analysis, commentary, final. Channel must be included for every message.\nCalls to these tools must go to the commentary channel: 'functions'.<|end|><|start|>user<|message|>Hello, how are you?<|end|><|start|>assistant",
+   "dopo": "age|>You are ChatGPT, a large language model trained by OpenAI.\nKnowledge cutoff: 2024-06\nCurrent date: 2026-10-20\n\nReasoning: medium\n\n# Valid channels: analysis, commentary, final. Channel must be included for every message.<|end|><|start|>user<|message|>Hello, how are you?<|end|><|start|>assistant"
+  }
+ },
+ {
+  "repo": "openai/gpt-oss-120b",
+  "file": "chat_template.json",
+  "dopo": "f39accdb091b6c5710dbbf02674c27064e35019b",
+  "data": "2025-08-05T15:45:04.000Z",
+  "giorni": 0.7,
+  "classe": "errore di rendering",
+  "errori": [
+   "__ERRORE__ UndefinedError"
+  ],
+  "conversazioni_diverse": [
+   "C1",
+   "C2",
+   "C3",
+   "C4",
+   "C5"
+  ],
+  "esempio": {
+   "conversazione": "C1",
+   "prima": "edge cutoff: 2024-06\nCurrent date: 2026-10-20\n\nReasoning: medium\n\n# Valid channels: analysis, commentary, final. Channel must be included for every message.\nCalls to these tools must go to the commentary channel: 'functions'.<|end|><|start|>user<|message|>Hello, how are you?<|end|><|start|>assistant",
+   "dopo": "age|>You are ChatGPT, a large language model trained by OpenAI.\nKnowledge cutoff: 2024-06\nCurrent date: 2026-10-20\n\nReasoning: medium\n\n# Valid channels: analysis, commentary, final. Channel must be included for every message.<|end|><|start|>user<|message|>Hello, how are you?<|end|><|start|>assistant"
+  }
+ },
+ {
+  "repo": "openai/gpt-oss-120b",
+  "file": "chat_template.json",
+  "dopo": "eabf0c518da7584a2e7dab4ab272709785a72126",
+  "data": "2025-08-06T16:49:21.000Z",
+  "giorni": 1.7,
+  "classe": "non confrontabile"
+ },
+ {
+  "repo": "openai/gpt-oss-120b",
+  "file": "chat_template.jinja",
+  "dopo": "988e56b6fc3c723ad30aa7f18db742f54f921567",
+  "data": "2025-08-07T17:43:56.000Z",
+  "giorni": 2.8,
+  "conversazioni_diverse": [
+   "C5"
+  ],
+  "classe": "solo con strumenti"
+ },
+ {
+  "repo": "openai/gpt-oss-120b",
+  "file": "chat_template.jinja",
+  "dopo": "bc75b44b8a2a116a0e4c6659bcd1b7969885f423",
+  "data": "2025-08-08T22:46:29.000Z",
+  "giorni": 4.0,
+  "conversazioni_diverse": [
+   "C2",
+   "C4",
+   "C5"
+  ],
+  "classe": "uso normale",
+  "esempio": {
+   "conversazione": "C2",
+   "prima": " cutoff: 2024-06\nCurrent date: 2026-10-20\n\nReasoning: medium\n\n# Valid channels: analysis, commentary, final. Channel must be included for every message.<|end|><|start|>developer<|message|># Instructions\n\nYou are a helpful assistant.<|end|><|start|>user<|message|>What is 2+2?<|end|><|start|>assistant",
+   "dopo": "utoff: 2024-06\nCurrent date: 2026-10-20\n\nReasoning: medium\n\n# Valid channels: analysis, commentary, final. Channel must be included for every message.<|end|><|start|>developer<|message|># Instructions\n\nYou are a helpful assistant.\n\n<|end|><|start|>user<|message|>What is 2+2?<|end|><|start|>assistant"
+  }
+ },
+ {
+  "repo": "Qwen/Qwen3-32B",
+  "file": "tokenizer_config.json",
+  "dopo": "a09d5ccb54a84a572fcde9e54da24ec6e5a4b4a2",
+  "data": "2025-05-19T07:43:51.000Z",
+  "giorni": 21.0,
+  "conversazioni_diverse": [],
+  "classe": "nessun cambio visibile"
+ },
+ {
+  "repo": "Qwen/Qwen3-4B-Instruct-2507",
+  "file": "tokenizer_config.json",
+  "dopo": "cdbee75f17c01a7cc42f958dc650907174af0554",
+  "data": "2025-09-17T06:56:53.000Z",
+  "giorni": 42.8,
+  "conversazioni_diverse": [
+   "C4"
+  ],
+  "classe": "uso normale",
+  "esempio": {
+   "conversazione": "C4",
+   "prima": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nWhat is 2+2?<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>\n\n4<|im_end|>\n",
+   "dopo": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nWhat is 2+2?<|im_end|>\n<|im_start|>assistant\n4<|im_end|>\n"
+  }
+ },
+ {
+  "repo": "Qwen/Qwen3-14B-AWQ",
+  "file": "tokenizer_config.json",
+  "dopo": "1a6fe1ecf891437a270cce11ad54d796c4f56ce0",
+  "data": "2025-05-19T07:41:24.000Z",
+  "giorni": 17.9,
+  "conversazioni_diverse": [],
+  "classe": "nessun cambio visibile"
+ },
+ {
+  "repo": "Qwen/Qwen3-8B-AWQ",
+  "file": "tokenizer_config.json",
+  "dopo": "c664f5e955c33186a8b7a5cf0cbc3b220e4afdd4",
+  "data": "2025-05-03T12:31:05.000Z",
+  "giorni": 0.4,
+  "conversazioni_diverse": [
+   "C4",
+   "C5"
+  ],
+  "classe": "uso normale",
+  "esempio": {
+   "conversazione": "C4",
+   "prima": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nWhat is 2+2?<|im_end|>\n<|im_start|>assistant\n4<|im_end|>\n",
+   "dopo": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nWhat is 2+2?<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>\n\n4<|im_end|>\n"
+  }
+ },
+ {
+  "repo": "Qwen/Qwen3-8B-AWQ",
+  "file": "tokenizer_config.json",
+  "dopo": "4a2d74b63371c8cd724aa15dc5efbd329b16f573",
+  "data": "2025-05-19T07:46:28.000Z",
+  "giorni": 16.2,
+  "conversazioni_diverse": [],
+  "classe": "nessun cambio visibile"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-7B-Instruct-AWQ",
+  "file": "tokenizer_config.json",
+  "dopo": "617b26a2e255b3d75afdfd7f390e7df70b00167c",
+  "data": "2024-09-19T07:30:15.000Z",
+  "giorni": 1.2,
+  "conversazioni_diverse": [
+   "C5"
+  ],
+  "classe": "solo con strumenti"
+ },
+ {
+  "repo": "zai-org/GLM-5.3",
+  "file": "chat_template.jinja",
+  "dopo": "aca966e4e02791568aa6a4ced368624b3d897f42",
+  "data": "2026-09-04T06:41:23.000Z",
+  "giorni": 7.6,
+  "conversazioni_diverse": [],
+  "classe": "nessun cambio visibile"
+ },
+ {
+  "repo": "zai-org/GLM-5.3",
+  "file": "chat_template.jinja",
+  "dopo": "ba32f8c19c8738e2c57c71798c601d477a7bf844",
+  "data": "2026-10-14T12:22:48.000Z",
+  "giorni": 47.8,
+  "conversazioni_diverse": [],
+  "classe": "nessun cambio visibile"
+ },
+ {
+  "repo": "mistralai/Mistral-7B-Instruct-v0.2",
+  "file": "tokenizer_config.json",
+  "dopo": "1296dc8fd9b21e6424c9c305c06db9ae60c03ace",
+  "data": "2024-06-20T15:54:21.000Z",
+  "giorni": 192.1,
+  "classe": "errore di rendering",
+  "errori": [
+   "__ERRORE__ TemplateError"
+  ],
+  "conversazioni_diverse": [
+   "C3"
+  ],
+  "esempio": {
+   "conversazione": "C3",
+   "prima": "<s>[INST] Hi [/INST]Hello! How can I help?</s>[INST] Tell me a joke. [/INST]",
+   "dopo": "<s>[INST] Hi [/INST] Hello! How can I help?</s>[INST] Tell me a joke. [/INST]"
+  }
+ },
+ {
+  "repo": "mistralai/Mistral-7B-Instruct-v0.2",
+  "file": "tokenizer_config.json",
+  "dopo": "250544c9a802b0396550d0fd24bc80ff98bb1f5f",
+  "data": "2024-07-03T22:10:26.000Z",
+  "giorni": 205.3,
+  "classe": "errore di rendering",
+  "errori": [
+   "__ERRORE__ TemplateError"
+  ],
+  "conversazioni_diverse": [
+   "C1",
+   "C2",
+   "C3",
+   "C4",
+   "C5"
+  ],
+  "esempio": {
+   "conversazione": "C1",
+   "prima": "<s>[INST] Hello, how are you? [/INST]",
+   "dopo": "<s> [INST] Hello, how are you? [/INST]"
+  }
+ },
+ {
+  "repo": "nvidia/NVIDIA-Nemotron-3-Nano-4B-BF16",
+  "file": "tokenizer_config.json",
+  "dopo": "dfaf35de3e30f1867dd8dbc38a7fc9fb52d3914f",
+  "data": "2026-03-20T20:50:41.000Z",
+  "giorni": 13.8,
+  "classe": "non confrontabile"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-Coder-7B-Instruct",
+  "file": "tokenizer_config.json",
+  "dopo": "8d20e2b046afe44cb4f759cff10574b995c0ddb8",
+  "data": "2024-09-18T03:28:39.000Z",
+  "giorni": 0.5,
+  "conversazioni_diverse": [
+   "C1",
+   "C3",
+   "C5"
+  ],
+  "classe": "uso normale",
+  "esempio": {
+   "conversazione": "C1",
+   "prima": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nHello, how are you?<|im_end|>\n<|im_start|>assistant\n",
+   "dopo": "<|im_start|>system\nYou are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>\n<|im_start|>user\nHello, how are you?<|im_end|>\n<|im_start|>assistant\n"
+  }
+ },
+ {
+  "repo": "Qwen/Qwen2.5-Coder-7B-Instruct",
+  "file": "tokenizer_config.json",
+  "dopo": "0b044f5762b0be9c48fc2b7bc216454c5eff0bb8",
+  "data": "2024-09-19T07:30:44.000Z",
+  "giorni": 1.6,
+  "conversazioni_diverse": [
+   "C5"
+  ],
+  "classe": "solo con strumenti"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-14B-Instruct-AWQ",
+  "file": "tokenizer_config.json",
+  "dopo": "15caf3706c437f72fe4a0b64b4aee94b5e823e9c",
+  "data": "2024-09-19T07:30:22.000Z",
+  "giorni": 1.2,
+  "conversazioni_diverse": [
+   "C5"
+  ],
+  "classe": "solo con strumenti"
+ },
+ {
+  "repo": "Qwen/Qwen3-4B-Instruct-2507-FP8",
+  "file": "tokenizer_config.json",
+  "dopo": "8591804019c8b22094c3b5b4454e0edc05dffc98",
+  "data": "2025-09-17T06:57:02.000Z",
+  "giorni": 42.0,
+  "conversazioni_diverse": [
+   "C4"
+  ],
+  "classe": "uso normale",
+  "esempio": {
+   "conversazione": "C4",
+   "prima": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nWhat is 2+2?<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>\n\n4<|im_end|>\n",
+   "dopo": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nWhat is 2+2?<|im_end|>\n<|im_start|>assistant\n4<|im_end|>\n"
+  }
+ },
+ {
+  "repo": "Qwen/Qwen2.5-32B-Instruct",
+  "file": "tokenizer_config.json",
+  "dopo": "a7e76d7ea0d64956a3238b461efa58a47f77c8b3",
+  "data": "2024-09-18T01:45:12.000Z",
+  "giorni": 0.8,
+  "conversazioni_diverse": [
+   "C1",
+   "C3",
+   "C5"
+  ],
+  "classe": "uso normale",
+  "esempio": {
+   "conversazione": "C1",
+   "prima": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nHello, how are you?<|im_end|>\n<|im_start|>assistant\n",
+   "dopo": "<|im_start|>system\nYou are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>\n<|im_start|>user\nHello, how are you?<|im_end|>\n<|im_start|>assistant\n"
+  }
+ },
+ {
+  "repo": "Qwen/Qwen2.5-32B-Instruct",
+  "file": "tokenizer_config.json",
+  "dopo": "70e8dfb9ad18a7d499f765fe206ff065ed8ca197",
+  "data": "2024-09-19T07:30:25.000Z",
+  "giorni": 2.1,
+  "conversazioni_diverse": [
+   "C5"
+  ],
+  "classe": "solo con strumenti"
+ },
+ {
+  "repo": "openbmb/MiniCPM5-2B",
+  "file": "chat_template.jinja",
+  "dopo": "f97400052a43d642bbc6e9975e2397e3ae6a6b52",
+  "data": "2026-09-29T06:12:33.000Z",
+  "giorni": 22.8,
+  "conversazioni_diverse": [],
+  "classe": "nessun cambio visibile"
+ },
+ {
+  "repo": "deepseek-ai/DeepSeek-R1",
+  "file": "tokenizer_config.json",
+  "dopo": "8a58a132790c9935686eb97f042afa8013451c9f",
+  "data": "2025-02-09T06:34:11.000Z",
+  "giorni": 20.0,
+  "conversazioni_diverse": [
+   "C1",
+   "C2",
+   "C3",
+   "C5"
+  ],
+  "classe": "uso normale",
+  "esempio": {
+   "conversazione": "C1",
+   "prima": "<s><｜User｜>Hello, how are you?<｜Assistant｜>",
+   "dopo": "<s><｜User｜>Hello, how are you?<｜Assistant｜><think>\n"
+  }
+ },
+ {
+  "repo": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",
+  "file": "tokenizer_config.json",
+  "dopo": "530ca3e1ad39d440e182c2e4317aa40f012512fa",
+  "data": "2025-02-09T06:34:28.000Z",
+  "giorni": 19.9,
+  "conversazioni_diverse": [
+   "C1",
+   "C2",
+   "C3",
+   "C5"
+  ],
+  "classe": "uso normale",
+  "esempio": {
+   "conversazione": "C1",
+   "prima": "<s><｜User｜>Hello, how are you?<｜Assistant｜>",
+   "dopo": "<s><｜User｜>Hello, how are you?<｜Assistant｜><think>\n"
+  }
+ },
+ {
+  "repo": "Qwen/Qwen2.5-0.5B",
+  "file": "tokenizer_config.json",
+  "dopo": "74e0d9cfa1ba6f779d35f63aeb6cea7511937269",
+  "data": "2024-09-16T11:23:53.000Z",
+  "giorni": 0.9,
+  "conversazioni_diverse": [
+   "C5"
+  ],
+  "classe": "solo con strumenti"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-0.5B",
+  "file": "tokenizer_config.json",
+  "dopo": "2630d3d2321bc1f1878f702166d1b2af019a7310",
+  "data": "2024-09-19T07:29:50.000Z",
+  "giorni": 3.7,
+  "conversazioni_diverse": [
+   "C5"
+  ],
+  "classe": "solo con strumenti"
+ },
+ {
+  "repo": "HuggingFaceTB/SmolLM2-135M-Instruct",
+  "file": "tokenizer_config.json",
+  "dopo": "eba0825ddc7730d24a88685a6c0a078cf919b383",
+  "data": "2024-10-31T18:03:27.000Z",
+  "giorni": 0.2,
+  "conversazioni_diverse": [
+   "C1",
+   "C3",
+   "C5"
+  ],
+  "classe": "uso normale",
+  "esempio": {
+   "conversazione": "C1",
+   "prima": "<|im_start|>user\nHello, how are you?<|im_end|>\n<|im_start|>assistant\n",
+   "dopo": "<|im_start|>system\nYou are a helpful AI assistant named SmolLM, trained by Hugging Face<|im_end|>\n<|im_start|>user\nHello, how are you?<|im_end|>\n<|im_start|>assistant\n"
+  }
+ },
+ {
+  "repo": "nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16",
+  "file": "chat_template.jinja",
+  "dopo": "4fed69b4f37cde78542ef42c69bc567ddca0d645",
+  "data": "2025-12-15T09:57:14.000Z",
+  "giorni": 11.3,
+  "conversazioni_diverse": [],
+  "classe": "nessun cambio visibile"
+ },
+ {
+  "repo": "nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16",
+  "file": "tokenizer_config.json",
+  "dopo": "4fed69b4f37cde78542ef42c69bc567ddca0d645",
+  "data": "2025-12-15T09:57:14.000Z",
+  "giorni": 11.3,
+  "conversazioni_diverse": [],
+  "classe": "nessun cambio visibile"
+ },
+ {
+  "repo": "Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8",
+  "file": "tokenizer_config.json",
+  "dopo": "acc0a21828d8d3483ddd1ce54d2e98a89ca80309",
+  "data": "2025-08-07T07:04:49.000Z",
+  "giorni": 6.9,
+  "conversazioni_diverse": [
+   "C5"
+  ],
+  "classe": "solo con strumenti"
+ },
+ {
+  "repo": "Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8",
+  "file": "chat_template.jinja",
+  "dopo": "e8ab3f2db9e388999a004eea5a31c16a8b517bc0",
+  "data": "2025-08-21T10:22:22.000Z",
+  "giorni": 21.1,
+  "classe": "non confrontabile"
+ },
+ {
+  "repo": "Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8",
+  "file": "tokenizer_config.json",
+  "dopo": "e8ab3f2db9e388999a004eea5a31c16a8b517bc0",
+  "data": "2025-08-21T10:22:22.000Z",
+  "giorni": 21.1,
+  "conversazioni_diverse": [
+   "C5"
+  ],
+  "classe": "solo con strumenti"
+ },
+ {
+  "repo": "Qwen/Qwen3-30B-A3B",
+  "file": "tokenizer_config.json",
+  "dopo": "f0abbbee7f4db139f64a2c3be5dc133fd7328acb",
+  "data": "2025-05-19T07:42:56.000Z",
+  "giorni": 21.0,
+  "conversazioni_diverse": [],
+  "classe": "nessun cambio visibile"
+ },
+ {
+  "repo": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "file": "tokenizer_config.json",
+  "dopo": "fd5492ea24611e203da0b593be7916913e490362",
+  "data": "2025-07-29T12:11:03.000Z",
+  "giorni": 1.2,
+  "conversazioni_diverse": [],
+  "classe": "nessun cambio visibile"
+ },
+ {
+  "repo": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "file": "tokenizer_config.json",
+  "dopo": "0d7cf23991f47feeb3a57ecb4c9cee8ea4a17bfe",
+  "data": "2025-09-17T06:56:43.000Z",
+  "giorni": 51.0,
+  "conversazioni_diverse": [
+   "C4"
+  ],
+  "classe": "uso normale",
+  "esempio": {
+   "conversazione": "C4",
+   "prima": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nWhat is 2+2?<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>\n\n4<|im_end|>\n",
+   "dopo": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nWhat is 2+2?<|im_end|>\n<|im_start|>assistant\n4<|im_end|>\n"
+  }
+ },
+ {
+  "repo": "0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
+  "file": "chat_template.jinja",
+  "dopo": "895dae2f8357fa092f0240bde859ddbf527e9b0b",
+  "data": "2026-08-19T13:46:13.000Z",
+  "giorni": 4.8,
+  "classe": "non confrontabile"
+ },
+ {
+  "repo": "nvidia/Gemma-4-26B-A4B-NVFP4",
+  "file": "chat_template.jinja",
+  "dopo": "bbf84e07ec612504a2ad296b3c7ab2e1712f7ea2",
+  "data": "2026-05-07T00:43:59.000Z",
+  "giorni": 6.0,
+  "conversazioni_diverse": [],
+  "classe": "nessun cambio visibile"
+ },
+ {
+  "repo": "nvidia/Gemma-4-31B-IT-NVFP4",
+  "file": "chat_template.jinja",
+  "dopo": "61521ee452a45ae05ca99b3b19fb44df64d36824",
+  "data": "2026-04-18T08:11:47.000Z",
+  "giorni": 15.6,
+  "conversazioni_diverse": [],
+  "classe": "nessun cambio visibile"
+ },
+ {
+  "repo": "nvidia/Gemma-4-31B-IT-NVFP4",
+  "file": "chat_template.jinja",
+  "dopo": "05fa17010ac2bf68365b33bdd20f07faa10654b4",
+  "data": "2026-05-01T08:45:55.000Z",
+  "giorni": 28.7,
+  "conversazioni_diverse": [],
+  "classe": "nessun cambio visibile"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-32B-Instruct-AWQ",
+  "file": "tokenizer_config.json",
+  "dopo": "4b99fe578fcefa565d7497b70939b0e40de1b434",
+  "data": "2024-09-19T07:30:29.000Z",
+  "giorni": 1.2,
+  "conversazioni_diverse": [
+   "C5"
+  ],
+  "classe": "solo con strumenti"
+ },
+ {
+  "repo": "nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
+  "file": "chat_template.jinja",
+  "dopo": "3ff6a82aadec49f1f12d8bdb12df5575560d1a44",
+  "data": "2026-08-05T22:25:13.000Z",
+  "giorni": 0.4,
+  "conversazioni_diverse": [],
+  "classe": "nessun cambio visibile"
+ },
+ {
+  "repo": "zai-org/GLM-5",
+  "file": "chat_template.jinja",
+  "dopo": "f4c624070fb778e07ad16fb04c34dad055be3fce",
+  "data": "2026-03-11T12:23:19.000Z",
+  "giorni": 28.3,
+  "conversazioni_diverse": [],
+  "classe": "nessun cambio visibile"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-14B-Instruct",
+  "file": "tokenizer_config.json",
+  "dopo": "e648520a381cc1bac5b91ff5f42879ba32550fc9",
+  "data": "2024-09-18T01:43:14.000Z",
+  "giorni": 1.4,
+  "conversazioni_diverse": [
+   "C1",
+   "C3",
+   "C5"
+  ],
+  "classe": "uso normale",
+  "esempio": {
+   "conversazione": "C1",
+   "prima": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nHello, how are you?<|im_end|>\n<|im_start|>assistant\n",
+   "dopo": "<|im_start|>system\nYou are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>\n<|im_start|>user\nHello, how are you?<|im_end|>\n<|im_start|>assistant\n"
+  }
+ },
+ {
+  "repo": "Qwen/Qwen2.5-14B-Instruct",
+  "file": "tokenizer_config.json",
+  "dopo": "502e5d8bfd665ed113fd9b3626445ca7b0596303",
+  "data": "2024-09-19T07:30:18.000Z",
+  "giorni": 2.7,
+  "conversazioni_diverse": [
+   "C5"
+  ],
+  "classe": "solo con strumenti"
+ },
+ {
+  "repo": "unsloth/Llama-3.2-1B-Instruct",
+  "file": "tokenizer_config.json",
+  "dopo": "4e20426873bde3b9bae9ed89fc2f95ed9638d23b",
+  "data": "2024-09-25T18:41:01.000Z",
+  "giorni": 0.0,
+  "classe": "non confrontabile"
+ },
+ {
+  "repo": "unsloth/Llama-3.2-1B-Instruct",
+  "file": "tokenizer_config.json",
+  "dopo": "0430e7102ae7f4fad2b056a4d5064abd985588fc",
+  "data": "2025-01-22T09:38:08.000Z",
+  "giorni": 118.6,
+  "conversazioni_diverse": [
+   "C1",
+   "C2",
+   "C3",
+   "C4",
+   "C5"
+  ],
+  "classe": "uso normale",
+  "esempio": {
+   "conversazione": "C1",
+   "prima": "<s><|start_header_id|>system<|end_header_id|>\n\nCutting Knowledge Date: December 2023\nToday Date: 20 Oct 2026\n\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nHello, how are you?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+   "dopo": "<|start_header_id|>system<|end_header_id|>\n\nCutting Knowledge Date: December 2023\nToday Date: 20 Oct 2026\n\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nHello, how are you?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n"
+  }
+ },
+ {
+  "repo": "unsloth/Llama-3.2-1B-Instruct",
+  "file": "tokenizer_config.json",
+  "dopo": "2906abdacc8c773de918615c4c5f7232f1109e62",
+  "data": "2025-01-22T12:11:26.000Z",
+  "giorni": 118.7,
+  "conversazioni_diverse": [
+   "C1",
+   "C2",
+   "C3",
+   "C4",
+   "C5"
+  ],
+  "classe": "uso normale",
+  "esempio": {
+   "conversazione": "C1",
+   "prima": "<|start_header_id|>system<|end_header_id|>\n\nCutting Knowledge Date: December 2023\nToday Date: 20 Oct 2026\n\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nHello, how are you?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+   "dopo": "<s><|start_header_id|>system<|end_header_id|>\n\nCutting Knowledge Date: December 2023\nToday Date: 20 Oct 2026\n\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nHello, how are you?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n"
+  }
+ },
+ {
+  "repo": "unsloth/Llama-3.2-1B-Instruct",
+  "file": "chat_template.jinja",
+  "dopo": "5a8abab4a5d6f164389b1079fb721cfab8d7126c",
+  "data": "2025-05-09T20:24:41.000Z",
+  "giorni": 226.1,
+  "classe": "non confrontabile"
+ },
+ {
+  "repo": "trl-internal-testing/tiny-Qwen3ForCausalLM",
+  "file": "tokenizer_config.json",
+  "dopo": "fd2815bbd38c6bee679a9bd4f8aab6a9876c5e23",
+  "data": "2025-05-05T18:41:19.000Z",
+  "giorni": 0.0,
+  "classe": "non confrontabile"
+ },
+ {
+  "repo": "trl-internal-testing/tiny-Qwen3ForCausalLM",
+  "file": "chat_template.jinja",
+  "dopo": "a231f7e63de6d9a5fcb4c9f67634c6d5bb5250df",
+  "data": "2025-06-14T18:02:41.000Z",
+  "giorni": 40.0,
+  "classe": "non confrontabile"
+ },
+ {
+  "repo": "trl-internal-testing/tiny-Qwen3ForCausalLM",
+  "file": "tokenizer_config.json",
+  "dopo": "a231f7e63de6d9a5fcb4c9f67634c6d5bb5250df",
+  "data": "2025-06-14T18:02:41.000Z",
+  "giorni": 40.0,
+  "classe": "non confrontabile"
+ },
+ {
+  "repo": "MiniMaxAI/MiniMax-M2.5",
+  "file": "chat_template.jinja",
+  "dopo": "134ae7c46b8c0152819a9c534dad8628066b23b1",
+  "data": "2026-02-12T16:07:45.000Z",
+  "giorni": 0.1,
+  "conversazioni_diverse": [
+   "C1",
+   "C3",
+   "C5"
+  ],
+  "classe": "uso normale",
+  "esempio": {
+   "conversazione": "C1",
+   "prima": "]~!b[]~b]system\nYou are a helpful assistant.[e~[\n]~b]user\nHello, how are you?[e~[\n]~b]ai\n<think>\n",
+   "dopo": "]~!b[]~b]system\nYou are a helpful assistant. Your name is MiniMax-M2.5 and is built by MiniMax.[e~[\n]~b]user\nHello, how are you?[e~[\n]~b]ai\n<think>\n"
+  }
+ },
+ {
+  "repo": "Qwen/Qwen3-32B-AWQ",
+  "file": "tokenizer_config.json",
+  "dopo": "1e09580a8dacf7685baf956d86ca7a13c7506910",
+  "data": "2025-05-19T07:44:10.000Z",
+  "giorni": 17.9,
+  "conversazioni_diverse": [],
+  "classe": "nessun cambio visibile"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-3B-Instruct-AWQ",
+  "file": "tokenizer_config.json",
+  "dopo": "a2be73dcf1f9d5172f1f37762ce9ddbfa96e854e",
+  "data": "2024-09-19T07:30:08.000Z",
+  "giorni": 1.2,
+  "conversazioni_diverse": [
+   "C5"
+  ],
+  "classe": "solo con strumenti"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-7B",
+  "file": "tokenizer_config.json",
+  "dopo": "3115c99c189e698dd7274e8a463a1025b0c878a6",
+  "data": "2024-09-16T11:28:55.000Z",
+  "giorni": 0.8,
+  "conversazioni_diverse": [
+   "C5"
+  ],
+  "classe": "solo con strumenti"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-7B",
+  "file": "tokenizer_config.json",
+  "dopo": "09a0bac5707b43ec44508eab308b0846320c1ed4",
+  "data": "2024-09-19T07:30:09.000Z",
+  "giorni": 3.7,
+  "conversazioni_diverse": [
+   "C5"
+  ],
+  "classe": "solo con strumenti"
+ },
+ {
+  "repo": "HuggingFaceTB/SmolLM3-3B",
+  "file": "chat_template.jinja",
+  "dopo": "a169fa445c7eb1c4df03da97cd914dbdb9a94421",
+  "data": "2025-07-08T14:28:27.000Z",
+  "giorni": 0.2,
+  "conversazioni_diverse": [
+   "C1",
+   "C2",
+   "C3",
+   "C4",
+   "C5"
+  ],
+  "classe": "uso normale",
+  "esempio": {
+   "conversazione": "C1",
+   "prima": " the final solution that you deem correct. The Solution section should be logical, accurate, and concise and detail necessary steps needed to reach the conclusion.\n\n## Tools\n\n### XML Tools\n\nNone\n\n### Python Tools\n\nNone\n\n<|im_end|>\n<|im_start|>user\nHello, how are you?<|im_end|>\n<|im_start|>assistant\n",
+   "dopo": ", and reflections from the Thought section, systematically present the final solution that you deem correct. The Solution section should be logical, accurate, and concise and detail necessary steps needed to reach the conclusion.\n\n<|im_start|>user\nHello, how are you?<|im_end|>\n<|im_start|>assistant\n"
+  }
+ },
+ {
+  "repo": "HuggingFaceTB/SmolLM3-3B",
+  "file": "chat_template.jinja",
+  "dopo": "486a602f60b9b61d727ee978b3747824cb659f4d",
+  "data": "2025-07-09T10:05:39.000Z",
+  "giorni": 1.0,
+  "conversazioni_diverse": [
+   "C5"
+  ],
+  "classe": "solo con strumenti"
+ },
+ {
+  "repo": "Qwen/Qwen3-8B-Base",
+  "file": "tokenizer_config.json",
+  "dopo": "a64df03b50f8fdeb56e303ed2dd5228dc149f926",
+  "data": "2025-04-28T18:19:03.000Z",
+  "giorni": 0.5,
+  "conversazioni_diverse": [
+   "C1",
+   "C3",
+   "C4",
+   "C5"
+  ],
+  "classe": "uso normale",
+  "esempio": {
+   "conversazione": "C1",
+   "prima": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nHello, how are you?<|im_end|>\n<|im_start|>assistant\n",
+   "dopo": "<|im_start|>user\nHello, how are you?<|im_end|>\n<|im_start|>assistant\n"
+  }
+ },
+ {
+  "repo": "PrimeIntellect/Qwen3-0.6B",
+  "file": "chat_template.jinja",
+  "dopo": "1f818745f470b18c51d477e185aa671da451bdfd",
+  "data": "2025-08-12T20:01:07.000Z",
+  "giorni": 0.0,
+  "classe": "non confrontabile"
+ },
+ {
+  "repo": "tencent/Hy3",
+  "file": "chat_template.jinja",
+  "dopo": "3917583e8e630bd692dba80241ca349b8975aac4",
+  "data": "2026-07-05T05:58:15.000Z",
+  "giorni": 0.6,
+  "conversazioni_diverse": [],
+  "classe": "nessun cambio visibile"
+ },
+ {
+  "repo": "nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
+  "file": "chat_template.jinja",
+  "dopo": "742ebb650c8bcf75d8ef92a3b19faabf7dd32664",
+  "data": "2026-08-05T02:37:28.000Z",
+  "giorni": 3.8,
+  "conversazioni_diverse": [],
+  "classe": "nessun cambio visibile"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-1.5B",
+  "file": "tokenizer_config.json",
+  "dopo": "033b7782da89bcc457997494478bba1bf19025bc",
+  "data": "2024-09-16T11:24:54.000Z",
+  "giorni": 0.9,
+  "conversazioni_diverse": [
+   "C5"
+  ],
+  "classe": "solo con strumenti"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-1.5B",
+  "file": "tokenizer_config.json",
+  "dopo": "e5dfabbcffd9b0c7b31d89b82c5a6b72e663f32c",
+  "data": "2024-09-19T07:29:57.000Z",
+  "giorni": 3.7,
+  "conversazioni_diverse": [
+   "C5"
+  ],
+  "classe": "solo con strumenti"
+ },
+ {
+  "repo": "Qwen/Qwen3-0.6B-Base",
+  "file": "tokenizer_config.json",
+  "dopo": "527f918d05b5c4bcfc25c13b054f06ff8e906e82",
+  "data": "2025-04-28T17:30:06.000Z",
+  "giorni": 0.5,
+  "conversazioni_diverse": [
+   "C1",
+   "C3",
+   "C4",
+   "C5"
+  ],
+  "classe": "uso normale",
+  "esempio": {
+   "conversazione": "C1",
+   "prima": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nHello, how are you?<|im_end|>\n<|im_start|>assistant\n",
+   "dopo": "<|im_start|>user\nHello, how are you?<|im_end|>\n<|im_start|>assistant\n"
+  }
+ },
+ {
+  "repo": "Qwen/Qwen3-4B-Base",
+  "file": "tokenizer_config.json",
+  "dopo": "08a151eb7f61cd599444a3fb2fe2008762111300",
+  "data": "2025-04-28T18:12:31.000Z",
+  "giorni": 0.5,
+  "conversazioni_diverse": [
+   "C1",
+   "C3",
+   "C4",
+   "C5"
+  ],
+  "classe": "uso normale",
+  "esempio": {
+   "conversazione": "C1",
+   "prima": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nHello, how are you?<|im_end|>\n<|im_start|>assistant\n",
+   "dopo": "<|im_start|>user\nHello, how are you?<|im_end|>\n<|im_start|>assistant\n"
+  }
+ },
+ {
+  "repo": "Qwen/Qwen3-1.7B-Base",
+  "file": "tokenizer_config.json",
+  "dopo": "36be17a0ee54955c2d50eb4af5a126b429874a6e",
+  "data": "2025-04-28T17:42:43.000Z",
+  "giorni": 0.5,
+  "conversazioni_diverse": [
+   "C1",
+   "C3",
+   "C4",
+   "C5"
+  ],
+  "classe": "uso normale",
+  "esempio": {
+   "conversazione": "C1",
+   "prima": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nHello, how are you?<|im_end|>\n<|im_start|>assistant\n",
+   "dopo": "<|im_start|>user\nHello, how are you?<|im_end|>\n<|im_start|>assistant\n"
+  }
+ },
+ {
+  "repo": "zai-org/GLM-5.1",
+  "file": "chat_template.jinja",
+  "dopo": "442b5279043b5f43f382003e7272731f680e1393",
+  "data": "2026-04-16T06:11:43.000Z",
+  "giorni": 11.5,
+  "conversazioni_diverse": [],
+  "classe": "nessun cambio visibile"
+ },
+ {
+  "repo": "Qwen/Qwen3-Coder-30B-A3B-Instruct",
+  "file": "tokenizer_config.json",
+  "dopo": "8110d98ad896c995124f3bc44b2f8dd695a4d252",
+  "data": "2025-08-07T07:08:04.000Z",
+  "giorni": 7.0,
+  "conversazioni_diverse": [
+   "C5"
+  ],
+  "classe": "solo con strumenti"
+ },
+ {
+  "repo": "Qwen/Qwen3-Coder-30B-A3B-Instruct",
+  "file": "chat_template.jinja",
+  "dopo": "573fa3901e5799703b1e60825b0ec024a4c0f1d3",
+  "data": "2025-08-21T10:18:32.000Z",
+  "giorni": 21.1,
+  "classe": "non confrontabile"
+ },
+ {
+  "repo": "Qwen/Qwen3-Coder-30B-A3B-Instruct",
+  "file": "tokenizer_config.json",
+  "dopo": "573fa3901e5799703b1e60825b0ec024a4c0f1d3",
+  "data": "2025-08-21T10:18:32.000Z",
+  "giorni": 21.1,
+  "conversazioni_diverse": [
+   "C5"
+  ],
+  "classe": "solo con strumenti"
+ },
+ {
+  "repo": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+  "file": "chat_template.jinja",
+  "dopo": "fc09b0df0896106d9bd6bcd7403905dd83fe12d7",
+  "data": "2026-08-20T23:50:51.000Z",
+  "giorni": 1.3,
+  "conversazioni_diverse": [
+   "C1",
+   "C2",
+   "C3",
+   "C4",
+   "C5"
+  ],
+  "classe": "uso normale",
+  "esempio": {
+   "conversazione": "C1",
+   "prima": "stem\nReasoning effort is set to xhigh. Please think carefully through the task, validate key assumptions, consider plausible alternatives, and prioritize correctness, consistency, and clarity in the final answer.<|im_end|>\n<|im_start|>user\nHello, how are you?<|im_end|>\n<|im_start|>assistant\n<think>\n",
+   "dopo": "<|im_start|>user\nHello, how are you?<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>\n\n"
+  }
+ },
+ {
+  "repo": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+  "file": "chat_template.jinja",
+  "dopo": "489c6c867824d9111e7c79e1ff645e78491fa7e2",
+  "data": "2026-08-23T17:42:37.000Z",
+  "giorni": 4.0,
+  "conversazioni_diverse": [
+   "C1",
+   "C2",
+   "C3",
+   "C5"
+  ],
+  "classe": "uso normale",
+  "esempio": {
+   "conversazione": "C1",
+   "prima": "<|im_start|>user\nHello, how are you?<|im_end|><|im_start|>assistant\n<think>\n\n</think>",
+   "dopo": "<|im_start|>user\nHello, how are you?<|im_end|><|im_start|>assistant<think>\n\n</think>"
+  }
+ },
+ {
+  "repo": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+  "file": "tokenizer_config.json",
+  "dopo": "a58c3b53b3ce71551eafde2ed5ec8df48e0f4ff8",
+  "data": "2026-08-24T17:47:52.000Z",
+  "giorni": 5.1,
+  "conversazioni_diverse": [
+   "C1",
+   "C2",
+   "C3",
+   "C4",
+   "C5"
+  ],
+  "classe": "uso normale",
+  "esempio": {
+   "conversazione": "C1",
+   "prima": "stem\nReasoning effort is set to xhigh. Please think carefully through the task, validate key assumptions, consider plausible alternatives, and prioritize correctness, consistency, and clarity in the final answer.<|im_end|>\n<|im_start|>user\nHello, how are you?<|im_end|>\n<|im_start|>assistant\n<think>\n",
+   "dopo": "<|im_start|>user\nHello, how are you?<|im_end|><|im_start|>assistant<think>\n\n</think>"
+  }
+ },
+ {
+  "repo": "llamafactory/tiny-random-Llama-3",
+  "file": "tokenizer_config.json",
+  "dopo": "c17693c90450da4160582668bfe65a60175d43e5",
+  "data": "2024-06-07T20:48:43.000Z",
+  "giorni": 0.1,
+  "conversazioni_diverse": [
+   "C1",
+   "C2",
+   "C3",
+   "C4",
+   "C5"
+  ],
+  "classe": "uso normale",
+  "esempio": {
+   "conversazione": "C1",
+   "prima": "<s>[INST] Hello, how are you? [/INST]",
+   "dopo": "<s><|start_header_id|>user<|end_header_id|>\n\nHello, how are you?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n"
+  }
+ },
+ {
+  "repo": "llamafactory/tiny-random-Llama-3",
+  "file": "tokenizer_config.json",
+  "dopo": "7aa8d3a6cad945714172439b0c60815289291b64",
+  "data": "2025-01-13T12:16:10.000Z",
+  "giorni": 219.8,
+  "conversazioni_diverse": [
+   "C1",
+   "C2",
+   "C3",
+   "C4",
+   "C5"
+  ],
+  "classe": "uso normale",
+  "esempio": {
+   "conversazione": "C1",
+   "prima": "<s><|start_header_id|>user<|end_header_id|>\n\nHello, how are you?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+   "dopo": "<s><|start_header_id|>system<|end_header_id|>\n\nCutting Knowledge Date: December 2023\nToday Date: 26 Jul 2024\n\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nHello, how are you?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n"
+  }
+ },
+ {
+  "repo": "llamafactory/tiny-random-Llama-3",
+  "file": "tokenizer_config.json",
+  "dopo": "b6475c3a7bd11f8d5056144b1c13d3d4ceb10026",
+  "data": "2025-01-13T12:23:28.000Z",
+  "giorni": 219.8,
+  "conversazioni_diverse": [
+   "C1",
+   "C2",
+   "C3",
+   "C4",
+   "C5"
+  ],
+  "classe": "uso normale",
+  "esempio": {
+   "conversazione": "C1",
+   "prima": "<s><|start_header_id|>system<|end_header_id|>\n\nCutting Knowledge Date: December 2023\nToday Date: 26 Jul 2024\n\n<|eot_id|><|start_header_id|>user<|end_header_id|>\n\nHello, how are you?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+   "dopo": "<s><|start_header_id|>user<|end_header_id|>\n\nHello, how are you?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n"
+  }
+ },
+ {
+  "repo": "MiniMaxAI/MiniMax-M2.7",
+  "file": "chat_template.jinja",
+  "dopo": "d7153aa1bfdcad43f7aa6f7fc8ddeb2e8da49306",
+  "data": "2026-04-09T14:17:34.000Z",
+  "giorni": 0.1,
+  "conversazioni_diverse": [
+   "C1",
+   "C3",
+   "C5"
+  ],
+  "classe": "uso normale",
+  "esempio": {
+   "conversazione": "C1",
+   "prima": "]~!b[]~b]system\nYou are a helpful assistant.[e~[\n]~b]user\nHello, how are you?[e~[\n]~b]ai\n<think>\n",
+   "dopo": "]~!b[]~b]system\nYou are a helpful assistant. Your name is MiniMax-M2.7 and is built by MiniMax.[e~[\n]~b]user\nHello, how are you?[e~[\n]~b]ai\n<think>\n"
+  }
+ },
+ {
+  "repo": "poolside/Laguna-XS.2",
+  "file": "tokenizer_config.json",
+  "dopo": "3ff0d45128bcf130915d97174439c5e88ab0a3d1",
+  "data": "2026-07-01T08:57:39.000Z",
+  "giorni": 63.8,
+  "classe": "non confrontabile"
+ },
+ {
+  "repo": "poolside/Laguna-M.1",
+  "file": "tokenizer_config.json",
+  "dopo": "4f8aa297f7866eaca7d955ee2960273d23010cd3",
+  "data": "2026-07-01T08:56:58.000Z",
+  "giorni": 12.9,
+  "classe": "non confrontabile"
+ },
+ {
+  "repo": "Qwen/Qwen3-8B-FP8",
+  "file": "tokenizer_config.json",
+  "dopo": "a8f74dfface525a7143ff3a196248434898fdf04",
+  "data": "2025-05-19T07:46:45.000Z",
+  "giorni": 20.8,
+  "conversazioni_diverse": [],
+  "classe": "nessun cambio visibile"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-32B-Instruct-GPTQ-Int4",
+  "file": "tokenizer_config.json",
+  "dopo": "9239191be9d2202d2018e2ed73e37b644b4b3816",
+  "data": "2024-09-18T02:13:21.000Z",
+  "giorni": 0.5,
+  "conversazioni_diverse": [
+   "C1",
+   "C3",
+   "C5"
+  ],
+  "classe": "uso normale",
+  "esempio": {
+   "conversazione": "C1",
+   "prima": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nHello, how are you?<|im_end|>\n<|im_start|>assistant\n",
+   "dopo": "<|im_start|>system\nYou are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>\n<|im_start|>user\nHello, how are you?<|im_end|>\n<|im_start|>assistant\n"
+  }
+ },
+ {
+  "repo": "Qwen/Qwen2.5-32B-Instruct-GPTQ-Int4",
+  "file": "tokenizer_config.json",
+  "dopo": "34f0b153f75fea7e00a683b7505f51f7fd08da25",
+  "data": "2024-09-19T07:30:26.000Z",
+  "giorni": 1.8,
+  "conversazioni_diverse": [
+   "C5"
+  ],
+  "classe": "solo con strumenti"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-72B-Instruct-AWQ",
+  "file": "tokenizer_config.json",
+  "dopo": "035adeffb861e8ee98344e2c7d8f50fe585e373d",
+  "data": "2024-09-19T07:30:38.000Z",
+  "giorni": 1.1,
+  "conversazioni_diverse": [
+   "C5"
+  ],
+  "classe": "solo con strumenti"
+ },
+ {
+  "repo": "NousResearch/Hermes-3-Llama-3.1-8B",
+  "file": "tokenizer_config.json",
+  "dopo": "db6a44dd23ecd3eb23b46234d44214998ab38540",
+  "data": "2024-08-06T03:33:28.000Z",
+  "giorni": 8.9,
+  "conversazioni_diverse": [
+   "C1",
+   "C2",
+   "C3",
+   "C4",
+   "C5"
+  ],
+  "classe": "uso normale",
+  "esempio": {
+   "conversazione": "C1",
+   "prima": "<|im_start|>user\nHello, how are you?<|im_end|>\n<|im_start|>assistant\n",
+   "dopo": "<s><|im_start|>user\nHello, how are you?<|im_end|>\n<|im_start|>assistant\n"
+  }
+ },
+ {
+  "repo": "NousResearch/Hermes-3-Llama-3.1-8B",
+  "file": "tokenizer_config.json",
+  "dopo": "f537e1048542f59a6ac3d2662ff36dd756755dde",
+  "data": "2024-08-18T22:00:20.000Z",
+  "giorni": 21.7,
+  "conversazioni_diverse": [],
+  "classe": "nessun cambio visibile"
+ },
+ {
+  "repo": "NousResearch/Hermes-3-Llama-3.1-8B",
+  "file": "tokenizer_config.json",
+  "dopo": "aa50cfc2048ce84e9734f79eb1cd76f8ed543661",
+  "data": "2024-08-22T10:12:10.000Z",
+  "giorni": 25.2,
+  "conversazioni_diverse": [
+   "C1",
+   "C3",
+   "C5"
+  ],
+  "classe": "uso normale",
+  "esempio": {
+   "conversazione": "C1",
+   "prima": "<s><|im_start|>user\nHello, how are you?<|im_end|>\n<|im_start|>assistant\n",
+   "dopo": "<s><|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nHello, how are you?<|im_end|>\n<|im_start|>assistant\n"
+  }
+ },
+ {
+  "repo": "NousResearch/Hermes-3-Llama-3.1-8B",
+  "file": "tokenizer_config.json",
+  "dopo": "5e3fd4817e213a9fd15a5bb3ec95788a6f04d4a5",
+  "data": "2024-09-05T07:35:38.000Z",
+  "giorni": 39.1,
+  "conversazioni_diverse": [],
+  "classe": "nessun cambio visibile"
+ },
+ {
+  "repo": "NousResearch/Hermes-3-Llama-3.1-8B",
+  "file": "tokenizer_config.json",
+  "dopo": "5ba4922000a4050f66d359446248817b40479c37",
+  "data": "2024-09-08T06:46:52.000Z",
+  "giorni": 42.0,
+  "conversazioni_diverse": [],
+  "classe": "nessun cambio visibile"
+ },
+ {
+  "repo": "NousResearch/Hermes-3-Llama-3.1-8B",
+  "file": "tokenizer_config.json",
+  "dopo": "ebcf7c1aca87a99f70e26cf59678587dd73ed4bf",
+  "data": "2024-09-08T07:25:22.000Z",
+  "giorni": 42.1,
+  "classe": "non confrontabile"
+ },
+ {
+  "repo": "NousResearch/Hermes-3-Llama-3.1-8B",
+  "file": "tokenizer_config.json",
+  "dopo": "489839286ef3415bd8c689dcdf96f812291e81ba",
+  "data": "2024-09-08T07:28:46.000Z",
+  "giorni": 42.1,
+  "classe": "non confrontabile"
+ },
+ {
+  "repo": "NousResearch/Hermes-3-Llama-3.1-8B",
+  "file": "tokenizer_config.json",
+  "dopo": "896ea440e5a9e6070e3d8a2774daf2b481ab425b",
+  "data": "2024-09-08T07:39:55.000Z",
+  "giorni": 42.1,
+  "conversazioni_diverse": [],
+  "classe": "nessun cambio visibile"
+ },
+ {
+  "repo": "poolside/Laguna-XS-2.1",
+  "file": "chat_template.jinja",
+  "dopo": "575f0f288a8e61da7492135a678c52dc371a7936",
+  "data": "2026-07-07T08:43:44.000Z",
+  "giorni": 4.7,
+  "conversazioni_diverse": [
+   "C1",
+   "C2",
+   "C3",
+   "C4",
+   "C5"
+  ],
+  "classe": "uso normale",
+  "esempio": {
+   "conversazione": "C1",
+   "prima": "〈|EOS|〉<user>\nHello, how are you?\n</user>\n<assistant>\n</think>",
+   "dopo": "〈|EOS|〉<system>You are a helpful, conversationally-fluent assistant made by Poolside. You are here to be helpful to users through natural language conversations.</system>\n<user>Hello, how are you?</user>\n<assistant></think>"
+  }
+ },
+ {
+  "repo": "poolside/Laguna-XS-2.1",
+  "file": "tokenizer_config.json",
+  "dopo": "205dc65dd4bda946c50da6b7522b215734fa107b",
+  "data": "2026-07-24T10:38:51.000Z",
+  "giorni": 21.8,
+  "classe": "non confrontabile"
+ },
+ {
+  "repo": "swiss-ai/Apertus-8B-Instruct-2509",
+  "file": "chat_template.jinja",
+  "dopo": "ffb69ffeb76480f975934e7c997feb857151c83b",
+  "data": "2025-09-01T22:39:33.000Z",
+  "giorni": 0.3,
+  "classe": "errore di rendering",
+  "errori": [
+   "__ERRORE__ UndefinedError"
+  ],
+  "conversazioni_diverse": [
+   "C1",
+   "C3"
+  ],
+  "esempio": {
+   "conversazione": "C1",
+   "prima": "<s><|system_start|><|system_end|><|developer_start|>Deliberation: disabled\nTool Capabilities: disabled<|developer_end|><|user_start|>Hello, how are you?<|user_end|><|assistant_start|>",
+   "dopo": "system_start|>You are Apertus, a helpful assistant created by the SwissAI initiative.\nKnowledge cutoff: 2024-04\nCurrent date: 2026-10-20<|system_end|><|developer_start|>Deliberation: disabled\nTool Capabilities: disabled<|developer_end|><|user_start|>Hello, how are you?<|user_end|><|assistant_start|>"
+  }
+ },
+ {
+  "repo": "swiss-ai/Apertus-8B-Instruct-2509",
+  "file": "chat_template.jinja",
+  "dopo": "cdb3e4f4ad41e0cc394bb92c302ac2eed57e9586",
+  "data": "2025-11-14T11:00:08.000Z",
+  "giorni": 73.8,
+  "classe": "errore di rendering",
+  "errori": [
+   "__ERRORE__ UndefinedError"
+  ],
+  "conversazioni_diverse": [
+   "C4"
+  ],
+  "esempio": {
+   "conversazione": "C4",
+   "prima": "<s><|system_start|>You are a helpful assistant.<|system_end|><|developer_start|>Deliberation: disabled\nTool Capabilities: disabled<|developer_end|><|user_start|>What is 2+2?<|user_end|><|assistant_start|>4",
+   "dopo": "<s><|system_start|>You are a helpful assistant.<|system_end|><|developer_start|>Deliberation: disabled\nTool Capabilities: disabled<|developer_end|><|user_start|>What is 2+2?<|user_end|><|assistant_start|>4<|assistant_end|>"
+  }
+ },
+ {
+  "repo": "Qwen/Qwen3-235B-A22B",
+  "file": "tokenizer_config.json",
+  "dopo": "d5280577feb14062e43e5d6ad97fcdf9d2f581cc",
+  "data": "2025-05-19T07:42:02.000Z",
+  "giorni": 20.9,
+  "conversazioni_diverse": [],
+  "classe": "nessun cambio visibile"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-Coder-1.5B-Instruct",
+  "file": "tokenizer_config.json",
+  "dopo": "71754d9e15bcc0c2223ad2854682b4ea58fd6f66",
+  "data": "2024-09-19T07:30:41.000Z",
+  "giorni": 0.8,
+  "conversazioni_diverse": [
+   "C5"
+  ],
+  "classe": "solo con strumenti"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-Coder-1.5B-Instruct",
+  "file": "tokenizer_config.json",
+  "dopo": "19ddfaeed64b22390fd727ac3caf3c2571fda6e3",
+  "data": "2024-09-20T03:47:19.000Z",
+  "giorni": 1.6,
+  "conversazioni_diverse": [
+   "C1",
+   "C3",
+   "C5"
+  ],
+  "classe": "uso normale",
+  "esempio": {
+   "conversazione": "C1",
+   "prima": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nHello, how are you?<|im_end|>\n<|im_start|>assistant\n",
+   "dopo": "<|im_start|>system\nYou are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>\n<|im_start|>user\nHello, how are you?<|im_end|>\n<|im_start|>assistant\n"
+  }
+ },
+ {
+  "repo": "Qwen/Qwen3-Coder-480B-A35B-Instruct-FP8",
+  "file": "tokenizer_config.json",
+  "dopo": "8fe13515933c3065538cad7de50bbca4b1af3e3b",
+  "data": "2025-07-22T17:26:20.000Z",
+  "giorni": 0.1,
+  "classe": "non confrontabile"
+ },
+ {
+  "repo": "Qwen/Qwen3-Coder-480B-A35B-Instruct-FP8",
+  "file": "tokenizer_config.json",
+  "dopo": "1f6f99b0d0f8e209a7574a946b440b1020a6f31b",
+  "data": "2025-08-07T07:07:09.000Z",
+  "giorni": 15.6,
+  "conversazioni_diverse": [
+   "C5"
+  ],
+  "classe": "solo con strumenti"
+ },
+ {
+  "repo": "Qwen/Qwen3-Coder-480B-A35B-Instruct-FP8",
+  "file": "chat_template.jinja",
+  "dopo": "61868e4047c896cd11faf7dc5bc0f9f73ba5ed95",
+  "data": "2025-08-21T10:08:13.000Z",
+  "giorni": 29.8,
+  "classe": "non confrontabile"
+ },
+ {
+  "repo": "Qwen/Qwen3-Coder-480B-A35B-Instruct-FP8",
+  "file": "chat_template.jinja",
+  "dopo": "003f183a92fbe5b9a8325aaa8b2ae797c91dd90f",
+  "data": "2025-08-21T10:40:35.000Z",
+  "giorni": 29.8,
+  "classe": "non confrontabile"
+ },
+ {
+  "repo": "Qwen/Qwen3-Coder-480B-A35B-Instruct-FP8",
+  "file": "tokenizer_config.json",
+  "dopo": "003f183a92fbe5b9a8325aaa8b2ae797c91dd90f",
+  "data": "2025-08-21T10:40:35.000Z",
+  "giorni": 29.8,
+  "conversazioni_diverse": [
+   "C5"
+  ],
+  "classe": "solo con strumenti"
+ },
+ {
+  "repo": "IlyaGusev/saiga_llama3_8b",
+  "file": "tokenizer_config.json",
+  "dopo": "d04705b3c527cc5f5b0ee48c170e4d921cf28d45",
+  "data": "2024-04-19T12:22:29.000Z",
+  "giorni": 0.7,
+  "conversazioni_diverse": [
+   "C1",
+   "C2",
+   "C3",
+   "C4",
+   "C5"
+  ],
+  "classe": "uso normale",
+  "esempio": {
+   "conversazione": "C1",
+   "prima": "<s><|start_header_id|>user<|end_header_id|>\n\nHello, how are you?<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n",
+   "dopo": "<|im_start|>system\nТы — Сайга, русскоязычный автоматический ассистент. Ты разговариваешь с людьми и помогаешь им.<|im_end|>\n<|im_start|>user\nHello, how are you?<|im_end|>\n<|im_start|>assistant\n"
+  }
+ },
+ {
+  "repo": "Qwen/Qwen2.5-Coder-1.5B",
+  "file": "tokenizer_config.json",
+  "dopo": "8fb5dcaecbef422c87aa43358f562efa33e6639c",
+  "data": "2024-09-19T07:30:40.000Z",
+  "giorni": 0.9,
+  "conversazioni_diverse": [
+   "C5"
+  ],
+  "classe": "solo con strumenti"
+ },
+ {
+  "repo": "Qwen/Qwen2.5-Coder-1.5B",
+  "file": "tokenizer_config.json",
+  "dopo": "d3586cfe793730945f8e4d7ef31032a3ee50247d",
+  "data": "2024-09-20T03:47:03.000Z",
+  "giorni": 1.7,
+  "conversazioni_diverse": [
+   "C1",
+   "C3",
+   "C5"
+  ],
+  "classe": "uso normale",
+  "esempio": {
+   "conversazione": "C1",
+   "prima": "<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\nHello, how are you?<|im_end|>\n<|im_start|>assistant\n",
+   "dopo": "<|im_start|>system\nYou are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>\n<|im_start|>user\nHello, how are you?<|im_end|>\n<|im_start|>assistant\n"
+  }
+ },
+ {
+  "repo": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
+  "file": "tokenizer_config.json",
+  "dopo": "6602cadec947dbb53e64f3d8d6425320b2197247",
+  "data": "2025-02-09T06:34:39.000Z",
+  "giorni": 19.9,
+  "conversazioni_diverse": [
+   "C1",
+   "C2",
+   "C3",
+   "C5"
+  ],
+  "classe": "uso normale",
+  "esempio": {
+   "conversazione": "C1",
+   "prima": "<s><｜User｜>Hello, how are you?<｜Assistant｜>",
+   "dopo": "<s><｜User｜>Hello, how are you?<｜Assistant｜><think>\n"
+  }
+ },
+ {
+  "repo": "microsoft/phi-4",
+  "file": "tokenizer_config.json",
+  "dopo": "6fbb3d3bbe726c99b4188087b4deeec1bceac5ae",
+  "data": "2025-02-04T11:51:00.000Z",
+  "giorni": 55.0,
+  "conversazioni_diverse": [],
+  "classe": "nessun cambio visibile"
+ }
+]
