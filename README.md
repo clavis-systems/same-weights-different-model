@@ -3,7 +3,7 @@
 **Post-release changes to chat templates and generation defaults in the 200 most-downloaded text-generation models on
 Hugging Face**
 
-Emanuele Rizzan, independent researcher (Italy). Draft, October 2026.
+Emanuele Rizzan, independent researcher (Italy). October 2026.
 
 ## In short
 
