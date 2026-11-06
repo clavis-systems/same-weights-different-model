@@ -5,6 +5,8 @@ Hugging Face**
 
 Emanuele Rizzan, independent researcher (Italy). October 2026.
 
+**Update, 6 November 2026:** a follow-up page, [WATCH.md](WATCH.md), also looks at weight files. Among 514 models created in the last 150 days by 23 large organisations, 47 had a weight file replaced under the same name (a new file hash) at least one day after release, and 88 more changed their behavior files with identical weight files. The page also has a first, small measurement of whether such a change alters the answers.
+
 ## In short
 
 I looked at the commit history of the 200 most-downloaded text-generation models on the Hugging Face Hub. I only
